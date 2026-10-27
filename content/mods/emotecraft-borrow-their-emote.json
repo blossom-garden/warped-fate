@@ -1,0 +1,23 @@
+{
+  "name": "Emotecraft: Borrow Their Emote (EBTE)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "KM1YbXvb",
+      "slug": "emotecraft-borrow-their-emote",
+      "versionId": "E6MP7xld",
+      "versionNumber": "1.0.1+26.2+fabric",
+      "filename": "emotecraft-borrow-their-emote-1.0.1+26.2+fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KM1YbXvb/versions/E6MP7xld/emotecraft-borrow-their-emote-1.0.1%2B26.2%2Bfabric.jar",
+      "sha1": "0df07eec039f6ec2ae2297175a163717c3f398f5",
+      "sha512": "632007a892ce6c4943553e1e2f5e845f4d87db3b2d9810dc012b4903b6d4d94ffc1d672a5bf78aa4ec367efb62811142c90c60541e1e1f3072b4c8df1a569c70",
+      "fileSize": 307356
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

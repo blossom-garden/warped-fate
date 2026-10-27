@@ -1,11 +1,12 @@
 # Warped Fate
 
-**Minecraft 26.2 · fabric 0.20.1**, 133 mods (37 dependencies), 15 resource packs
+**Minecraft 26.2 · fabric 0.20.1**, 133 mods (38 dependencies), 15 resource packs
 
 ## Contents
 
 - [[EMF] Entity Model Features](https://modrinth.com/project/entity-model-features) `3.3.12-fabric-26.2`
 - [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.2.6-fabric-26.2`
+- [Anabiosis](https://modrinth.com/project/anabiosis) `0.3.1`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.10+mc26.2`
 - [Archers (RPG Series)](https://modrinth.com/project/archers) `3.1.3.003+26.2-fabric`
 - [Armory (RPG Series)](https://modrinth.com/project/armory-rpg-series) `1.5.3.003+26.2-fabric`
@@ -28,7 +29,6 @@
 - [Clumps](https://modrinth.com/project/clumps) `26.2.1`
 - [Continuity](https://modrinth.com/project/continuity) `3.0.1+26.2`
 - [Cool Rain](https://modrinth.com/project/coolrain) `1.4.0-26.2`
-- [Crash Assistant](https://modrinth.com/project/crash-assistant) `1.11.14`
 - [Crate Delight](https://modrinth.com/project/crate-delight) `26.07.01-26.2-fabric`
 - [Crawl](https://modrinth.com/project/crawl) `0.15.0`
 - [Critical Strike](https://modrinth.com/project/critical-strike) `1.0.6+26.2-fabric`
@@ -45,6 +45,7 @@
 - [EMF Compat: Better Combat](https://modrinth.com/project/emf-compat-better-combat) `2.1.0`
 - [Emotecraft](https://modrinth.com/project/emotecraft) `3.4.0-b.build.170`
 - [Emotecraft Recording Addon](https://modrinth.com/project/emotecraft-recording-addon) `1.5.0-26.2`
+- [Emotecraft: Borrow Their Emote (EBTE)](https://modrinth.com/project/emotecraft-borrow-their-emote) `1.0.1+26.2+fabric`
 - [Enchancement](https://modrinth.com/project/enchancement) `26.2-r9`
 - [EnhancedVisuals](https://modrinth.com/project/enhancedvisuals) `1.8.35`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
@@ -86,10 +87,8 @@
 - [Language Reload](https://modrinth.com/project/language-reload) `1.7.8+26.2`
 - [Leawind's Third Person](https://modrinth.com/project/leawind-third-person) `3.0.3-beta+fabric-26.2`
 - [Liteminer](https://modrinth.com/project/liteminer) `4.5.2+26.2`
-- [Lithium](https://modrinth.com/project/lithium) `mc26.2-0.25.3-fabric`
 - [Lootr](https://modrinth.com/project/lootr) `1.24.41.124`
 - [lumaLight](https://modrinth.com/project/lumalight) `3.0.0`
-- [MagicParticles](https://modrinth.com/project/magicparticles) `1.3.2+26.2`
 - [Mob Chains](https://modrinth.com/project/mob-chains) `1.0.0`
 - [Mod Menu](https://modrinth.com/project/modmenu) `20.0.3`
 - [Modifier Keybinds](https://modrinth.com/project/modifier-keybinds) `1.1.0+26.2-fabric`
@@ -97,6 +96,7 @@
 - [Motion Capture](https://modrinth.com/project/motion-capture) `1.3.10-fabric-26.2`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `26.2-2.31-fabric`
 - [My Nether's Delight Refabricated](https://modrinth.com/project/my-nethers-delight-refabricated) `3.0.0-1.10.4-beta.1+26.2`
+- [MyChatEmotes](https://modrinth.com/project/mychatemotes) `1.1`
 - [Nautilus Studio - Packs Editor IDE](https://modrinth.com/project/packs-editor) `26.2-1.11.0`
 - [Nearby Delight](https://modrinth.com/project/nearby-delight) `1.3.0`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `Fabric-26.2-v2.20.2`

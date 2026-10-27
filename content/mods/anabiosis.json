@@ -1,0 +1,23 @@
+{
+  "name": "Anabiosis",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "7rWF6EtP",
+      "slug": "anabiosis",
+      "versionId": "L9ebqu4h",
+      "versionNumber": "0.3.1",
+      "filename": "anabiosis-0.3.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/7rWF6EtP/versions/L9ebqu4h/anabiosis-0.3.1.jar",
+      "sha1": "4ecc1804b626a28c01f2777ba1d7c7abdc8dab90",
+      "sha512": "62c2d7690bd5ac654ba37d4777d89ce711f96658aeab03602227e96835c298a6d26b891438d3c0865169ffc14b113c12ec92034248a751d70f85de1d0d023d29",
+      "fileSize": 50422
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

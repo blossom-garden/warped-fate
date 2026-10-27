@@ -5,6 +5,10 @@
       "sha1": "1e0b5086dc2d42c2140d27ebdb6dbc393c35672f"
     },
     {
+      "path": "content/mods/anabiosis.json",
+      "sha1": "1b628e3ed5b4b8b353c9fc5b59f6e7370c4d16aa"
+    },
+    {
       "path": "content/mods/appleskin.json",
       "sha1": "674fce9a505690140c2131d470d6dcde0f6ecea9"
     },
@@ -125,10 +129,6 @@
       "sha1": "fb5fd4aa530adfb6ff00ec80f152ba089c10910a"
     },
     {
-      "path": "content/mods/crash-assistant.json",
-      "sha1": "dbb96f4529779cf64741e75c908987108fe16801"
-    },
-    {
       "path": "content/mods/crate-delight.json",
       "sha1": "b6055b573c80174b3cf13f17c35f354ca999adbf"
     },
@@ -197,6 +197,10 @@
       "sha1": "b088a0dfcb478b5d74e536eb82965ba9c84b9d05"
     },
     {
+      "path": "content/mods/emotecraft-borrow-their-emote.json",
+      "sha1": "876a42db545778c57a19b870238d6f280fc0d9f6"
+    },
+    {
       "path": "content/mods/emotecraft-recording-addon.json",
       "sha1": "81266b018cff89efe9f5fac94d1e79fa25dcb097"
     },
@@ -230,7 +234,7 @@
     },
     {
       "path": "content/mods/fabric-api.json",
-      "sha1": "aef75daad35f15a31a2a936597604c0c456b605f"
+      "sha1": "27dd69476e292541e22c84be44f6fbc4c8811203"
     },
     {
       "path": "content/mods/fabric-language-kotlin.json",
@@ -377,10 +381,6 @@
       "sha1": "0b0283748d89272bbcf6f6a120c12cbc62bc3b6c"
     },
     {
-      "path": "content/mods/lithium.json",
-      "sha1": "e615fc91a01e63d58543c72a22567298890afb4a"
-    },
-    {
       "path": "content/mods/lithostitched.json",
       "sha1": "d90c250540ac4986a9478b307ecb26ba8d6879db"
     },
@@ -391,10 +391,6 @@
     {
       "path": "content/mods/lumalight.json",
       "sha1": "c713ba292ce14d3030c3c7bce15788b5682b7b05"
-    },
-    {
-      "path": "content/mods/magicparticles.json",
-      "sha1": "afaabdf9b55b5f3c74f3a2658ec96d2f264c7262"
     },
     {
       "path": "content/mods/melody.json",
@@ -410,7 +406,7 @@
     },
     {
       "path": "content/mods/modmenu.json",
-      "sha1": "f2f0118eec6b861fd9f4b326b3cdeb00c3d55a6b"
+      "sha1": "6077d5d2879370076afb3c9b86a7e485d980e93f"
     },
     {
       "path": "content/mods/modonomicon.json",
@@ -419,6 +415,10 @@
     {
       "path": "content/mods/more-delight.json",
       "sha1": "5c95a5ab7f66122f6f377527fe5bad579ea2e7c4"
+    },
+    {
+      "path": "content/mods/mossylib.json",
+      "sha1": "3a1ec1814cdbc65daf6e708c8693f37379507622"
     },
     {
       "path": "content/mods/motion-capture.json",
@@ -431,6 +431,10 @@
     {
       "path": "content/mods/my-nethers-delight-refabricated.json",
       "sha1": "0979637e2d10129d30e0ef933cc6633518531fe0"
+    },
+    {
+      "path": "content/mods/mychatemotes.json",
+      "sha1": "b38a675cc51e8255872079f1612d7fea7ce1edda"
     },
     {
       "path": "content/mods/nearby-delight.json",
@@ -666,7 +670,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "ef78374f9dabfa3766f420f24ffba991f15c289a"
+      "sha1": "a3f8bb5fd45b807b9c5e6c78306b2b4f9c128c73"
     },
     {
       "path": "content/mods/zconfig.json",
@@ -743,6 +747,10 @@
     {
       "path": "overrides/icon.png",
       "sha1": "4b3e0a6318cc7e197e49acbe3b4d346a7b84a4dd"
+    },
+    {
+      "path": "overrides/options.txt",
+      "sha1": "0f6d72a8aa25c21187a56ff4f6ddeddac9ff2497"
     }
   ]
 }
