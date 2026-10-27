@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "mc1uvRn8",
       "slug": "origins-legacy",
-      "versionId": "7CqsxVdL",
-      "versionNumber": "1.12.20+26.3",
-      "filename": "Origins-Legacy-1.12.20+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/mc1uvRn8/versions/7CqsxVdL/Origins-Legacy-1.12.20%2B26.3.jar",
-      "sha1": "8ebe4cbd03fbb968cc1a2721b0553ac5c6ed248d",
-      "sha512": "9d513c743b2aee589feabd0b03c2d93b0dec40b4ba3a5afceb76fbdba56cf4565f84fe4ca9eb3045833e6d01f1c2243da7bcdc16a410131b38f34543fda177ab",
-      "fileSize": 2780244
+      "versionId": "8vVu8FGY",
+      "versionNumber": "1.12.19+26.2",
+      "filename": "Origins-Legacy-1.12.19+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/mc1uvRn8/versions/8vVu8FGY/Origins-Legacy-1.12.19%2B26.2.jar",
+      "sha1": "79a20cd80dab5d2108a135369d18ab099c07af57",
+      "sha512": "cacf9a78cb680b683733aa49f3cb7a5d4319097e7e94628eb6058e16ab6cb911ef32f1ef515d79c12d05c3dae0549e1e742adaade2635325853164b0346a6657",
+      "fileSize": 2781387
     }
   },
   "dependents": [],

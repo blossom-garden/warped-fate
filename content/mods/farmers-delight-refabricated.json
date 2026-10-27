@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "7vxePowz",
       "slug": "farmers-delight-refabricated",
-      "versionId": "dRScyUeE",
-      "versionNumber": "26.3-3.6.30",
-      "filename": "FarmersDelight-26.3-3.6.30+refabricated.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/7vxePowz/versions/dRScyUeE/FarmersDelight-26.3-3.6.30%2Brefabricated.jar",
-      "sha1": "691967a54ec63e012c7447ff3960eb595ca31d13",
-      "sha512": "099f724599022ac9232f265d62907fdde6ad48a73b246d45930d938a7f850be6a8b520244ffa218a59fdef96b0170fc0c04f00ff91f108b5a02bbc4cb2a013bc",
-      "fileSize": 3482244
+      "versionId": "J6sAZl6u",
+      "versionNumber": "26.2-3.6.30",
+      "filename": "FarmersDelight-26.2-3.6.30+refabricated.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/7vxePowz/versions/J6sAZl6u/FarmersDelight-26.2-3.6.30%2Brefabricated.jar",
+      "sha1": "834008079679c9b72617364c140c3be943d76506",
+      "sha512": "c47e5e278b7efaf4cc5e3a2e3207b42db50684342276077e7425714a25000a331d913b7803d9769f12c1ab9c790602c605bace7da32e077ce471de70764d26b5",
+      "fileSize": 3471321
     }
   },
   "dependents": [

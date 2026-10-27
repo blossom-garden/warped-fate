@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "J81TRJWm",
       "slug": "konkrete",
-      "versionId": "pQLA2B54",
-      "versionNumber": "1.11.1-26.3-fabric",
-      "filename": "konkrete_fabric_1.11.1_MC_26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/J81TRJWm/versions/pQLA2B54/konkrete_fabric_1.11.1_MC_26.3.jar",
-      "sha1": "61412064baed880464ad30ef54cba93be8dccd67",
-      "sha512": "ef6b12dbf3f616ba4089e706f27d76c543987f4a20509bf3def711ddb9279b94170c67228b9e44a2e2c189a80a7c9a5cd4c7e079281b7ac1cb0ec7d9c46b9aa8",
-      "fileSize": 1214374
+      "versionId": "Ra1AWDOa",
+      "versionNumber": "1.11.1-26.2-fabric",
+      "filename": "konkrete_fabric_1.11.1_MC_26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/J81TRJWm/versions/Ra1AWDOa/konkrete_fabric_1.11.1_MC_26.2.jar",
+      "sha1": "5f7e89dc14016ae63a504780a1d2c2f50d1c0c7e",
+      "sha512": "9679b1512ec7fd64a5ac49c2de24daabc6308956d7c5144e5c6d6f8ed5f6d40c3fa903ec329adf315a8ea806b841a49b6f5521edeec3ea114a9d2abef5e06154",
+      "fileSize": 764987
     }
   },
   "dependents": [

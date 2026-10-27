@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "XaT8sLP6",
       "slug": "trinkets-updated",
-      "versionId": "lVR1OKgV",
-      "versionNumber": "4.2.1+26.3",
-      "filename": "trinkets-4.2.1+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/XaT8sLP6/versions/lVR1OKgV/trinkets-4.2.1%2B26.3.jar",
-      "sha1": "134fa691e3afac2236bd72e8a07ebfeabaacd531",
-      "sha512": "d4038e93b95462cff05075dad5b97669871f62212c0228ec6483782e22476d0354d1869f0e523fdb23b2a233fa0f15ff01d497fd2c8a5292ab20838dc464d15a",
-      "fileSize": 663821
+      "versionId": "YH8OYfzQ",
+      "versionNumber": "4.1.1+26.2",
+      "filename": "trinkets-4.1.1+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XaT8sLP6/versions/YH8OYfzQ/trinkets-4.1.1%2B26.2.jar",
+      "sha1": "c4b11fabec2ab352c65a92b0b6ccf9a189375455",
+      "sha512": "ece794fcfa4360727a991bac6e2973e8cb26c15156d806f6a28c166869084e28d4a3870d11b409b09f406a7b5623aefb7a09285cc1eb94a862d5f2c4c7b9d63f",
+      "fileSize": 663529
     }
   },
   "dependents": [

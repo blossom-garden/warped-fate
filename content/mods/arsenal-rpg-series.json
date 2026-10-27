@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "LiP9Q3KV",
       "slug": "arsenal-rpg-series",
-      "versionId": "wb7KcnBT",
-      "versionNumber": "1.5.1+26.3-fabric",
-      "filename": "arsenal-fabric-1.5.1+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/LiP9Q3KV/versions/wb7KcnBT/arsenal-fabric-1.5.1%2B26.3.jar",
-      "sha1": "bafaed8ace7bc6a277d76d0766ad84951e817c05",
-      "sha512": "926969d54386a0cfc7bacd335482b171c787cc3f6e6ba470c3fa99f47cb6114017bbc3226bdaf95b51effa54acdca49cfd4d38e1488f58d9566cabbb6a5b75dd",
-      "fileSize": 1209705
+      "versionId": "RLUAJaXX",
+      "versionNumber": "1.5.1+26.2-fabric",
+      "filename": "arsenal-fabric-1.5.1+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LiP9Q3KV/versions/RLUAJaXX/arsenal-fabric-1.5.1%2B26.2.jar",
+      "sha1": "0ccd2554865e006ad794d13298f18700be84f165",
+      "sha512": "ab89d211a4d88b49c2ce84b5308fbee7d81d31d1af9e0bbc095ef21b812f4e064ef3a57ad9061a305fd5786df7b8084de6f83cee8d55ccf9e4dc311226b99f70",
+      "fileSize": 1209707
     }
   },
   "dependents": [],

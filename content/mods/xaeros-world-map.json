@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "NcUtCpym",
       "slug": "xaeros-world-map",
-      "versionId": "VM8lNSSM",
-      "versionNumber": "fabric-26.3-1.47.2",
-      "filename": "xaeroworldmap-fabric-26.3-1.47.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/NcUtCpym/versions/VM8lNSSM/xaeroworldmap-fabric-26.3-1.47.2.jar",
-      "sha1": "1282302b6c92050cfab7c1db45cf3d92d9a331c5",
-      "sha512": "cac3c0fb3121ddebc7f073571dcbce5f1811ca001ea94ef03c1da667e8a3413144f570c4b593f632358eff98fa138631ed7907fd1bd5da7d43c037ea782125fb",
-      "fileSize": 1488669
+      "versionId": "W8qSt5Gs",
+      "versionNumber": "fabric-26.2-1.47.2",
+      "filename": "xaeroworldmap-fabric-26.2-1.47.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NcUtCpym/versions/W8qSt5Gs/xaeroworldmap-fabric-26.2-1.47.2.jar",
+      "sha1": "259b747c39c61df1ad96f6c4caefa9934cb6aaa5",
+      "sha512": "0ea2501a0cc1085a4540c5af49674ce420314f3e725acd1b8f458be71526ac331c04c3eb65c443cd3c1ef24a397856b33b8a567f8eecf4c80bbfbff03258eb70",
+      "fileSize": 1484601
     }
   },
   "dependents": [],

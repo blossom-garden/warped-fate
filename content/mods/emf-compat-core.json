@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "hbGct5uU",
       "slug": "emf-compat-core",
-      "versionId": "oOuwcnpx",
+      "versionId": "Qt2nJ3jp",
       "versionNumber": "2.3.2",
-      "filename": "emf_compat_core_fabric_26.3_2.3.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/hbGct5uU/versions/oOuwcnpx/emf_compat_core_fabric_26.3_2.3.2.jar",
-      "sha1": "73a1ca31addbe24823f0494f0f26ab74d4102664",
-      "sha512": "7cf5dea1372e9db532e7ceb3330bbc602f9336b4e5ab4fb344471cbed41b36353072aa40b7d4001cb1be5b2e11a896b9072e2832ea8cdcab1ce447e36fe63e46",
-      "fileSize": 175112
+      "filename": "emf_compat_core_fabric_26.2_2.3.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hbGct5uU/versions/Qt2nJ3jp/emf_compat_core_fabric_26.2_2.3.2.jar",
+      "sha1": "d6f9ff72769a7e4f9ea0c33ce5bad7add88fb8c7",
+      "sha512": "d1de1e2c93719108a833e61a384f3c824715ad64e55aba569ecc02acda26f2cbaccdab1733137aa4203505dee86b6aaa26432e4c8736b02272e5f29b8f92cb66",
+      "fileSize": 175080
     }
   },
   "dependents": [

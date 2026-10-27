@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "Wq5SjeWM",
       "slug": "fancymenu",
-      "versionId": "CBLbyHzH",
-      "versionNumber": "3.9.14-26.3-fabric",
-      "filename": "fancymenu_fabric_3.9.14_MC_26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/CBLbyHzH/fancymenu_fabric_3.9.14_MC_26.3.jar",
-      "sha1": "0610f18c4f35521e8d378ba3eef41f2c496f1e61",
-      "sha512": "98d1cfb0e39d25a7e0e80b5f0d6511de192c79b917c728236a2723ed6f488d0d66a2310bcb7a4216003a9b818fb986b5c2f1f4824e279074b49e802ef8f18fc6",
-      "fileSize": 26787759
+      "versionId": "2BXE3l12",
+      "versionNumber": "3.9.14-26.2-fabric",
+      "filename": "fancymenu_fabric_3.9.14_MC_26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/2BXE3l12/fancymenu_fabric_3.9.14_MC_26.2.jar",
+      "sha1": "fcee5c70ef7a84d8f45f29c64a03019fee7caee3",
+      "sha512": "79037a685a065fb8999d5953aca00c884d010ad6ad456e449e620736e2a511e4afb70330046ae71fddf959842604440cd5aab7bf6a9b3215f7b8c42d7679121a",
+      "fileSize": 26301936
     }
   },
   "dependents": [

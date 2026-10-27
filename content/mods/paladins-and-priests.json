@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "FxXkHaLe",
       "slug": "paladins-and-priests",
-      "versionId": "miPZjBNT",
-      "versionNumber": "3.1.4.1+26.3-fabric",
-      "filename": "paladins-fabric-3.1.4.1+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/FxXkHaLe/versions/miPZjBNT/paladins-fabric-3.1.4.1%2B26.3.jar",
-      "sha1": "fca854f8ee6c42218181e5ea850ad6a55e336500",
-      "sha512": "89e326d1d37823344b51af051d4011176f0d76d02f5ac0626ab5720cf94b4823873a7d9aeebe66e7ca6c2a63a095f525caca1f78456b0d1f1709a4b7fba707fe",
-      "fileSize": 3139847
+      "versionId": "efOiZaIv",
+      "versionNumber": "3.1.3.003+26.2-fabric",
+      "filename": "paladins-fabric-3.1.3.003+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/FxXkHaLe/versions/efOiZaIv/paladins-fabric-3.1.3.003%2B26.2.jar",
+      "sha1": "1ea01519868ee3ea8b1037d4992e0e7b09ac23b1",
+      "sha512": "237dc9e2cbcb28c4a1b02a73a14afd5b062ec23dce486b18d3f391d3cbc2cc9e760cff226efef1a267b6cc5f4b2c1ced3276c3912a1bd3e8d78e36eb540f8dca",
+      "fileSize": 3138662
     }
   },
   "dependents": [],

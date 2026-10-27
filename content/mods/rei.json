@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "nfn13YXA",
       "slug": "rei",
-      "versionId": "rKsAE6bX",
-      "versionNumber": "26.3.824+fabric",
-      "filename": "RoughlyEnoughItems-26.3.824.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/nfn13YXA/versions/rKsAE6bX/RoughlyEnoughItems-26.3.824.jar",
-      "sha1": "b7bfe27288f68027fab7277f4cf84b9d243f8978",
-      "sha512": "7724d8e8dc50248641686c878b6b60736572c49e0cd8c71640c1c57fe85aed9941cad8ff7806b923903253da3540ff3df9bf619d701f50b904990fa7cdd59ee9",
-      "fileSize": 2421605
+      "versionId": "4o0NSIMj",
+      "versionNumber": "26.2.820+fabric",
+      "filename": "RoughlyEnoughItems-26.2.820.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nfn13YXA/versions/4o0NSIMj/RoughlyEnoughItems-26.2.820.jar",
+      "sha1": "a57f1180a72e5f5541ad3cf63a799e95140882e6",
+      "sha512": "4691c4a95fc949919bd80bd568e7b8e5fa67e1bd434584d4789e255157bda20e16862e905a26ab6d68f07bafcaa85aef26c7be09b3b9c25aca96affafdf3277d",
+      "fileSize": 2419949
     }
   },
   "dependents": [],

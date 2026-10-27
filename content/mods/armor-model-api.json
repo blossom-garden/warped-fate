@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "onz2NN2n",
       "slug": "armor-model-api",
-      "versionId": "1smYVF1k",
-      "versionNumber": "1.1.2+26.3-fabric",
-      "filename": "armor_model_api-fabric-1.1.2+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/onz2NN2n/versions/1smYVF1k/armor_model_api-fabric-1.1.2%2B26.3.jar",
-      "sha1": "ad42a4703f3b3dd2151c5a8269868308af37bf87",
-      "sha512": "ed2f56f08979b16928ec86cf9fc58d027b1bb5a8e62cba8fb0b8a459d4feae70f29a39087822ce1ea00b6a665b44d62d5388d9860ea2f679aa29e03fc48cf5a3",
-      "fileSize": 101021
+      "versionId": "v25Jo0f4",
+      "versionNumber": "1.1.2+26.2-fabric",
+      "filename": "armor_model_api-fabric-1.1.2+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/onz2NN2n/versions/v25Jo0f4/armor_model_api-fabric-1.1.2%2B26.2.jar",
+      "sha1": "6013654db02bfc61e9b2b506ec7e8ffba522b094",
+      "sha512": "c2b0d1080a55003d68649bfd8fc3f8f3cd99a1d48e8efc0750ae9d1d11c1d97fc18d3c5338dc1be19fa49296bb4998c3f5470d5ec73cbcb448f769f7ad56595f",
+      "fileSize": 100413
     }
   },
   "dependents": [

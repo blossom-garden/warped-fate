@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "5srFLIaK",
       "slug": "better-clouds",
-      "versionId": "mo1L4rI7",
-      "versionNumber": "1.15.0-beta.7",
-      "filename": "better-clouds-1.15.0-beta.7+26.3-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/5srFLIaK/versions/mo1L4rI7/better-clouds-1.15.0-beta.7%2B26.3-fabric.jar",
-      "sha1": "ae7771308dd9d2c0e0b03c9ad073262e2b36e9b4",
-      "sha512": "1fd3814991982765e928654da910aa3ffa8350f6d1109ba0299df26477dcace186d29f0fb7ab9d995a38e5d24c2df303c5338bf731158c6414372b4cfbcfe404",
-      "fileSize": 1447405
+      "versionId": "6hLnIcGQ",
+      "versionNumber": "1.14.4",
+      "filename": "better-clouds-1.14.4+26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5srFLIaK/versions/6hLnIcGQ/better-clouds-1.14.4%2B26.2-fabric.jar",
+      "sha1": "174562cf10af91a55817ceb12d2a5af7f7be9ac3",
+      "sha512": "82aefd76c87c1784dabc46b1bbe03facc3bd77bd7cfa3a20f6ecbedeb21ce17a000bbc7536aa3220e1b3e86a47e1b09b93ead9c9570e4ab4cf9c7b2672b76711",
+      "fileSize": 1450548
     }
   },
   "dependents": [],

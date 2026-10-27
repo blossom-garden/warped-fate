@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "LQ3K71Q1",
       "slug": "dynamic-fps",
-      "versionId": "Jwq069rR",
-      "versionNumber": "3.11.10",
-      "filename": "dynamic-fps-3.11.10+minecraft-26.3.0-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Jwq069rR/dynamic-fps-3.11.10%2Bminecraft-26.3.0-fabric.jar",
-      "sha1": "a4860c9480f0ce1a468e1e4c254214b1f97e19b3",
-      "sha512": "7976d11411babfa3ac0c38898f26ee6192f22a4f595b637eeae3cc5185f326c0e4b9fd7d00b3d7e8d020dd861295f0df52f9a9d7c67e88946d0ba9fff4a9f894",
-      "fileSize": 189474
+      "versionId": "pC2JjFw1",
+      "versionNumber": "3.11.9",
+      "filename": "dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/pC2JjFw1/dynamic-fps-3.11.9%2Bminecraft-26.2.0-fabric.jar",
+      "sha1": "e8cd9e4fbc6d42091faffc873b0801f1189ed6a5",
+      "sha512": "79b13548d7e9de9abfa23e062724a885e5341f371c500d6570056ecea7db00c2f7ace5a7288179ad8baec575b4aa992b91dccbc940c584cb5cddf0bc7aeb892f",
+      "fileSize": 188740
     }
   },
   "dependents": [],

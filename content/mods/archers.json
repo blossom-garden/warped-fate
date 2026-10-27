@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "QgooUXAJ",
       "slug": "archers",
-      "versionId": "SXwTz6Sf",
-      "versionNumber": "3.1.4+26.3-fabric",
-      "filename": "archers-fabric-3.1.4+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/QgooUXAJ/versions/SXwTz6Sf/archers-fabric-3.1.4%2B26.3.jar",
-      "sha1": "4881abae4b3bfa38188b530768c9145190323013",
-      "sha512": "afda3614fe6391d12c1b276b58e499dcaf913a4665080db7d1b589da2a6f71d2132d8e2a85a365956a64e0a62628d634d9a4f60c08b60855bd14476084a8c79d",
-      "fileSize": 964820
+      "versionId": "YeNcwLgu",
+      "versionNumber": "3.1.3.003+26.2-fabric",
+      "filename": "archers-fabric-3.1.3.003+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/QgooUXAJ/versions/YeNcwLgu/archers-fabric-3.1.3.003%2B26.2.jar",
+      "sha1": "f33e2ceddb27b34a52b30a1e3b83772386e21acb",
+      "sha512": "9a7968fc8cf90ec7e50ae5f612cbb55061d1ca8e9ba0d5744ffc610547e681d7297c7c2cc01254639cfc2a3ff77f60f8ef1c346bfd408ad43f20fb100341b972",
+      "fileSize": 963965
     }
   },
   "dependents": [],

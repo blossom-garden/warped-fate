@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "lhGA9TYQ",
       "slug": "architectury-api",
-      "versionId": "1pMaB6So",
-      "versionNumber": "22.0.5+fabric",
-      "filename": "architectury-fabric-22.0.5.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1pMaB6So/architectury-fabric-22.0.5.jar",
-      "sha1": "8c5f566e32bd47fbb80be4932b9be1cfa97c4e3a",
-      "sha512": "14c61af2088b80b465f06edd3b3005038fa5be1c95a2161ce712c8da408a358038b7cd7ae4acf3198f6d47c693e4fdf65d646dac7e124f7cdd7f32bbc0dcd0ce",
-      "fileSize": 622542
+      "versionId": "ohb3PBGZ",
+      "versionNumber": "21.1.12+fabric",
+      "filename": "architectury-fabric-21.1.12.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ohb3PBGZ/architectury-fabric-21.1.12.jar",
+      "sha1": "13358dcb2fcd29890f9ee73109553c179940c9e6",
+      "sha512": "df244fce6ffe38209e70d88696e05570e261b43780f76bd19e7a1813ffc29e128b21de6776816f3e76e50ffa0dcd32141fc3a09e5c33066f46e35d9d364dc173",
+      "fileSize": 624143
     }
   },
   "dependents": [

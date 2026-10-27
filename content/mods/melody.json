@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "CVT4pFB2",
       "slug": "melody",
-      "versionId": "gjl2Yw81",
-      "versionNumber": "1.0.17-26.3-fabric",
-      "filename": "melody_fabric_1.0.17_MC_26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/CVT4pFB2/versions/gjl2Yw81/melody_fabric_1.0.17_MC_26.3.jar",
-      "sha1": "c6ee7eacb54c23fce78fce8c084aa5b2fba910c8",
-      "sha512": "f0ac30c3a0eb0908d05824a9a43e44c614a95dc99b4cba9abeea750406430fde21d6e26bae5a1e5c63b63359e49d4bc96ced32400717fc72064c50826e11b9ca",
-      "fileSize": 681316
+      "versionId": "ItVQn1cW",
+      "versionNumber": "1.0.17-26.2-fabric",
+      "filename": "melody_fabric_1.0.17_MC_26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/CVT4pFB2/versions/ItVQn1cW/melody_fabric_1.0.17_MC_26.2.jar",
+      "sha1": "73a6216fcdae3928bd387a26a68318be9db83841",
+      "sha512": "4f1b414688c546c62ba66d362454778c060c82f6556bb55af5f3f624d37059bdbd7361051d0f2a958f1acc799a210fc7408a806f199ff69ba6bb27162b50bd47",
+      "fileSize": 227497
     }
   },
   "dependents": [

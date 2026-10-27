@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "XvoWJaA2",
       "slug": "spell-engine",
-      "versionId": "kgVsejrW",
-      "versionNumber": "1.10.9+26.3-fabric",
-      "filename": "spell_engine-fabric-1.10.9+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/XvoWJaA2/versions/kgVsejrW/spell_engine-fabric-1.10.9%2B26.3.jar",
-      "sha1": "7315ceea437dd46789559eb3852a7db9fa1bdb74",
-      "sha512": "b6e9e1b0e6b5e2b51912385d0a0af79eab911bedd97a5ec1b9174110736385f9d386e3f3715fb9b32ac95fb94476d0793831b48eca8ff82d0a1a3076d0c27dba",
-      "fileSize": 4763225
+      "versionId": "QBsRwj9A",
+      "versionNumber": "1.10.9+26.2-fabric",
+      "filename": "spell_engine-fabric-1.10.9+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XvoWJaA2/versions/QBsRwj9A/spell_engine-fabric-1.10.9%2B26.2.jar",
+      "sha1": "d004b43373ceaa0e656c80067a8c43e37c7b9a06",
+      "sha512": "9210a8348b89cbb999d81aa96b1bafaacc287dc5a820ce75d9a33a162bf9ed0f7ddc5a408ce11147f6dfdc6f4ede46f9a027c43bc44fccb8e3d61db862a48f92",
+      "fileSize": 4758073
     }
   },
   "dependents": [

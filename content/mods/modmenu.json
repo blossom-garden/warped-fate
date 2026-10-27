@@ -8,17 +8,18 @@
     "modrinth": {
       "id": "mOgUt4GM",
       "slug": "modmenu",
-      "versionId": "kyy7dbrZ",
-      "versionNumber": "21.0.0",
-      "filename": "modmenu-21.0.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/mOgUt4GM/versions/kyy7dbrZ/modmenu-21.0.0.jar",
-      "sha1": "66ec40f1cd0c037ddca2b5fc6b4b976d479c18e8",
-      "sha512": "588c0c557963f4778572ee81bfafc190b332c26d5926c5fe7e3e1614dcf8e14f58e3bc80a97694521dd05907e9753a7c8575048ea769e4dbf40a3db74a4e2606",
-      "fileSize": 856779
+      "versionId": "iRo7AZXf",
+      "versionNumber": "20.0.3",
+      "filename": "modmenu-20.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/mOgUt4GM/versions/iRo7AZXf/modmenu-20.0.3.jar",
+      "sha1": "9fc381627b471c18d67156e846228f51ff2ea5b4",
+      "sha512": "c8224aa7a460d0c56ccb9978a112e4ad0d3eb17e2796e0c468a2392d220749f4f602838a11b3666145462c26078a879ab8a2fc177aa440f58e189c92a0088d6e",
+      "fileSize": 616919
     }
   },
   "dependents": [
     "K0AkAin6",
+    "wjI0erks",
     "zLBn2IE4"
   ],
   "optionalDependents": [
@@ -29,7 +30,6 @@
     "8shC1gFX",
     "9eGKb6K1",
     "C1MoWQlb",
-    "DnNYdJsx",
     "ETlrkaYF",
     "Fb4jn8m6",
     "LIqveQm1",
@@ -39,6 +39,7 @@
     "S3D3QF0M",
     "TiF5QWZY",
     "UaizcMKP",
+    "aC3cM3Vq",
     "dlNu0RQY",
     "fxxUqruK",
     "nrikgvxm",

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "n8QN6Z1a",
       "slug": "bundle-api",
-      "versionId": "mQ3mo5tp",
-      "versionNumber": "5.0.0+26.3-fabric",
-      "filename": "bundle-api-fabric-5.0.0+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/n8QN6Z1a/versions/mQ3mo5tp/bundle-api-fabric-5.0.0%2B26.3.jar",
-      "sha1": "7883e38c21bcfc97503848796f26e1998ec7b9fe",
-      "sha512": "de58f657b581222a74c91e62bda6b180a902dab535a73590fc159acca6342770de7ccccd526f82cbad03ae1942ff5c46cee2ad287d20fdd8152d6c2f63121ae7",
-      "fileSize": 110433
+      "versionId": "8aMCMFS1",
+      "versionNumber": "4.0.0+26.2-fabric",
+      "filename": "bundle-api-fabric-4.0.0+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/n8QN6Z1a/versions/8aMCMFS1/bundle-api-fabric-4.0.0%2B26.2.jar",
+      "sha1": "c1271e9dff2a66f6bbf5157e1e0e10514b6c4446",
+      "sha512": "21cba0463a97c65c9d54b4d120acb04cb283bf8a23561af469565c9a57796279b4ffe580277599d72497ce00e3e5b55e6948cc762992a3f1366a773438632c5a",
+      "fileSize": 109887
     }
   },
   "dependents": [

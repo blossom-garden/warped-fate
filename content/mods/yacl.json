@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "1eAoo2KR",
       "slug": "yacl",
-      "versionId": "s9SjoFu1",
-      "versionNumber": "3.9.7+26.3-fabric",
-      "filename": "yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
-      "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
-      "sha512": "f3957028dd31cae78f08aee3e768f61bd12c4c8423257d357bc3c1a2172047c769d37901f99775c7ffff1e5ee794025dc72738b2869cab06f1c2811841d68b24",
-      "fileSize": 1125377
+      "versionId": "DoR7RYgi",
+      "versionNumber": "3.9.7+26.2-fabric",
+      "filename": "yet_another_config_lib_v3-3.9.7+26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1eAoo2KR/versions/DoR7RYgi/yet_another_config_lib_v3-3.9.7%2B26.2-fabric.jar",
+      "sha1": "79c8ee7f8a0e775190dfff59be1e505e2f432998",
+      "sha512": "f36d91a9506ad9addbaaeecaea01d2b0cb5b060f52486b17688746cb597f0f3b23a80f8441f7a73a9cb8cde85af8809fe54825984b56345325359d505a80e7f2",
+      "fileSize": 1125271
     }
   },
   "dependents": [

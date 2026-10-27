@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "9s6osm5g",
       "slug": "cloth-config",
-      "versionId": "fg2uyxOW",
-      "versionNumber": "26.3.159+fabric",
-      "filename": "cloth-config-fabric-26.3.159.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/fg2uyxOW/cloth-config-fabric-26.3.159.jar",
-      "sha1": "9a5cce069380a2047250831dcb19f4ef1b15872d",
-      "sha512": "8924e19d41845096724fa10f3717bc51964a0edbbbcad0ff1e6c6187a398b08f356e49579a657c2dc44a7f92e3850771f3ca70bf8c1f654de60425163b91dbb1",
-      "fileSize": 1135009
+      "versionId": "Nv3xnWXd",
+      "versionNumber": "26.2.155+fabric",
+      "filename": "cloth-config-26.2.155.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar",
+      "sha1": "babcf16dbd15e09d326e21ffe85ab3f7d843ef9e",
+      "sha512": "37b1e402f0df5a383656e21a38ee18cdd15cb4ba3fb62fbeba82ef4b959a4479fc32718ac0d9d154a7d9104c5f7315bfa67dbeced0b8ff240b8039d4848d5df1",
+      "fileSize": 1135186
     }
   },
   "dependents": [
@@ -25,6 +25,7 @@
     "nfn13YXA",
     "oWpIIBJu",
     "rI0hvYcd",
+    "wjI0erks",
     "x1hIzbuY"
   ],
   "optionalDependents": [
@@ -33,7 +34,6 @@
     "Fb4jn8m6",
     "LQ3K71Q1",
     "PKoLkD98",
-    "Wb5oqrBJ",
     "qQyHxfxd"
   ],
   "clientSide": "optional",

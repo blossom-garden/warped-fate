@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "NNAgCjsB",
       "slug": "entityculling",
-      "versionId": "X1g3VhTx",
+      "versionId": "uXe0pIaz",
       "versionNumber": "1.11.3",
-      "filename": "entityculling-fabric-1.11.3-mc26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/NNAgCjsB/versions/X1g3VhTx/entityculling-fabric-1.11.3-mc26.3.jar",
-      "sha1": "45f47f7a067f5efd733a32767dc3d1d770678b2a",
-      "sha512": "b6209bb62d72376d3fd284da137ec93a6dd38ebe5fd38ab9190deeade68b5b7f4bf915f4abcb4a807afe18cb9f0b59e11be789d46df6f0e6f64388ed2edc284d",
-      "fileSize": 1508547
+      "filename": "entityculling-fabric-1.11.3-mc26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NNAgCjsB/versions/uXe0pIaz/entityculling-fabric-1.11.3-mc26.2.jar",
+      "sha1": "a2210d12bdeac78daf7bb2fdc6b5d85448642cdf",
+      "sha512": "18ca7ea525144dac9474a1b178eb21baf3dcfc182618811dfca535833faece3b4c74eb8ee026c95b6dbabd084b8b3075a51d319de512caedd24595d5dd10cd30",
+      "fileSize": 1508596
     }
   },
   "dependents": [],

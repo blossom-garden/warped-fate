@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "YYLuU3ee",
       "slug": "lumalight",
-      "versionId": "pSN1CjLf",
-      "versionNumber": "100.0.0",
-      "filename": "lumalight-100.0.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/YYLuU3ee/versions/pSN1CjLf/lumalight-100.0.0.jar",
-      "sha1": "3d97adb33cfa6f3c9bb1e84d35db88b5d6446331",
-      "sha512": "8b6d75004333ad4671bda981fea4a80b946b1852ed4e3adb30496c45ad0fe92e2202f524c00861e38fbfa4f8321aeab305950e8ec6cef2b2162ca0c4bf6eea96",
-      "fileSize": 366884
+      "versionId": "6S1S46mB",
+      "versionNumber": "3.0.0",
+      "filename": "lumalight_26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YYLuU3ee/versions/6S1S46mB/lumalight_26.2.jar",
+      "sha1": "e920ffb3f156229ef46011e660ad8ee787566c61",
+      "sha512": "3259f793dd9cce4ba10138fbaf96977212a5ead6add3cabd226970a23c9a03cffeaec3303fd5c40fca264fe2d8a72903ca4f9bf5b8f0bc31db6e019fdc0f4154",
+      "fileSize": 245167
     }
   },
   "dependents": [],

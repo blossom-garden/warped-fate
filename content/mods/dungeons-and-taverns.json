@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "tpehi7ww",
       "slug": "dungeons-and-taverns",
-      "versionId": "WilF7nqU",
-      "versionNumber": "6.0.2+mod",
-      "filename": "dungeons-and-taverns-6.0.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/tpehi7ww/versions/WilF7nqU/dungeons-and-taverns-6.0.2.jar",
-      "sha1": "172ba3915c8da4c46bdf63a24a8cff2b485b838d",
-      "sha512": "b0ccf52512560a8115b356c5a3e585c71966af10729f2d43641af268258272bb9f9c68c53c49eb79a5d5f645ba9e0dff6e4ae2b654eaf6a6d146977de435c025",
-      "fileSize": 42195203
+      "versionId": "y9AUViOD",
+      "versionNumber": "5.3.2+mod",
+      "filename": "dungeons-and-taverns-5.3.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/tpehi7ww/versions/y9AUViOD/dungeons-and-taverns-5.3.2.jar",
+      "sha1": "11d740c9d0b8c5917626531608af79e295521837",
+      "sha512": "af734c31a45cb7c7cc6630d4b258b588aade4ecc6db72d443d5f4d8151ffb2c7b6edfc8fbbe4cdbc6e85d41018bb54661cf9f1dba6226cccf3e18b1de3888703",
+      "fileSize": 39642964
     }
   },
   "dependents": [],

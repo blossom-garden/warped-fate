@@ -1,0 +1,23 @@
+{
+  "name": "ButterBee - Mob Variants",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "91Xzenxx",
+      "slug": "butterbee",
+      "versionId": "XPUjBM2U",
+      "versionNumber": "1.0.8-mod",
+      "filename": "ButterBee-1.0.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/91Xzenxx/versions/XPUjBM2U/ButterBee-1.0.8.jar",
+      "sha1": "27b23ac2141bdf5b977262385a11968555e6d944",
+      "sha512": "b0d0f2f22a4ced0891469803bf9b1867f8ab27da18d46117de7966078b6c0b3c3a42490ed73b20842f6b6b69c8c5661d845aabcf30f631e33224c8356d54b7db",
+      "fileSize": 375981
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

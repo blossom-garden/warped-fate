@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "sNJAIjUm",
       "slug": "jewelry",
-      "versionId": "xpXy6vPf",
-      "versionNumber": "2.5.1+26.3-fabric",
-      "filename": "jewelry-fabric-2.5.1+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/sNJAIjUm/versions/xpXy6vPf/jewelry-fabric-2.5.1%2B26.3.jar",
-      "sha1": "3b7acf0d241aa934e00efd95b09a0fe0d507b76d",
-      "sha512": "34d176524f3873124c6024ecca5b428c585d603b7de89cfe018f808d3d1b6a4aa6915d24f6e8d74c33922373acc7d162812613ca4d054126a40940d1b48b86ee",
-      "fileSize": 677532
+      "versionId": "7Uhj05Kr",
+      "versionNumber": "2.5.1+26.2-fabric",
+      "filename": "jewelry-fabric-2.5.1+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sNJAIjUm/versions/7Uhj05Kr/jewelry-fabric-2.5.1%2B26.2.jar",
+      "sha1": "08d3ffe1aeaa86bce3a1879b090ea181c838dd3c",
+      "sha512": "e57acc4255327b7a3be689ffd842a86275c34abf0c30ceae59184440913b4c8b16a40da7ad4bf69693a51b32f105cc776be29b8882419b8f1c27bd61f228ee0a",
+      "fileSize": 677299
     }
   },
   "dependents": [],

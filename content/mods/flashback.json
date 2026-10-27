@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "4das1Fjq",
       "slug": "flashback",
-      "versionId": "cV1pa0YV",
+      "versionId": "Um7qd3Na",
       "versionNumber": "0.43.6",
-      "filename": "Flashback-0.43.6-for-MC26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/4das1Fjq/versions/cV1pa0YV/Flashback-0.43.6-for-MC26.3.jar",
-      "sha1": "4fd7d2d677332f58b00107b27615379eadc6cfcb",
-      "sha512": "80d194d117352942ebf2bc96914e5f0f550ab857204cda5b362459110ea22a38332825ecebf5ee3fc54d4f01c72279c0a06e45f26e26b62c49015e208167242e",
-      "fileSize": 201008177
+      "filename": "Flashback-0.43.6-for-MC26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4das1Fjq/versions/Um7qd3Na/Flashback-0.43.6-for-MC26.2.jar",
+      "sha1": "5ac1873f4cd400a0347131c78f074391f9f94bed",
+      "sha512": "e8421105bd85ba28b9986d26dace7a29d340872796a5d9709cbc28c6c82263765fe6dac5d21f3b4f357c0f1d571d57eede104d69d5768b8809325cb54a75f946",
+      "fileSize": 201210776
     }
   },
   "dependents": [],

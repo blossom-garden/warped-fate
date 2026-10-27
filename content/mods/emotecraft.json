@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "pZ2wrerK",
       "slug": "emotecraft",
-      "versionId": "M17ZQBUj",
-      "versionNumber": "3.5.0-a.build.171",
-      "filename": "emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/pZ2wrerK/versions/M17ZQBUj/emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
-      "sha1": "92815a8e4c85d7d81bba9ae50458a3f1d962e242",
-      "sha512": "e4642e12d3e3eb6e8f60bfc1fd122f093794382c621a30f7d07fb74156699ef640d2a9f9ad63df890f7a832c5865e0a30a123fe141eddb663f2b0b3adcca3f67",
-      "fileSize": 2198618
+      "versionId": "Cd1WwA6f",
+      "versionNumber": "3.4.0-b.build.170",
+      "filename": "emotecraft-for-MC26.2-3.4.0-b.build.170.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pZ2wrerK/versions/Cd1WwA6f/emotecraft-for-MC26.2-3.4.0-b.build.170.jar",
+      "sha1": "c389dc10dea7ef72c0500887b0f2c7b1dc393f4c",
+      "sha512": "814c8cd251c1d6de00982080a776ee2e85b9470face0f391dffad53eecb02321cdc949297b4a7294aa9c1cbad1e74b48778854e1755e02cdf72869ee8775b02f",
+      "fileSize": 1835360
     }
   },
   "dependents": [

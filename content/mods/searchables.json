@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "fuuu3xnx",
       "slug": "searchables",
-      "versionId": "wV79bLRS",
-      "versionNumber": "1.0.3",
-      "filename": "Searchables-fabric-26.3-1.0.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/fuuu3xnx/versions/wV79bLRS/Searchables-fabric-26.3-1.0.3.jar",
-      "sha1": "2712ba020dd0d373fb39c399c89497340e290117",
-      "sha512": "70d4b55990beaa0a5902d8d1b92243430a0e3abaab177dd2273c0996fba6eac566f727802f78be3a9498feac71f7e83b500d0844ae30f33666cf90ee7f167b35",
-      "fileSize": 79857
+      "versionId": "bvFby61J",
+      "versionNumber": "1.0.1",
+      "filename": "Searchables-fabric-26.2-1.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/fuuu3xnx/versions/bvFby61J/Searchables-fabric-26.2-1.0.1.jar",
+      "sha1": "73c1917f4ff056254c95f50a5acb18d16384139a",
+      "sha512": "342f6b9ddee7391f0f5c30090dc7b7fe0b9638c86b729d3e989360ccdf5e5a85d729decc3e27efcdaeaad6b4696e9dd8fb48391c803d8324195b6f5194761a70",
+      "fileSize": 78982
     }
   },
   "dependents": [],

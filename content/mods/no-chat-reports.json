@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "qQyHxfxd",
       "slug": "no-chat-reports",
-      "versionId": "6g96avt2",
-      "versionNumber": "Fabric-26.3-v2.21.0",
-      "filename": "NoChatReports-FABRIC-26.3-v2.21.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/qQyHxfxd/versions/6g96avt2/NoChatReports-FABRIC-26.3-v2.21.0.jar",
-      "sha1": "ed49e6780f20fcad080a211f8163c9d130ebdd34",
-      "sha512": "ee7733f50049b9f847f3abeea7a1dcb429932a5e9be16e9ab4e1d7db752ff7e43f5a449f8d971fa60e6f96917e509a05d86a03399a71be2749449ef91ec39f67",
-      "fileSize": 239561
+      "versionId": "aDbxaVTi",
+      "versionNumber": "Fabric-26.2-v2.20.2",
+      "filename": "NoChatReports-FABRIC-26.2-v2.20.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qQyHxfxd/versions/aDbxaVTi/NoChatReports-FABRIC-26.2-v2.20.2.jar",
+      "sha1": "680b60f6ec5c09a646e7a76bb17cf551608051cd",
+      "sha512": "aa14fa2d1cc94803f4c965fd817a945823037237bd7a1fea9dc9a0c6427084d25b8d9273da76bc132fe68794d2be8b91540bfff1309125aea37820c12bff0268",
+      "fileSize": 239602
     }
   },
   "dependents": [],

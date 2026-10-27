@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "yBW8D80W",
       "slug": "lambdynamiclights",
-      "versionId": "rylKnJ4M",
-      "versionNumber": "4.13.0+26.3",
-      "filename": "lambdynamiclights-4.13.0+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/yBW8D80W/versions/rylKnJ4M/lambdynamiclights-4.13.0%2B26.3.jar",
-      "sha1": "18c8ab40f03219bfcf809a83db6e3958ed8bb866",
-      "sha512": "67c37ca7d619bd7f2b0dc02217070c20e34fb3bb3363d4e23f5ef9ca90b1b58adb223fab73639a3499d366497316f1eb297d2759f3ffb976467b4759f784619d",
-      "fileSize": 1345715
+      "versionId": "XVsaQXSm",
+      "versionNumber": "4.12.4+26.2",
+      "filename": "lambdynamiclights-4.12.4+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/yBW8D80W/versions/XVsaQXSm/lambdynamiclights-4.12.4%2B26.2.jar",
+      "sha1": "c842011792dbaf95bb6243df1ad7f39c576f944d",
+      "sha512": "1e7c2abf18f4364cc8802c3ce21f9cbadd62074c1cf9829c025fe0d8dd04b6c7b47ca8fe6783b2399939fda0e40001d43dd82b6bced43546e9c26622ef3708c2",
+      "fileSize": 1344429
     }
   },
   "dependents": [

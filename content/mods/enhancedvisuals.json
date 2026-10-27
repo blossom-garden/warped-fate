@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "KjL0jE2w",
       "slug": "enhancedvisuals",
-      "versionId": "qaccmSuj",
+      "versionId": "pT0049E2",
       "versionNumber": "1.8.35",
-      "filename": "EnhancedVisuals_FABRIC_v1.8.35_mc26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/KjL0jE2w/versions/qaccmSuj/EnhancedVisuals_FABRIC_v1.8.35_mc26.3.jar",
-      "sha1": "5c051f5a3ab7d74951442e7be12ba910d4269498",
-      "sha512": "a01cae159cc426626545cf4cb6ab4a4bcad5e91b524597743fc4a1af1962c10fe3b5ee37e3220316f22d9ead3b83a9de766697fb042269de358ccb1751187c83",
-      "fileSize": 4739673
+      "filename": "EnhancedVisuals_FABRIC_v1.8.35_mc26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KjL0jE2w/versions/pT0049E2/EnhancedVisuals_FABRIC_v1.8.35_mc26.2.jar",
+      "sha1": "9e212f47686c35b5ca6189bef2d350e75f9ba97c",
+      "sha512": "3e34967ef97b6a234363579cc17cacabf6c2def0b9dcdd57c80a3bfb230ebb738180f3a62f093efe80ed3f0f50b7b180b4f45f4d6d36dff6bb5e1d4ba3ece856",
+      "fileSize": 4739440
     }
   },
   "dependents": [],

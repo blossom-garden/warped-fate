@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "9Ya7Yyre",
       "slug": "strawberrylib",
-      "versionId": "OoMuF3O2",
-      "versionNumber": "26.3-r1",
-      "filename": "strawberrylib-fabric-26.3-r1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/9Ya7Yyre/versions/OoMuF3O2/strawberrylib-fabric-26.3-r1.jar",
-      "sha1": "eda4907d3645fc12576d4f46e2aade17ab1ef69f",
-      "sha512": "544c8d22c0878316260598f3042c2159228bbd4376e2d0eb1251f5f39f6e98715c59b4af13391d4caebef13934ff72448d3efab5cce43a63f46d845b3b5b1682",
-      "fileSize": 1038009
+      "versionId": "taWe52SL",
+      "versionNumber": "26.2-r5",
+      "filename": "strawberrylib-fabric-26.2-r5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9Ya7Yyre/versions/taWe52SL/strawberrylib-fabric-26.2-r5.jar",
+      "sha1": "9d57c39eb0706d84999eb72fd8dd1c4671d442f6",
+      "sha512": "5907cc3237986e72e6f952ac957fe99b720379d3a07ae9133d5fdaa1aed524b87129887be55e07be7078559a17bc35cbb799a42c7b61c629e073ef23f41da4e9",
+      "fileSize": 1034619
     }
   },
   "dependents": [

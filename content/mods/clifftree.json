@@ -18,6 +18,9 @@
     }
   },
   "dependents": [],
+  "optionalDependents": [
+    "91Xzenxx"
+  ],
   "clientSide": "optional",
   "serverSide": "required"
 }

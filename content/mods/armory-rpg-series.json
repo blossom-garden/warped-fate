@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "PJvJUdGw",
       "slug": "armory-rpg-series",
-      "versionId": "HbxeYqla",
-      "versionNumber": "1.5.3+26.3-fabric",
-      "filename": "armory-fabric-1.5.3+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/PJvJUdGw/versions/HbxeYqla/armory-fabric-1.5.3%2B26.3.jar",
-      "sha1": "0e915a3a971f6343a3ac5268ca8b40b8b68ec99e",
-      "sha512": "9657b0a2e5f330906fbcbdf5c3f2011c571dfe38c987affdb5c5e9db672f18d10ce85d922351b2dc51d2d198484b2a0552a5d3cd672fe42dbd679d120e26c761",
-      "fileSize": 697339
+      "versionId": "z8StHIQZ",
+      "versionNumber": "1.5.3.003+26.2-fabric",
+      "filename": "armory-fabric-1.5.3.003+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/PJvJUdGw/versions/z8StHIQZ/armory-fabric-1.5.3.003%2B26.2.jar",
+      "sha1": "9d5a81dd2480054585e7243ac83034d4b15706bf",
+      "sha512": "951f085582a54c6bf798f1842ed65168abf7d7da75922ee4637e386e030e67bbe3e51493aa1b23a14206444a247f84dcec33f424188dbbe6a85350718803de4c",
+      "fileSize": 694516
     }
   },
   "dependents": [],

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "BVzZfTc1",
       "slug": "entitytexturefeatures",
-      "versionId": "OOEycXyN",
-      "versionNumber": "7.2.6-fabric-26.3",
-      "filename": "entity_texture_features-7.2.6-26.3-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/OOEycXyN/entity_texture_features-7.2.6-26.3-fabric.jar",
-      "sha1": "40fd33455e0543a5716f8cb7100d0d3c7abde3d8",
-      "sha512": "21ef9e7640a2e1e06f5dba10bcf830d6410255e9fdd204504f021c6e3c697d1b86203089b5b21dd99821a2b5f1a237ac4c798f3287562f160786572d6756c4ff",
-      "fileSize": 793054
+      "versionId": "p667cMa5",
+      "versionNumber": "7.2.6-fabric-26.2",
+      "filename": "entity_texture_features-7.2.6-26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/p667cMa5/entity_texture_features-7.2.6-26.2-fabric.jar",
+      "sha1": "83e1ae7d1fdd64ce3dee8cd25c1cdee6b6d6570d",
+      "sha512": "34a8365d78cd81cb3d268c4e8d702bb3fb3eeab4b9ea96c798d9f45772110a169a6e37856990eb50a8018e68b6708f2147ce0971a1988007519674e697909ce6",
+      "fileSize": 793181
     }
   },
   "dependents": [

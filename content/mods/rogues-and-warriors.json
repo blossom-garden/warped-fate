@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "3MKqoGuP",
       "slug": "rogues-and-warriors",
-      "versionId": "vMFN5Fd1",
-      "versionNumber": "3.1.4.1+26.3-fabric",
-      "filename": "rogues-fabric-3.1.4.1+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/3MKqoGuP/versions/vMFN5Fd1/rogues-fabric-3.1.4.1%2B26.3.jar",
-      "sha1": "fcb674bec4ed02a7f28c711818c27c9b4c074447",
-      "sha512": "abe53ff442936fc62ab5d8bdd593d8f4e0229d962c6437b7e442f68e1a2c2dcb5da80dade1f5179245a95bdceada78429c701d95c13ab18241587f327d1a679d",
-      "fileSize": 1810048
+      "versionId": "rlNs4IpI",
+      "versionNumber": "3.1.3.003+26.2-fabric",
+      "filename": "rogues-fabric-3.1.3.003+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3MKqoGuP/versions/rlNs4IpI/rogues-fabric-3.1.3.003%2B26.2.jar",
+      "sha1": "376ca75ab0e03f195398ee245b4090d218f9b01d",
+      "sha512": "e4fb7e9db8d0c31a5e50d5f0401b13d7c3ec4f203f512f68fbf8bbe262dcd9b2736203239dc6c07f50cc3ff30659bad80699323c5b7358f396742a7438d2339f",
+      "fileSize": 1808868
     }
   },
   "dependents": [],

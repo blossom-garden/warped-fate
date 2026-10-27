@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "GNxdLCoP",
       "slug": "cull-leaves",
-      "versionId": "jqOVPlQ8",
-      "versionNumber": "4.1.2+26.3-fabric",
-      "filename": "cullleaves-fabric-4.1.2+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/GNxdLCoP/versions/jqOVPlQ8/cullleaves-fabric-4.1.2%2B26.3.jar",
-      "sha1": "ff792771822c8844fd699493db1fc078611c1acd",
-      "sha512": "8cc1c814dd2c293138cb4f8bedcac8bb531fab2056ed64da85363ad26edd4172691bb16b3735c443306ba8480d2000629ae6f6713d4a76807a3460a6ac38da80",
-      "fileSize": 94210
+      "versionId": "iDsSBWPv",
+      "versionNumber": "4.1.2+26.2-fabric",
+      "filename": "cullleaves-fabric-4.1.2+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GNxdLCoP/versions/iDsSBWPv/cullleaves-fabric-4.1.2%2B26.2.jar",
+      "sha1": "1df64a439a6cf79b785882c94b39ac04e67c63bd",
+      "sha512": "147d851e80aa593592da72e86470af548c3530e5f9ab6d6b6bbd871983c5dbd3f706535968e5471e23579802e5b8e033acb8551d97a85b4e70dcb0e3d32e07e7",
+      "fileSize": 93600
     }
   },
   "dependents": [],

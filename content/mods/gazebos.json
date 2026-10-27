@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "XIpMGI6r",
       "slug": "gazebos",
-      "versionId": "ehxTt35M",
-      "versionNumber": "2.2.1+26.3-fabric",
-      "filename": "gazebo-fabric-2.2.1+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/XIpMGI6r/versions/ehxTt35M/gazebo-fabric-2.2.1%2B26.3.jar",
-      "sha1": "acaea9b48fe34265091b5b462c66f394334552e0",
-      "sha512": "3bbb9adf6e359059255bae7097f2741f99e702ded68fd14e7e441f89d18d7d29104765e70f4964f5f823959828f7d39d33f98db5968313076f5fd82bad6e7582",
-      "fileSize": 111945
+      "versionId": "EczKMwsO",
+      "versionNumber": "2.2.0+26.2-fabric",
+      "filename": "gazebo-fabric-2.2.0+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XIpMGI6r/versions/EczKMwsO/gazebo-fabric-2.2.0%2B26.2.jar",
+      "sha1": "259d0d4c1e7974f470ad3897bbe759aa7fa635a3",
+      "sha512": "3a606dff2035ac2206cbd5b0c37dda8fe17e58b9b5ba6c0bb88bf5770381a9ebbcb973bdcdfed679c66b0d431b75e6dde56c1036cd263a45809f84ceb3de7c49",
+      "fileSize": 111925
     }
   },
   "dependents": [],

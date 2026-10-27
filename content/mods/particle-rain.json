@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "nrikgvxm",
       "slug": "particle-rain",
-      "versionId": "ecVAaY1R",
-      "versionNumber": "v4.0.2+26.3-fabric",
-      "filename": "particlerain-4.0.2+26.3-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/nrikgvxm/versions/ecVAaY1R/particlerain-4.0.2%2B26.3-fabric.jar",
-      "sha1": "e6737febb57e31837d74bede3ce788783b381e23",
-      "sha512": "b87684651246c05d0985c88cc0e05ba0e5bdf04d6e5c3ec90962d4342d9f70bc13a4ca86a4276022d71afdcfd69709596e070f3cfe1ae0ee3484dc2924121f19",
-      "fileSize": 627188
+      "versionId": "gTJ6PTp4",
+      "versionNumber": "v4.0.2+26.2-fabric",
+      "filename": "particlerain-4.0.2+26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nrikgvxm/versions/gTJ6PTp4/particlerain-4.0.2%2B26.2-fabric.jar",
+      "sha1": "1c6a4a75e52d6983084da96f59c64dbcf7f764fe",
+      "sha512": "e060483aa7900c4d01490f1732ebefd9b620b350f994b5425cad16a041011438f6e83a979a1d83c283ff7a4198cd692d006c5ff6244186e5d5fecaa07d628b6c",
+      "fileSize": 627184
     }
   },
   "dependents": [],

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "dlNu0RQY",
       "slug": "wakes",
-      "versionId": "8kcYA6A0",
-      "versionNumber": "0.7.3+26.3",
-      "filename": "wakes-0.7.3+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/dlNu0RQY/versions/8kcYA6A0/wakes-0.7.3%2B26.3.jar",
-      "sha1": "749d7198b0d97e35a563c412df5a4108647187a5",
-      "sha512": "d74b17ddcadd72b95fa23e9f2d8397cb1e753f70792b4d1ca363ab010daa69272c341ed538175284b5926addc1e27b843b3a434da01b47afda80b164b01ae8ee",
-      "fileSize": 292134
+      "versionId": "biEvxQIS",
+      "versionNumber": "0.7.1+26.2",
+      "filename": "wakes-0.7.1+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/dlNu0RQY/versions/biEvxQIS/wakes-0.7.1%2B26.2.jar",
+      "sha1": "f2e7f36f355be990be14baa1acf01f30c89c212e",
+      "sha512": "dec79be0e500d1c584657328d48505041c3fee6e075afca30ebc19791e159766f7ec5efc132c8baad4e95a5e36ec9a02746f92f21ac0000dbc3b0504d5608049",
+      "fileSize": 290549
     }
   },
   "dependents": [],

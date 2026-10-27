@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "ETlrkaYF",
       "slug": "cubes-without-borders",
-      "versionId": "26KCwNI9",
-      "versionNumber": "5.0.0+26.3",
-      "filename": "cwb-5.0.0+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/ETlrkaYF/versions/26KCwNI9/cwb-5.0.0%2B26.3.jar",
-      "sha1": "7e75cee129623fd6549df2915413e4afc36acf39",
-      "sha512": "abd2338408c3e46f02ef8741379d02a4bf34e6cf952d707f6f3cb145b9333c20b80bc787c03432a292d61e82a9453b9ebecd0ba3c7d50450b5087322914c1efc",
-      "fileSize": 95121
+      "versionId": "ZM0HUAhK",
+      "versionNumber": "5.0.0+26.2",
+      "filename": "cwb-5.0.0+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ETlrkaYF/versions/ZM0HUAhK/cwb-5.0.0%2B26.2.jar",
+      "sha1": "6114afaa2b54bdc79bf8dba1630ac1221f02522b",
+      "sha512": "ccd86e34dc252d59ec8ef5bbba0fb7f23f04facc4028e07b0bb6e8e0cf19b27c94a4c355886f9addd0a472ede0b21d19f95626fffb0b1ee4ce3d005b210e4cce",
+      "fileSize": 95279
     }
   },
   "dependents": [],

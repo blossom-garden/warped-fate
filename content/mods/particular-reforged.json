@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "pYFUU6cq",
       "slug": "particular-reforged",
-      "versionId": "erj2kjMs",
+      "versionId": "1VSvTbTm",
       "versionNumber": "1.5.7",
-      "filename": "particular-26.3-Fabric-1.5.7.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/pYFUU6cq/versions/erj2kjMs/particular-26.3-Fabric-1.5.7.jar",
-      "sha1": "9ce277e691b7dfc23d5c0ff561e1163c55d9fc1a",
-      "sha512": "01b656a45a6c31bd96ff513badd741696cf22860ef51b43d640a5fd6510298469c8cb32df59624fa3abfa04e2e2f5a37667b361f932c11a3648ee56b3904997a",
-      "fileSize": 287956
+      "filename": "particular-26.2-Fabric-1.5.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pYFUU6cq/versions/1VSvTbTm/particular-26.2-Fabric-1.5.7.jar",
+      "sha1": "6ed9738b020c28008fa2719009dc07b34dec0771",
+      "sha512": "2904a35bd515a85083ea111c74408e30b34b9710c025c4a0d9993c7313ebebf35ff1c2c89fb21f268bb998090742117cb75d368b6cc791a44bbe823345c32b6a",
+      "fileSize": 287963
     }
   },
   "dependents": [],

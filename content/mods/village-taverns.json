@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "bj4a8NjJ",
       "slug": "village-taverns",
-      "versionId": "WXQWFg9W",
-      "versionNumber": "1.3.1+26.3-fabric",
-      "filename": "village_taverns-fabric-1.3.1+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/bj4a8NjJ/versions/WXQWFg9W/village_taverns-fabric-1.3.1%2B26.3.jar",
-      "sha1": "0003a69c1a28322abdba313bc772b3e774481cfc",
-      "sha512": "7af29c505142a5b53dddd2ba15fb495a4598eb982afb518285789ca13aaba0cd2a3582b7fb400a68b7536f54221fa1385e9280a1b853a63befa27a82961fc701",
-      "fileSize": 167853
+      "versionId": "ZWHi8JOM",
+      "versionNumber": "1.3.0+26.2-fabric",
+      "filename": "village_taverns-fabric-1.3.0+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/bj4a8NjJ/versions/ZWHi8JOM/village_taverns-fabric-1.3.0%2B26.2.jar",
+      "sha1": "349d59bfc87e857bc5ff8b1bbcef736538e6183c",
+      "sha512": "e99eeb3dcd8b449e80523e39cb2263eee694801679a459f6982529ccdb8ff92a775ecbc09e4c56b77eb5d06d29533308215375cea2eee8d5e141991c3526f9de",
+      "fileSize": 147931
     }
   },
   "dependents": [],

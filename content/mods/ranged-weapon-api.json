@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "AqaIIO6D",
       "slug": "ranged-weapon-api",
-      "versionId": "5ywtfrkS",
-      "versionNumber": "4.0.0+26.3-fabric",
-      "filename": "ranged_weapon_api-fabric-4.0.0+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/AqaIIO6D/versions/5ywtfrkS/ranged_weapon_api-fabric-4.0.0%2B26.3.jar",
-      "sha1": "6363eab67f2dc22ce24f61fe25d4eeba45713f6b",
-      "sha512": "16b32dbb748d74e110f13d0b7189ed961878647268de282d7a60fb20936763df45a2df8a51a77eb04de6d091aa9faae674efaf06b75a4042614f09082c1555bd",
-      "fileSize": 158362
+      "versionId": "pAKK9B14",
+      "versionNumber": "4.0.0+26.2-fabric",
+      "filename": "ranged_weapon_api-fabric-4.0.0+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/AqaIIO6D/versions/pAKK9B14/ranged_weapon_api-fabric-4.0.0%2B26.2.jar",
+      "sha1": "b232234a29b9eecc5c2a1e7b4681db4f74db7406",
+      "sha512": "a9a7be96366a1156804971083849b8d6a3cb4420f9d16c168eebf0f9934e347612f8fb1412f16e5ecfcb58caa2ac71f8be049e4ec698c2fde28b4bfcac589487",
+      "fileSize": 157327
     }
   },
   "dependents": [

@@ -1,0 +1,23 @@
+{
+  "name": "Fluidloggable",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "wjI0erks",
+      "slug": "fluidloggable",
+      "versionId": "pk41tnsA",
+      "versionNumber": "3.1.2-beta.5-mc26.2",
+      "filename": "fluidloggable-3.1.2-beta.5-mc26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/wjI0erks/versions/pk41tnsA/fluidloggable-3.1.2-beta.5-mc26.2.jar",
+      "sha1": "4b85c81f72f2317b1bb482b9bbfc7f062ee10436",
+      "sha512": "21b3e0263396c96494d43d73eeb0a82bd2a52d769b6e7c35946f3770c749f47bbdce8cc9aa60367519002399f30c53ea6cd402fb0ade7ddcfd52f402233d9681",
+      "fileSize": 749333
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "8ooWzSQP",
       "slug": "spell-power",
-      "versionId": "YdRPWTj8",
-      "versionNumber": "1.6.2+26.3-fabric",
-      "filename": "spell_power-fabric-1.6.2+26.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/8ooWzSQP/versions/YdRPWTj8/spell_power-fabric-1.6.2%2B26.3.jar",
-      "sha1": "5b59aa59eb9ab307a5543d1556725f4187853eba",
-      "sha512": "26fbf824391fd4acf3a2e91d660705c745c6bf144d76eddf5a74e05f87fa3d0fc16e3f616b972e00657a93c590ecc85d822895133eb3cfc34882d28cab5e9be4",
-      "fileSize": 226520
+      "versionId": "hZSvBdgk",
+      "versionNumber": "1.6.2+26.2-fabric",
+      "filename": "spell_power-fabric-1.6.2+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8ooWzSQP/versions/hZSvBdgk/spell_power-fabric-1.6.2%2B26.2.jar",
+      "sha1": "a4a6fb18b2434f2c3f97ca9c73831a2af5741759",
+      "sha512": "2ca6520778940efa948a66e2630c564dfa67dae666546cf32c9ec5bc5889081dab20bba3d453846b7fff11606b3cf9b0ef1e3a4014b51049bb8049ef27f75c0b",
+      "fileSize": 226491
     }
   },
   "dependents": [

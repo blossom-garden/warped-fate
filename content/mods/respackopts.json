@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "TiF5QWZY",
       "slug": "respackopts",
-      "versionId": "Whg3OJJA",
-      "versionNumber": "26.3.0",
-      "filename": "respackopts-26.3.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/TiF5QWZY/versions/Whg3OJJA/respackopts-26.3.0.jar",
-      "sha1": "57aaafb29cac9fc0f17fed16124fa9e42fb7c65d",
-      "sha512": "22f977be3f462b02423d10e136c193959c391fc429b0ba0207aab245e6b967047aed6405d27708c6dc3144377076ff352898e695d8637d619ff2be3e9fe791b2",
-      "fileSize": 944457
+      "versionId": "ajKcHatH",
+      "versionNumber": "26.2.2",
+      "filename": "respackopts-26.2.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/TiF5QWZY/versions/ajKcHatH/respackopts-26.2.2.jar",
+      "sha1": "dfb14e9cd45e789d4a7f410983015395147867b8",
+      "sha512": "3f85acaa6c9119dd24d58c31f90de848eb6828f2ce4f28339e7ac6a19308ec550d6a97d2ef313a10ed19c7b31c8a89517450afdf5c0e7c91cc24afc98a787640",
+      "fileSize": 930821
     }
   },
   "dependents": [],

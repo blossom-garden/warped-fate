@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "OfKzpbRU",
       "slug": "baguettelib",
-      "versionId": "T7PHIuOE",
-      "versionNumber": "2.0.8",
-      "filename": "baguettelib-26.3-Fabric-2.0.8.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/OfKzpbRU/versions/T7PHIuOE/baguettelib-26.3-Fabric-2.0.8.jar",
-      "sha1": "9a7395f94864ee022de8fa00c5506690652320fd",
-      "sha512": "d20b4f1483deb4031404885f45bb96788b891b60dcc6b4917586c993c6cbae385ad7cd45cfe8b05e9f57985f697b5ac090457474bce95ef04039713f6be77d4a",
-      "fileSize": 106523
+      "versionId": "fFGGMnVe",
+      "versionNumber": "2.0.7",
+      "filename": "baguettelib-26.2-Fabric-2.0.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OfKzpbRU/versions/fFGGMnVe/baguettelib-26.2-Fabric-2.0.7.jar",
+      "sha1": "f41cfe6d69bbc7fe436d039dbb7eb0457b5acb04",
+      "sha512": "708bbc603c102c488213b5f4234c1b1dbea18f301b411efb1339ae8f1a35a4eff97eda6fa3a71db7340020cbf327238896e8a12e47fab05d45b6a23614446788",
+      "fileSize": 108553
     }
   },
   "dependents": [

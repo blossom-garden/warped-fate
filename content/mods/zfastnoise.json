@@ -1,0 +1,23 @@
+{
+  "name": "Fast Noise",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "OnlVIpq5",
+      "slug": "zfastnoise",
+      "versionId": "WWl1RXk0",
+      "versionNumber": "1.1.1+26.2",
+      "filename": "zfastnoise-1.1.1+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OnlVIpq5/versions/WWl1RXk0/zfastnoise-1.1.1%2B26.2.jar",
+      "sha1": "378ae834f84b913209ac0853b49b5d8c05e34fc8",
+      "sha512": "7e0726688438cd69e9169ad47bbb5334d89fbf74f08d0c883fb2f023c03123db6d78f5181909b19fad034089e87dbb79155da784749709745593e19f79e29f23",
+      "fileSize": 52154
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}
