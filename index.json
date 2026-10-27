@@ -745,6 +745,10 @@
       "sha1": "06d72eb5f9d33e67d57a6de235c42b54ceba3bd3"
     },
     {
+      "path": "overrides/config/enchancement.json",
+      "sha1": "c3bb014d7d891e8ff6148a9667c333d0839edc73"
+    },
+    {
       "path": "overrides/icon.png",
       "sha1": "4b3e0a6318cc7e197e49acbe3b4d346a7b84a4dd"
     },
