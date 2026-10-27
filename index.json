@@ -38,7 +38,7 @@
     },
     {
       "path": "content/mods/baguettelib.json",
-      "sha1": "e09b045d62771c36bb3fb6db9d0a443336c759f6"
+      "sha1": "29d62ad7bb8318ef98dfa7b4b031e02fbaf7e619"
     },
     {
       "path": "content/mods/better-clouds.json",
@@ -262,7 +262,7 @@
     },
     {
       "path": "content/mods/forge-config-api-port.json",
-      "sha1": "7fafbd2c462b28eb839ae4c6f3e631797c566845"
+      "sha1": "58827befcb3c32a9eda640e026bdac4faa5e58d4"
     },
     {
       "path": "content/mods/gazebos.json",
@@ -410,7 +410,7 @@
     },
     {
       "path": "content/mods/modmenu.json",
-      "sha1": "39ed6adaf508fb6eaf95e74c5a7542213fb54422"
+      "sha1": "f2f0118eec6b861fd9f4b326b3cdeb00c3d55a6b"
     },
     {
       "path": "content/mods/modonomicon.json",
@@ -651,10 +651,6 @@
     {
       "path": "content/mods/voxy.json",
       "sha1": "bc1b34f752aeb5e6d840a0bb7940ca2519167ec6"
-    },
-    {
-      "path": "content/mods/wakes-reforged.json",
-      "sha1": "b0f097c22940bca8b49311eef5935bb659233a3b"
     },
     {
       "path": "content/mods/wizards.json",
