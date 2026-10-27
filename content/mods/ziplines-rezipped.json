@@ -15,6 +15,16 @@
       "sha1": "5f51e92b41ada54be05efb0b97beb54759ab78bc",
       "sha512": "4246e4f7cbfe0efa75c87fa700261ab02bfbb21e86c4b0798b35b35be0fd1853e8a3117a19deaa8beb4e7b6e40b757c1ddd1f437a194dab0450a95498d50b3d1",
       "fileSize": 91759
+    },
+    "curseforge": {
+      "id": "1454717",
+      "slug": "ziplines-rezipped",
+      "versionId": "8979630",
+      "versionNumber": "Zipline Fabric 26.2 - 1.5.3",
+      "filename": "zipline-1.5.3+26.2-fabric.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8979/630/zipline-1.5.3%2b26.2-fabric.jar",
+      "sha1": "5f51e92b41ada54be05efb0b97beb54759ab78bc",
+      "fileSize": 91759
     }
   },
   "dependents": [],

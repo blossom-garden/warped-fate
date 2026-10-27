@@ -55,7 +55,6 @@
 - [Fast Noise](https://modrinth.com/project/zfastnoise) `1.1.1+26.2`
 - [FastQuit](https://modrinth.com/project/fastquit) `3.1.5+mc26.2`
 - [Field Guide](https://modrinth.com/project/field-guide) `1.22.4+26.2-fabric`
-- [Flashback](https://modrinth.com/project/flashback) `0.43.6`
 - [Fluidloggable](https://modrinth.com/project/fluidloggable) `3.1.2-beta.5-mc26.2`
 - [Fresh Animations](https://modrinth.com/project/fresh-animations) `1.11.1`
 - [Fresh Animations: Creepers](https://modrinth.com/project/fresh-animations-creepers) `2.1.0`
@@ -121,6 +120,7 @@
 - [Scholar](https://modrinth.com/project/scholar) `1.2.10`
 - [Seamless Ores](https://modrinth.com/project/seamless-ores) `5.1.0+fabric`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.1`
+- [ServerReplay](https://modrinth.com/project/server-replay) `3.5.2+26.2`
 - [Simple Grass Flowers](https://modrinth.com/project/simple-grass-flowers) `2.0.0`
 - [Simple Lower Grass Sides](https://modrinth.com/project/simple-lower-grass-sides) `1.3.0`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `fabric-2.6.26+26.2`
