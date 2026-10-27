@@ -38,7 +38,7 @@
     },
     {
       "path": "content/mods/baguettelib.json",
-      "sha1": "29d62ad7bb8318ef98dfa7b4b031e02fbaf7e619"
+      "sha1": "e09b045d62771c36bb3fb6db9d0a443336c759f6"
     },
     {
       "path": "content/mods/better-clouds.json",
@@ -230,7 +230,7 @@
     },
     {
       "path": "content/mods/fabric-api.json",
-      "sha1": "111d686f8fa15c1e7e5713387058221f88b0142c"
+      "sha1": "aef75daad35f15a31a2a936597604c0c456b605f"
     },
     {
       "path": "content/mods/fabric-language-kotlin.json",
@@ -262,7 +262,7 @@
     },
     {
       "path": "content/mods/forge-config-api-port.json",
-      "sha1": "58827befcb3c32a9eda640e026bdac4faa5e58d4"
+      "sha1": "7fafbd2c462b28eb839ae4c6f3e631797c566845"
     },
     {
       "path": "content/mods/gazebos.json",
@@ -410,7 +410,7 @@
     },
     {
       "path": "content/mods/modmenu.json",
-      "sha1": "22929d3dcb150d5d6849e85c2d3976d51efb55bc"
+      "sha1": "39ed6adaf508fb6eaf95e74c5a7542213fb54422"
     },
     {
       "path": "content/mods/modonomicon.json",
@@ -653,8 +653,8 @@
       "sha1": "bc1b34f752aeb5e6d840a0bb7940ca2519167ec6"
     },
     {
-      "path": "content/mods/wakes.json",
-      "sha1": "45f358c64eb220458f640f159523763fc1b89661"
+      "path": "content/mods/wakes-reforged.json",
+      "sha1": "b0f097c22940bca8b49311eef5935bb659233a3b"
     },
     {
       "path": "content/mods/wizards.json",

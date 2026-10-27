@@ -1,0 +1,23 @@
+{
+  "name": "Wakes Reforged",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "E0SdeAoH",
+      "slug": "wakes-reforged",
+      "versionId": "au5h0Tju",
+      "versionNumber": "1.4.1",
+      "filename": "wakes-26.2-Fabric-1.4.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/E0SdeAoH/versions/au5h0Tju/wakes-26.2-Fabric-1.4.1.jar",
+      "sha1": "25399ed261c2ebbe6bfa0208b8d2d78cead71304",
+      "sha512": "23612ec377c35f5b1d3c25a9f24a836ecfd042f67dfc5a467dd09ae6079ab8f0696f617c3b9ff923305cc0ed35ca81b0c740159cbe0c4a98498e5e0b32535bb1",
+      "fileSize": 198567
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -147,7 +147,7 @@
 - [Visuality](https://modrinth.com/project/visuality) `0.7.15+26.3`
 - [voxy](https://modrinth.com/project/voxy) `0.2.19-beta`
 - [Voxy Seam Fix](https://modrinth.com/project/voxy-seam-fix) `0.2.1-release`
-- [Wakes](https://modrinth.com/project/wakes) `0.7.1+26.2`
+- [Wakes Reforged](https://modrinth.com/project/wakes-reforged) `1.4.1`
 - [Wisp's Colourful Wildflowers](https://modrinth.com/project/wisps-colourful-wildflowers) `1.0.0`
 - [Wizards (RPG Series)](https://modrinth.com/project/wizards) `3.1.3.003+26.2-fabric`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `fabric-26.2-26.6.2`
