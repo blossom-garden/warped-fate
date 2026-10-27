@@ -1,0 +1,10 @@
+{
+  "name": "Warped Fate",
+  "version": "1.0.0",
+  "minecraft": "26.2",
+  "loader": "fabric",
+  "loaderVersion": "0.20.1",
+  "channel": "beta",
+  "datapacks": "datapacks",
+  "formatVersion": 1
+}

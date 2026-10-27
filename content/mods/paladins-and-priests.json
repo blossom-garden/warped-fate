@@ -1,0 +1,23 @@
+{
+  "name": "Paladins & Priests (RPG Series)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "FxXkHaLe",
+      "slug": "paladins-and-priests",
+      "versionId": "miPZjBNT",
+      "versionNumber": "3.1.4.1+26.3-fabric",
+      "filename": "paladins-fabric-3.1.4.1+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/FxXkHaLe/versions/miPZjBNT/paladins-fabric-3.1.4.1%2B26.3.jar",
+      "sha1": "fca854f8ee6c42218181e5ea850ad6a55e336500",
+      "sha512": "89e326d1d37823344b51af051d4011176f0d76d02f5ac0626ab5720cf94b4823873a7d9aeebe66e7ca6c2a63a095f525caca1f78456b0d1f1709a4b7fba707fe",
+      "fileSize": 3139847
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

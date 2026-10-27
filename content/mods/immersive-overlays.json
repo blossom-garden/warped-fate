@@ -1,0 +1,25 @@
+{
+  "name": "Immersive Overlays",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "PKoLkD98",
+      "slug": "immersive-overlays",
+      "versionId": "zRpdNiF9",
+      "versionNumber": "1.8.6+26.2-fabric",
+      "filename": "immersiveoverlays-1.8.6+26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/PKoLkD98/versions/zRpdNiF9/immersiveoverlays-1.8.6%2B26.2-fabric.jar",
+      "sha1": "544a4157da77ebe7c031ceb7f9b5ff53f8226231",
+      "sha512": "0c509871f85eac5c2ab408f88d0caeebb809bce04eecb7b6cbb23a6e0069ae2741518169ce889cc0d9e24073c30833193bb5be75e50e6176724b653f52806be3",
+      "fileSize": 750100
+    }
+  },
+  "dependents": [
+    "72RRCWM6"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

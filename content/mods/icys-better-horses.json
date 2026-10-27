@@ -1,0 +1,23 @@
+{
+  "name": "Icy's Better Horses",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "XlUm5I57",
+      "slug": "icys-better-horses",
+      "versionId": "qJWooVub",
+      "versionNumber": "2.1.7",
+      "filename": "icys-better-horses-2.1.7-fab-26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XlUm5I57/versions/qJWooVub/icys-better-horses-2.1.7-fab-26.2.jar",
+      "sha1": "f0f19bf75e2130367be40812e1279f6240102c63",
+      "sha512": "c2ada4c4d0cd521f65bb99e47587ad8f62aa855a51674686afb9f7be7cb52d2db50b9426716fc9057cf5fe841db4712e47fafc5965939872049fad412b0af476",
+      "fileSize": 3828900
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

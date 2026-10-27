@@ -1,0 +1,23 @@
+{
+  "name": "Runelic",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "P4Xi5huA",
+      "slug": "runelic",
+      "versionId": "pWfq8W9r",
+      "versionNumber": "26.2.0.1",
+      "filename": "Runelic-fabric-MC26.2-26.2.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/P4Xi5huA/versions/pWfq8W9r/Runelic-fabric-MC26.2-26.2.0.1.jar",
+      "sha1": "3c30c8ccdb3f4d6f9578885dc5ce361f4777642d",
+      "sha512": "b812f9592af97a2c682201dd75c7e983a2ff916028689591305898eab0da4843db3c1e19aeeae9dce420b7c7fb894bf98d45b95830b473d46a2bf7b339cd16f5",
+      "fileSize": 66759
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

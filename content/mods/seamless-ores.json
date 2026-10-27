@@ -1,0 +1,23 @@
+{
+  "name": "Seamless Ores",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "oWpIIBJu",
+      "slug": "seamless-ores",
+      "versionId": "Z1zzvzUT",
+      "versionNumber": "5.1.0+fabric",
+      "filename": "seamlessores-fabric-5.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/oWpIIBJu/versions/Z1zzvzUT/seamlessores-fabric-5.1.0.jar",
+      "sha1": "c3c2f55ebde2630fd4b27fed019a4f9799b6dc13",
+      "sha512": "15adf713c51e3556dd6efd1feba61680b47c7ddc710f6be1faa4db734ec592b449ea5d81b3dfe246c9f2b83dd0f6fc4b60ffdc846f9d7f104de09fb89b864104",
+      "fileSize": 2258816
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

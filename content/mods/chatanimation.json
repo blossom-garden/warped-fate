@@ -1,0 +1,23 @@
+{
+  "name": "Chat Animation [Smooth Chat]",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "DnNYdJsx",
+      "slug": "chatanimation",
+      "versionId": "QZcotIcS",
+      "versionNumber": "1.3.5+fabric-26.3",
+      "filename": "chatanimation-fabric-1.3.5+mc26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/DnNYdJsx/versions/QZcotIcS/chatanimation-fabric-1.3.5%2Bmc26.3.jar",
+      "sha1": "760a2863d27662b8dcfdf844b495c922fa6a4cae",
+      "sha512": "ca42cca88fb0939235e3f8838af9109bc58a956f8f6eaaab500e74dfed15597349efaf2d6c998bf05b2eb1b9bdd26fb2706f7a5522ac58bd462c027720da130d",
+      "fileSize": 433526
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Kaleidoscope End Refabricated",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "B1KCNlDN",
+      "slug": "kaleidoscope-end-refabricated",
+      "versionId": "PEMhxLxY",
+      "versionNumber": "1.1.0-fabric+mc26.2",
+      "filename": "kaleidoscope_end-1.1.0-fabric+mc26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/B1KCNlDN/versions/PEMhxLxY/kaleidoscope_end-1.1.0-fabric%2Bmc26.2.jar",
+      "sha1": "f3183b6af791787a441ba3e71c334ec7a64c07df",
+      "sha512": "0a5408f480661dac98f602fbfb783c5df2e7fa4968b6f25027f8a3de0f49c9350afb523d73e66640348ac16bf97bcfaa8c13ae562eb98fec1195dad3eb51ec8d",
+      "fileSize": 562532
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

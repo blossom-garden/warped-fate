@@ -1,0 +1,26 @@
+{
+  "name": "Konkrete",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "J81TRJWm",
+      "slug": "konkrete",
+      "versionId": "pQLA2B54",
+      "versionNumber": "1.11.1-26.3-fabric",
+      "filename": "konkrete_fabric_1.11.1_MC_26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/J81TRJWm/versions/pQLA2B54/konkrete_fabric_1.11.1_MC_26.3.jar",
+      "sha1": "61412064baed880464ad30ef54cba93be8dccd67",
+      "sha512": "ef6b12dbf3f616ba4089e706f27d76c543987f4a20509bf3def711ddb9279b94170c67228b9e44a2e2c189a80a7c9a5cd4c7e079281b7ac1cb0ec7d9c46b9aa8",
+      "fileSize": 1214374
+    }
+  },
+  "dependents": [
+    "Wq5SjeWM",
+    "v3CYg2V9"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

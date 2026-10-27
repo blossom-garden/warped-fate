@@ -1,0 +1,23 @@
+{
+  "name": "Emotecraft Recording Addon",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "eURNg52n",
+      "slug": "emotecraft-recording-addon",
+      "versionId": "p1afdKDg",
+      "versionNumber": "1.5.0-26.2",
+      "filename": "emotecraft-recording-addon-1.5.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/eURNg52n/versions/p1afdKDg/emotecraft-recording-addon-1.5.0.jar",
+      "sha1": "91bf7ea3e01a260cebd6c726233b30a36b992e5c",
+      "sha512": "c12cbb04c698758d6ba784543274db3fa34e5b4588b5118e24d100178d9ec7ac17e7ecea16db0166789f023defc4a4726153cdf4956b3be084135743ea8370f6",
+      "fileSize": 50261
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

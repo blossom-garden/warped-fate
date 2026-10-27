@@ -1,0 +1,56 @@
+{
+  "name": "Mod Menu",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "mOgUt4GM",
+      "slug": "modmenu",
+      "versionId": "kyy7dbrZ",
+      "versionNumber": "21.0.0",
+      "filename": "modmenu-21.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/mOgUt4GM/versions/kyy7dbrZ/modmenu-21.0.0.jar",
+      "sha1": "66ec40f1cd0c037ddca2b5fc6b4b976d479c18e8",
+      "sha512": "588c0c557963f4778572ee81bfafc190b332c26d5926c5fe7e3e1614dcf8e14f58e3bc80a97694521dd05907e9753a7c8575048ea769e4dbf40a3db74a4e2606",
+      "fileSize": 856779
+    }
+  },
+  "dependents": [
+    "K0AkAin6",
+    "zLBn2IE4"
+  ],
+  "optionalDependents": [
+    "59ypHk8x",
+    "5pzBXDS3",
+    "5srFLIaK",
+    "72RRCWM6",
+    "8shC1gFX",
+    "9eGKb6K1",
+    "C1MoWQlb",
+    "DnNYdJsx",
+    "ETlrkaYF",
+    "Fb4jn8m6",
+    "LIqveQm1",
+    "LQ3K71Q1",
+    "OSQ8mw2r",
+    "OfKzpbRU",
+    "S3D3QF0M",
+    "TiF5QWZY",
+    "UaizcMKP",
+    "dlNu0RQY",
+    "fxxUqruK",
+    "nrikgvxm",
+    "oWpIIBJu",
+    "ohNO6lps",
+    "pVIWsXir",
+    "pYFUU6cq",
+    "qQyHxfxd",
+    "uIOfYdnw",
+    "uLbm7CG6",
+    "x1hIzbuY"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

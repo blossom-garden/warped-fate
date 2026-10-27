@@ -1,0 +1,27 @@
+{
+  "name": "Kaleidoscope Cookery Refabricated",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Ct11Kuii",
+      "slug": "kaleidoscope-cookery-refabricated",
+      "versionId": "8pmEOLME",
+      "versionNumber": "1.6.0.5-fabric+mc26.2",
+      "filename": "kaleidoscope_cookery-1.6.0.5-fabric+mc26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Ct11Kuii/versions/8pmEOLME/kaleidoscope_cookery-1.6.0.5-fabric%2Bmc26.2.jar",
+      "sha1": "eed1cf2b9c95c029d1be88c96cc81c9589ab5d7e",
+      "sha512": "e8ae4c31e4529d69ea9a55b615f6172161bfb12a586cf83a8f4e75edb0791841b2f879090f97f6e3f69361d4d6601e00bc8e4defd297b8ebbe33f22aafe85498",
+      "fileSize": 6450714
+    }
+  },
+  "dependents": [
+    "5Qu2osmI",
+    "B1KCNlDN",
+    "j0n7o8uq"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

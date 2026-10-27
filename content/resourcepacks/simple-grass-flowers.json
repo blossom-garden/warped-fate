@@ -1,0 +1,23 @@
+{
+  "name": "Simple Grass Flowers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ti9KkMHm",
+      "slug": "simple-grass-flowers",
+      "versionId": "Cd4Xa7Sr",
+      "versionNumber": "2.0.0",
+      "filename": "Simple Grass Flowers v2.0.0.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/ti9KkMHm/versions/Cd4Xa7Sr/Simple%20Grass%20Flowers%20v2.0.0.zip",
+      "sha1": "afb56cfc90e663526352f7bd75a3c733178fca45",
+      "sha512": "9ad752e71feb8fea4ccf2ecb23eecb85d48285e95744f28902bf505423a849a2ff74da6273982e7d38f7ea74385c67a9c188beaff38dae6e23473fbbd8bc11b5",
+      "fileSize": 208597
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

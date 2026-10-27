@@ -1,0 +1,23 @@
+{
+  "name": "Fresh Animations: Quivers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "T4pK4GiQ",
+      "slug": "fresh-animations-quivers",
+      "versionId": "RLEhLx95",
+      "versionNumber": "2.2.0",
+      "filename": "FA+Quivers-v2.2.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/T4pK4GiQ/versions/RLEhLx95/FA%2BQuivers-v2.2.zip",
+      "sha1": "b6307c2c7c0196298ccf53afff844d068e9805ac",
+      "sha512": "7414d6207279ee34cabc30d847e550c158d361131e401bc7b4d70fe4aceec226aeff07bc9f2e27afc9daa9945d651e9dacdb0d84df1d4b4d94964b10c62dccd5",
+      "fileSize": 89828
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

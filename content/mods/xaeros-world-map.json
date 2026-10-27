@@ -1,0 +1,23 @@
+{
+  "name": "Xaero's World Map",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NcUtCpym",
+      "slug": "xaeros-world-map",
+      "versionId": "VM8lNSSM",
+      "versionNumber": "fabric-26.3-1.47.2",
+      "filename": "xaeroworldmap-fabric-26.3-1.47.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NcUtCpym/versions/VM8lNSSM/xaeroworldmap-fabric-26.3-1.47.2.jar",
+      "sha1": "1282302b6c92050cfab7c1db45cf3d92d9a331c5",
+      "sha512": "cac3c0fb3121ddebc7f073571dcbce5f1811ca001ea94ef03c1da667e8a3413144f570c4b593f632358eff98fa138631ed7907fd1bd5da7d43c037ea782125fb",
+      "fileSize": 1488669
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

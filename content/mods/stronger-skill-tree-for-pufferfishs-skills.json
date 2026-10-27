@@ -1,0 +1,23 @@
+{
+  "name": "Stronger Skill Tree",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "KsIs7qhw",
+      "slug": "stronger-skill-tree-for-pufferfishs-skills",
+      "versionId": "AeMdWzQj",
+      "versionNumber": "2.0.0+mod",
+      "filename": "stronger-skill-tree-for-pufferfishs-skills-2.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KsIs7qhw/versions/AeMdWzQj/stronger-skill-tree-for-pufferfishs-skills-2.0.0.jar",
+      "sha1": "56d70028f92afb3b9aabc44d888c8f35743f254f",
+      "sha512": "81a99f8701e0e9f8dd495f6c1643d92c82b44d1a3a03b67409a0c511e8cff61e63e7608edc58d3c299e7b921be13de22af7261aede2df1cec462b39061d3e63b",
+      "fileSize": 129278
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

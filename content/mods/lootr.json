@@ -1,0 +1,23 @@
+{
+  "name": "Lootr",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "EltpO5cN",
+      "slug": "lootr",
+      "versionId": "gVwn7m2v",
+      "versionNumber": "1.25.42.124",
+      "filename": "lootr-fabric-26.3-1.25.42.124.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/EltpO5cN/versions/gVwn7m2v/lootr-fabric-26.3-1.25.42.124.jar",
+      "sha1": "34451e642ef673386359a584c4b83d381c69d252",
+      "sha512": "290786fd4af4011c4f09c425d262bacc80f6ef47e23fbf6424193c719b6045a70cae70308c95d30c5ab78bf1f5a3d089cc3b01db8cc4dacc1a74c0f2d70c245d",
+      "fileSize": 1583342
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

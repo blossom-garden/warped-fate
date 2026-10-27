@@ -1,0 +1,23 @@
+{
+  "name": "Visuality",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rI0hvYcd",
+      "slug": "visuality",
+      "versionId": "BNe9kpJ7",
+      "versionNumber": "0.7.15+26.3",
+      "filename": "visuality-0.7.15+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rI0hvYcd/versions/BNe9kpJ7/visuality-0.7.15%2B26.3.jar",
+      "sha1": "9c6c1554114150464716b8a82da8a8872ea3db8e",
+      "sha512": "90145cad547d329d5134eabbf45c7f35b1d0ce3ff2bcef8a1b187dc33723121b1a235c0cc259043588835b0cb7b31cba4aa84d738be810f0ea073308bec2eb4a",
+      "fileSize": 81970
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

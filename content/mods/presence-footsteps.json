@@ -1,0 +1,23 @@
+{
+  "name": "Presence Footsteps",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rcTfTZr3",
+      "slug": "presence-footsteps",
+      "versionId": "UUNiN7Tm",
+      "versionNumber": "1.14.0+26.3",
+      "filename": "PresenceFootsteps-1.14.0+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rcTfTZr3/versions/UUNiN7Tm/PresenceFootsteps-1.14.0%2B26.3.jar",
+      "sha1": "2747a6c39d42ef4024a26bb43fc17be5f1eb86b5",
+      "sha512": "70525da0c631f50608b67ecdfe62fd9410fdec7bc95510946716a6465cc109fe6b93be7c75022c47a0036f9954ff5912567a393e1356a75940e9b1da5580698b",
+      "fileSize": 5760504
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

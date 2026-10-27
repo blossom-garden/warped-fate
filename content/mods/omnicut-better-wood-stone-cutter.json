@@ -1,0 +1,23 @@
+{
+  "name": "OmniCut: Better Wood, Copper, and Stone Cutter",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MpEvPjRi",
+      "slug": "omnicut-better-wood-stone-cutter",
+      "versionId": "7roDSjEv",
+      "versionNumber": "1.121.0+mod",
+      "filename": "omnicut-better-wood-stone-cutter-1.121.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MpEvPjRi/versions/7roDSjEv/omnicut-better-wood-stone-cutter-1.121.0.jar",
+      "sha1": "841fd050225a36a79c4cd651aa67cdb6d8999535",
+      "sha512": "df61e57653d80bd1c90f1567b595d8849f66dd19d01405ceb672289262b5cf6915c0e2725f0a1b47ed3419257ea32f6ee4ae37dfd77e5efb6b3f2423fc1d7a93",
+      "fileSize": 4032845
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

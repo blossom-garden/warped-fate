@@ -1,0 +1,23 @@
+{
+  "name": "Cubes Without Borders",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ETlrkaYF",
+      "slug": "cubes-without-borders",
+      "versionId": "26KCwNI9",
+      "versionNumber": "5.0.0+26.3",
+      "filename": "cwb-5.0.0+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ETlrkaYF/versions/26KCwNI9/cwb-5.0.0%2B26.3.jar",
+      "sha1": "7e75cee129623fd6549df2915413e4afc36acf39",
+      "sha512": "abd2338408c3e46f02ef8741379d02a4bf34e6cf952d707f6f3cb145b9333c20b80bc787c03432a292d61e82a9453b9ebecd0ba3c7d50450b5087322914c1efc",
+      "fileSize": 95121
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

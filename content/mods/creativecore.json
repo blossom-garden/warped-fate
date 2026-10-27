@@ -1,0 +1,25 @@
+{
+  "name": "CreativeCore",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "OsZiaDHq",
+      "slug": "creativecore",
+      "versionId": "7YUEsxpw",
+      "versionNumber": "2.14.24",
+      "filename": "CreativeCore_FABRIC_v2.14.24_mc26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OsZiaDHq/versions/7YUEsxpw/CreativeCore_FABRIC_v2.14.24_mc26.3.jar",
+      "sha1": "d4e8c3ab82a2d44d0de89fda635677b402eaebc3",
+      "sha512": "d05bbab192eaff9e66496bc0ba7b2bce67c1d23d99132ec7241dd2c4c07c5199983bd60ad83246b0ad78609a2724358510fa189530c19b0590f5de494bbd19e5",
+      "fileSize": 1422113
+    }
+  },
+  "dependents": [
+    "KjL0jE2w"
+  ],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

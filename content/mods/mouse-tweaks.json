@@ -1,0 +1,23 @@
+{
+  "name": "Mouse Tweaks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "aC3cM3Vq",
+      "slug": "mouse-tweaks",
+      "versionId": "LeMuMhLv",
+      "versionNumber": "26.3-2.31-fabric",
+      "filename": "MouseTweaks-fabric-mc26.3-2.31.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/LeMuMhLv/MouseTweaks-fabric-mc26.3-2.31.jar",
+      "sha1": "65c0f5588900e7ade476164ec4915bfab52c129a",
+      "sha512": "61c011308b5d1d0b2163473cbbc1ad0f1b3ac873b77e3e9ff67ccb437a946fbe5f34077281ebd2b91647324969d319f6499ac4b319cfcb9ea027bac47a52c081",
+      "fileSize": 74569
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

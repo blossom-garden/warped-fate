@@ -1,0 +1,23 @@
+{
+  "name": "Take a Seat!",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Gg7qMzxE",
+      "slug": "tas",
+      "versionId": "4w2EAGOU",
+      "versionNumber": "1.0.4",
+      "filename": "takeaseat-1.0.4-26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Gg7qMzxE/versions/4w2EAGOU/takeaseat-1.0.4-26.2-fabric.jar",
+      "sha1": "a9e2d63cea5f3888fc2a8db33c74b98a03440ee0",
+      "sha512": "f9a6e80fdf013d2e4c9525a3fc9426b838b7e23cf485a5ec73d4f61cd4da1f5dd23dfdf6115781e35c50691f01525d8356749dd3ad30d91d2b1f5789df58c678",
+      "fileSize": 1052574
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

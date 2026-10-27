@@ -1,0 +1,23 @@
+{
+  "name": "Relics (RPG Series)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BDQucwF0",
+      "slug": "relics-rpg",
+      "versionId": "EkRmYh54",
+      "versionNumber": "1.4.1+26.3-fabric",
+      "filename": "relics-fabric-1.4.1+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BDQucwF0/versions/EkRmYh54/relics-fabric-1.4.1%2B26.3.jar",
+      "sha1": "4572276ad04a7d0fb95e7c99a1a2813fe2b2382f",
+      "sha512": "854f7209a446fa7dde1fc4ce303797d9fe6ef710949eddf1f23e3a41e93f6db65b75dbdb9cf7b7224d11bd35b02d80b73eafc1650bb5bcff2af58157e007ca63",
+      "fileSize": 2204608
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

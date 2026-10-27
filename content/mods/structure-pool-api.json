@@ -1,0 +1,31 @@
+{
+  "name": "Structure Pool API",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LrYZi08Q",
+      "slug": "structure-pool-api",
+      "versionId": "Zxs162Py",
+      "versionNumber": "1.3.0+26.3-fabric",
+      "filename": "structure_pool_api-fabric-1.3.0+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LrYZi08Q/versions/Zxs162Py/structure_pool_api-fabric-1.3.0%2B26.3.jar",
+      "sha1": "1b0a4ed5f7800ea0641cafb086ed0618dc328874",
+      "sha512": "3848879b5cdbc78d9be10fb94b98b65db24868560a96464f21247649d5688bd41f1f1ca34b4fa63d77d807aae0c2fcc7c3721454b6f5082a43f83a6b1d178561",
+      "fileSize": 127264
+    }
+  },
+  "dependents": [
+    "3MKqoGuP",
+    "FxXkHaLe",
+    "NkGaQMDA",
+    "QgooUXAJ",
+    "XIpMGI6r",
+    "bj4a8NjJ",
+    "sNJAIjUm"
+  ],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

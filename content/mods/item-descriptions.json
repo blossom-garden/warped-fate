@@ -1,0 +1,25 @@
+{
+  "name": "Item Descriptions",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "UaizcMKP",
+      "slug": "item-descriptions",
+      "versionId": "SZV6h9xw",
+      "versionNumber": "2.8.5+26.2-fabric",
+      "filename": "item_descriptions-2.8.5+26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/UaizcMKP/versions/SZV6h9xw/item_descriptions-2.8.5%2B26.2-fabric.jar",
+      "sha1": "779dceee6a573e67e403e0886dd12897a82317bc",
+      "sha512": "c919c86016fa32a34b2160203fb5b2fbe697d54656a5a0f771dbc85ac78d946dd65906554199a86fb79fd44a159a3b3161aa5d401a81305167d167ff08947a44",
+      "fileSize": 582571
+    }
+  },
+  "dependents": [
+    "72RRCWM6"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

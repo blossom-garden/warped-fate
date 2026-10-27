@@ -1,0 +1,23 @@
+{
+  "name": "Fresh Animations: Player Extension + Just Expressions",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "E6UMWeLX",
+      "slug": "fa-player-extension-plusjust-expressions",
+      "versionId": "4nucOSHc",
+      "versionNumber": "1.2",
+      "filename": "FA+Player_Expressions-v1.2.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/E6UMWeLX/versions/4nucOSHc/FA%2BPlayer_Expressions-v1.2.zip",
+      "sha1": "40d7a3ac13b83b8c79b917ccdf2851fe49567bc4",
+      "sha512": "3d168f6261738089ff670744b0133fbfd222843ed68e08f0085f06e1fe67e4bf6fa453b9251adc023bf815a281b592cfddf3145c67cda66ef3899912c059d27b",
+      "fileSize": 148923
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

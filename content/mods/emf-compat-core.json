@@ -1,0 +1,25 @@
+{
+  "name": "EMF Compat: Core",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hbGct5uU",
+      "slug": "emf-compat-core",
+      "versionId": "oOuwcnpx",
+      "versionNumber": "2.3.2",
+      "filename": "emf_compat_core_fabric_26.3_2.3.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hbGct5uU/versions/oOuwcnpx/emf_compat_core_fabric_26.3_2.3.2.jar",
+      "sha1": "73a1ca31addbe24823f0494f0f26ab74d4102664",
+      "sha512": "7cf5dea1372e9db532e7ceb3330bbc602f9336b4e5ab4fb344471cbed41b36353072aa40b7d4001cb1be5b2e11a896b9072e2832ea8cdcab1ce447e36fe63e46",
+      "fileSize": 175112
+    }
+  },
+  "dependents": [
+    "Smytm33T"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

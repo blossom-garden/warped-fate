@@ -1,0 +1,23 @@
+{
+  "name": "Call Your Happy Ghast",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "UsjYt3wc",
+      "slug": "call-your-happy-ghast",
+      "versionId": "LHPvBzhr",
+      "versionNumber": "v2.1.0+mod",
+      "filename": "call-your-happy-ghast-v2.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/UsjYt3wc/versions/LHPvBzhr/call-your-happy-ghast-v2.1.0.jar",
+      "sha1": "2d4ca09982195e67336aebe6119f06e22750433f",
+      "sha512": "101d808d8ac8e5e720b88f090a46602310ca0973ff22abde0783fd088e314466ae1d231deb12fc5fdedf9e8a38dd5c569e241795c04072407eb2cbc7504c8cc7",
+      "fileSize": 331041
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

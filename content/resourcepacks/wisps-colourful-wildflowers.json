@@ -1,0 +1,23 @@
+{
+  "name": "Wisp's Colourful Wildflowers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zVtAa1pJ",
+      "slug": "wisps-colourful-wildflowers",
+      "versionId": "EYf1Rgs4",
+      "versionNumber": "1.0.0",
+      "filename": "Wisps Wonderful Wildflowers v1.0.0.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/zVtAa1pJ/versions/EYf1Rgs4/Wisps%20Wonderful%20Wildflowers%20v1.0.0.zip",
+      "sha1": "363c3b4e61f2cc3fd8a964c76f2b415bc02ea964",
+      "sha512": "1082e0f1d113d775b3c5458d0ade332d7a4f112c41703be232f363a45a2cfa536fde2e987026e0a9d8593ee5b826c3cd7b92f9eb39921c4643fd8ee214223516",
+      "fileSize": 16079
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

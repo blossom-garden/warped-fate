@@ -1,0 +1,23 @@
+{
+  "name": "Mob Chains",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "xP7Ycf8m",
+      "slug": "mob-chains",
+      "versionId": "KVuIbqX4",
+      "versionNumber": "1.0.0",
+      "filename": "mobchains-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/xP7Ycf8m/versions/KVuIbqX4/mobchains-1.0.0.jar",
+      "sha1": "7ed48523927f36c5770165a123c01400f534af8b",
+      "sha512": "9c81834a11db072491a1a132d262ccac41afe4d496b625ebb59689b280a2bd819e7530b7c334504af475ac69d97b0181efe68dfa17bd3555ddb740309c91064a",
+      "fileSize": 39179
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "EMF Compat: Better Combat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Smytm33T",
+      "slug": "emf-compat-better-combat",
+      "versionId": "TwFiaJpe",
+      "versionNumber": "2.1.0",
+      "filename": "emf_compat_better_combat_fabric_26.3_2.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Smytm33T/versions/TwFiaJpe/emf_compat_better_combat_fabric_26.3_2.1.0.jar",
+      "sha1": "d3346e49af8d64ce7cfeff9d538b612c750aeda5",
+      "sha512": "353d2c209907a0ebe4570855acf9fc514d853029e34af2d4ab354bbb1926dff5e217e0f369f2f5232569732d52be0268fb367517e81d2eaa6ce5bb874f91a637",
+      "fileSize": 174478
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

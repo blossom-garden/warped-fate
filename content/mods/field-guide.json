@@ -1,0 +1,23 @@
+{
+  "name": "Field Guide",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "72RRCWM6",
+      "slug": "field-guide",
+      "versionId": "qzxdsvRg",
+      "versionNumber": "1.22.4+26.2-fabric",
+      "filename": "fieldguide-1.22.4+26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/72RRCWM6/versions/qzxdsvRg/fieldguide-1.22.4%2B26.2-fabric.jar",
+      "sha1": "18304460202440253028f1655e63336aa017e8d3",
+      "sha512": "4da517851e8b8cadfbe0d92e3d252c4847633a0a15dac21eff8e62430e1556ff186d31b529066e032c6b3ed32f7f4065a69000433196b2dfd38909b62a279910",
+      "fileSize": 1287671
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

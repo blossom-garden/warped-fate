@@ -1,0 +1,25 @@
+{
+  "name": "5555ff-lib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Lr1LVAwO",
+      "slug": "lib-5555ff",
+      "versionId": "iZN9XNXQ",
+      "versionNumber": "v1.1.5+mod",
+      "filename": "lib-5555ff-v1.1.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Lr1LVAwO/versions/iZN9XNXQ/lib-5555ff-v1.1.5.jar",
+      "sha1": "18ebd2305d51fa711299cd5ca43e74c0123b9611",
+      "sha512": "9b5e736c4cd57ee496a7c5a7eb24e187b9b94eee279403a56ef9d30a6ea8e380a1c5eddb15104b9d45667e44ef18ef23720ad8846c3893d2f8dcdd194227b1fa",
+      "fileSize": 1294128
+    }
+  },
+  "dependents": [
+    "UsjYt3wc"
+  ],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

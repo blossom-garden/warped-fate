@@ -1,0 +1,23 @@
+{
+  "name": "OmniCrossbow",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "TxqFWfQR",
+      "slug": "omnicrossbow",
+      "versionId": "Z8A31j65",
+      "versionNumber": "1.1.2+mc26.2",
+      "filename": "omnicrossbow-1.1.2+mc26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/TxqFWfQR/versions/Z8A31j65/omnicrossbow-1.1.2%2Bmc26.2.jar",
+      "sha1": "f64885f56d9dbd638c57441e91e34a8b9c647355",
+      "sha512": "f29778d0f20185d5c729e36be69863c357c7d29ccd2ef3cce8a292510f877f90682d673c7b9bc0a004e1d3ceabe21bbd248378f41d4bc577d5e0e9fac81cbedc",
+      "fileSize": 1128333
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

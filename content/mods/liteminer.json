@@ -1,0 +1,23 @@
+{
+  "name": "Liteminer",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "VTnHoofC",
+      "slug": "liteminer",
+      "versionId": "VUG9kERo",
+      "versionNumber": "4.5.2+26.2",
+      "filename": "liteminer-fabric-4.5.2+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/VTnHoofC/versions/VUG9kERo/liteminer-fabric-4.5.2%2B26.2.jar",
+      "sha1": "da770c4420cfe530e8b265867f4cd366eb0a36bf",
+      "sha512": "d7697bb4f1f3f1feabddb16a916aceb6086d45d2acdfaf1c055780bcd6f818927164a9da6d4924e3925987c3365d9abf014d849e76f34abf20c8148431219e1b",
+      "fileSize": 185556
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

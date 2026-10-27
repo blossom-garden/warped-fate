@@ -1,0 +1,25 @@
+{
+  "name": "Architectury API",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lhGA9TYQ",
+      "slug": "architectury-api",
+      "versionId": "1pMaB6So",
+      "versionNumber": "22.0.5+fabric",
+      "filename": "architectury-fabric-22.0.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1pMaB6So/architectury-fabric-22.0.5.jar",
+      "sha1": "8c5f566e32bd47fbb80be4932b9be1cfa97c4e3a",
+      "sha512": "14c61af2088b80b465f06edd3b3005038fa5be1c95a2161ce712c8da408a358038b7cd7ae4acf3198f6d47c693e4fdf65d646dac7e124f7cdd7f32bbc0dcd0ce",
+      "fileSize": 622542
+    }
+  },
+  "dependents": [
+    "nfn13YXA"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

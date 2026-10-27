@@ -1,0 +1,23 @@
+{
+  "name": "Enchancement",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6hN1V6wJ",
+      "slug": "enchancement",
+      "versionId": "wsmJktf2",
+      "versionNumber": "26.3-r4",
+      "filename": "enchancement-fabric-26.3-r4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6hN1V6wJ/versions/wsmJktf2/enchancement-fabric-26.3-r4.jar",
+      "sha1": "7b5a67940201dce8ce1c161cccb4ea813bd5ac76",
+      "sha512": "026ba47059f969c987b6d191afaaee0dae206003c5bfc3e7907f48651e80351e99a567fbdeedcb9439134da22c27d383c74d65de4b0ce1af370da5d3e75c7f76",
+      "fileSize": 2200345
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

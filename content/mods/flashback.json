@@ -1,0 +1,26 @@
+{
+  "name": "Flashback",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4das1Fjq",
+      "slug": "flashback",
+      "versionId": "cV1pa0YV",
+      "versionNumber": "0.43.6",
+      "filename": "Flashback-0.43.6-for-MC26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4das1Fjq/versions/cV1pa0YV/Flashback-0.43.6-for-MC26.3.jar",
+      "sha1": "4fd7d2d677332f58b00107b27615379eadc6cfcb",
+      "sha512": "80d194d117352942ebf2bc96914e5f0f550ab857204cda5b362459110ea22a38332825ecebf5ee3fc54d4f01c72279c0a06e45f26e26b62c49015e208167242e",
+      "fileSize": 201008177
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "eURNg52n"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

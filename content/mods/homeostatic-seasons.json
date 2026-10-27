@@ -1,0 +1,26 @@
+{
+  "name": "Homeostatic Seasons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "j3xSC4PA",
+      "slug": "homeostatic-seasons",
+      "versionId": "1bSif4Rz",
+      "versionNumber": "26.2-1.2.0.3",
+      "filename": "homeostaticseasons-26.2-fabric-1.2.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/j3xSC4PA/versions/1bSif4Rz/homeostaticseasons-26.2-fabric-1.2.0.3.jar",
+      "sha1": "c0f3e46bffa1547c2b07a9a8a224ab48b50f53e5",
+      "sha512": "acd56db85ae69ec70b4ef1a722f71b5118cd5ae7c026346eae1e77fcabb201b821b72177196bec4bc51c7193c5c695e051aa1d4de36cf7ea46765c3aee527905",
+      "fileSize": 1021308
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "tPLE214j"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Better Selective Combat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ARaBurjl",
+      "slug": "better-selective-combat",
+      "versionId": "olJzy4yP",
+      "versionNumber": "1.2.2+26.2-fabric",
+      "filename": "betterselectivecombat-fabric-1.2.2+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ARaBurjl/versions/olJzy4yP/betterselectivecombat-fabric-1.2.2%2B26.2.jar",
+      "sha1": "54a49e40b8ca79e3d62142ef71e6d8049936ee2e",
+      "sha512": "6e1afff2f1385d879d53039f27db7145aaaa319c0af359e95ca7ca75c4fff866805823d1ae152beca6ccb783cf65cb39cde4fea99fd0afae6110d31004bb19ba",
+      "fileSize": 143636
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

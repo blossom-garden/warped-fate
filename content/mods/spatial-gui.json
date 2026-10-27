@@ -1,0 +1,23 @@
+{
+  "name": "Spatial GUI",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zLBn2IE4",
+      "slug": "spatial-gui",
+      "versionId": "IwoDj3xl",
+      "versionNumber": "1.9.1-fabric+26.2",
+      "filename": "spatial-gui-1.9.1+26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zLBn2IE4/versions/IwoDj3xl/spatial-gui-1.9.1%2B26.2-fabric.jar",
+      "sha1": "926e6f43de7074b156f559ff7823cbed996ad1d8",
+      "sha512": "62f91af951f8f1a9a6e0fb75f133622202cc75292fc0e38d61eefd6b5a0904860180bb46fd11ea4110dc8b30da83edf055ee04f905d5351e2aedbde6c84737b1",
+      "fileSize": 317913
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

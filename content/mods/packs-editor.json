@@ -1,0 +1,23 @@
+{
+  "name": "Nautilus Studio - Packs Editor IDE",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zRIA8Bvc",
+      "slug": "packs-editor",
+      "versionId": "dEFwwlqx",
+      "versionNumber": "26.2-1.11.0",
+      "filename": "nautilus_studio-26.2-1.11.0-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zRIA8Bvc/versions/dEFwwlqx/nautilus_studio-26.2-1.11.0-fabric.jar",
+      "sha1": "f066c4feec8f736991619ceb99f22fe8195f3566",
+      "sha512": "3888d011c95c5eac5b1d7ff9aa4f8b1a67e1507f74749f328eb92349fe45b97cd6f533e8a824cfd981679e309479552c56e3325348c96d540ff71d2a5f6b1db0",
+      "fileSize": 4461953
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

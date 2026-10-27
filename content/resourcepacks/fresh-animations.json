@@ -1,0 +1,27 @@
+{
+  "name": "Fresh Animations",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "50dA9Sha",
+      "slug": "fresh-animations",
+      "versionId": "aQjwvDfY",
+      "versionNumber": "1.11.1",
+      "filename": "FreshAnimations_v1.11.1_1.20+.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/50dA9Sha/versions/aQjwvDfY/FreshAnimations_v1.11.1_1.20%2B.zip",
+      "sha1": "eaf28f57dee43c469534953517501a021d28cf21",
+      "sha512": "641a03d55c36920cc9a70d891bcca3347b196968bcb5637781f21b417b1ff893ce60652abcf02be872872fc1130ccc6785155ea3b19a0ed484de714b6229c922",
+      "fileSize": 743793
+    }
+  },
+  "dependents": [
+    "AhPf2E1u",
+    "aqKnWmBf",
+    "lctgpCsu"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

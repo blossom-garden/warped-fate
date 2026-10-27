@@ -1,0 +1,23 @@
+{
+  "name": "My Nether's Delight Refabricated",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "uIOfYdnw",
+      "slug": "my-nethers-delight-refabricated",
+      "versionId": "2sVwEKiI",
+      "versionNumber": "3.0.0-1.10.4-beta.1+26.2",
+      "filename": "mynethersdelight-3.0.0-1.10.4-beta.1-fabric+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uIOfYdnw/versions/2sVwEKiI/mynethersdelight-3.0.0-1.10.4-beta.1-fabric%2B26.2.jar",
+      "sha1": "f9559c264d925953720d813e76490b9ee5188a95",
+      "sha512": "c75e58718abe487af7cb3f0ad458d51dfcca2a8d7704928a3a78ed45c4e986bb1e007d9840a44ef53fbda84d1a555b6be7bf4f333f71ce33069866e6adf915d2",
+      "fileSize": 1245614
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

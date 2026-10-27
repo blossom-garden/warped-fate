@@ -1,0 +1,23 @@
+{
+  "name": "Gazebos (RPG Series)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "XIpMGI6r",
+      "slug": "gazebos",
+      "versionId": "ehxTt35M",
+      "versionNumber": "2.2.1+26.3-fabric",
+      "filename": "gazebo-fabric-2.2.1+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XIpMGI6r/versions/ehxTt35M/gazebo-fabric-2.2.1%2B26.3.jar",
+      "sha1": "acaea9b48fe34265091b5b462c66f394334552e0",
+      "sha512": "3bbb9adf6e359059255bae7097f2741f99e702ded68fd14e7e441f89d18d7d29104765e70f4964f5f823959828f7d39d33f98db5968313076f5fd82bad6e7582",
+      "fileSize": 111945
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

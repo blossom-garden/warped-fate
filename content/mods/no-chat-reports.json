@@ -1,0 +1,23 @@
+{
+  "name": "No Chat Reports",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qQyHxfxd",
+      "slug": "no-chat-reports",
+      "versionId": "6g96avt2",
+      "versionNumber": "Fabric-26.3-v2.21.0",
+      "filename": "NoChatReports-FABRIC-26.3-v2.21.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qQyHxfxd/versions/6g96avt2/NoChatReports-FABRIC-26.3-v2.21.0.jar",
+      "sha1": "ed49e6780f20fcad080a211f8163c9d130ebdd34",
+      "sha512": "ee7733f50049b9f847f3abeea7a1dcb429932a5e9be16e9ab4e1d7db752ff7e43f5a449f8d971fa60e6f96917e509a05d86a03399a71be2749449ef91ec39f67",
+      "fileSize": 239561
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

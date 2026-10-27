@@ -1,0 +1,23 @@
+{
+  "name": "Voxy Seam Fix",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "cjH8wqHu",
+      "slug": "voxy-seam-fix",
+      "versionId": "kJ2kduMW",
+      "versionNumber": "0.2.1-release",
+      "filename": "voxy-seam-fix-0.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/cjH8wqHu/versions/kJ2kduMW/voxy-seam-fix-0.2.1.jar",
+      "sha1": "b7e32c87e1dc8cbbd0d2e49b85a08ffac491bb8a",
+      "sha512": "86bcdb9c08bc05df7b5c15ad29829b73aafd2a59770c3799e21567988fdc99fc9783b3bd89b090bb701f89cec78c376026ea958ccf6ed9e8de770945c03d020c",
+      "fileSize": 51905
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Immersive Melodies",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "TaSmHw8V",
+      "slug": "immersive-melodies",
+      "versionId": "tYAeIdVd",
+      "versionNumber": "0.8.2+26.2",
+      "filename": "immersive_melodies-fabric-0.8.2+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/TaSmHw8V/versions/tYAeIdVd/immersive_melodies-fabric-0.8.2%2B26.2.jar",
+      "sha1": "33966c5451509a7e51dfdfdf6cf8aa1dc50c0d87",
+      "sha512": "c5e0322744e8c195d1a9a694500a9e9e857b1a67cd33de61edd4bc63146142317545ab90a0f9988e4717b75a6257da28eaca525aff7700d62325c05c57851dc7",
+      "fileSize": 5578741
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

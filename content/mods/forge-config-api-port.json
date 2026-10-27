@@ -1,0 +1,33 @@
+{
+  "name": "Forge Config API Port",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ohNO6lps",
+      "slug": "forge-config-api-port",
+      "versionId": "JpKvrr9J",
+      "versionNumber": "26.3.1",
+      "filename": "ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ohNO6lps/versions/JpKvrr9J/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+      "sha1": "a0d802d2cb010a5054c72f1ccf248433b6e0bafb",
+      "sha512": "b9339c21e14beec2eae0ca215317284bcaacef72e1d1dee8b3dfbe2de0eefaa758a172446df85419b6534557c479abe972d7d21f4ec194f2d436f9ed4329cb9f",
+      "fileSize": 609574
+    }
+  },
+  "dependents": [
+    "5Qu2osmI",
+    "B1KCNlDN",
+    "Ct11Kuii",
+    "QAGBst4M",
+    "UMblNdlF",
+    "ZX66K16c",
+    "fX4dIQCo",
+    "j0n7o8uq",
+    "pYFUU6cq"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

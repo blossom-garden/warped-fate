@@ -1,0 +1,23 @@
+{
+  "name": "CC: Tweaked",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gu7yAYhd",
+      "slug": "cc-tweaked",
+      "versionId": "tKLY4fAR",
+      "versionNumber": "1.120.3",
+      "filename": "cc-tweaked-26.3-fabric-1.120.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gu7yAYhd/versions/tKLY4fAR/cc-tweaked-26.3-fabric-1.120.3.jar",
+      "sha1": "689994db404b21e8922ed2acd0cd999e585d470c",
+      "sha512": "6ad51c9d0c8f6344df965bc016ab3c8d324af7e40316107339dc91d14a931fcf134b80c174d94de925004219200ca750101a8556955a9150a13872dc10a8389a",
+      "fileSize": 3036093
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

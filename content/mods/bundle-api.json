@@ -1,0 +1,26 @@
+{
+  "name": "Bundle API",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "n8QN6Z1a",
+      "slug": "bundle-api",
+      "versionId": "mQ3mo5tp",
+      "versionNumber": "5.0.0+26.3-fabric",
+      "filename": "bundle-api-fabric-5.0.0+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/n8QN6Z1a/versions/mQ3mo5tp/bundle-api-fabric-5.0.0%2B26.3.jar",
+      "sha1": "7883e38c21bcfc97503848796f26e1998ec7b9fe",
+      "sha512": "de58f657b581222a74c91e62bda6b180a902dab535a73590fc159acca6342770de7ccccd526f82cbad03ae1942ff5c46cee2ad287d20fdd8152d6c2f63121ae7",
+      "fileSize": 110433
+    }
+  },
+  "dependents": [
+    "QgooUXAJ",
+    "lP9Yrr1E"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

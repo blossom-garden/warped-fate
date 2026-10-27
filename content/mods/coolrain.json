@@ -1,0 +1,23 @@
+{
+  "name": "Cool Rain",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "iDyqnQLT",
+      "slug": "coolrain",
+      "versionId": "K9R06E1l",
+      "versionNumber": "1.4.0-26.3",
+      "filename": "coolrain-1.4.0-26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/iDyqnQLT/versions/K9R06E1l/coolrain-1.4.0-26.3.jar",
+      "sha1": "07f9724c04e0e8050cff2d07e4503462b983184a",
+      "sha512": "0bdf7b98afe37f4bb1fe6fe89889d55e26f82eba9a60dfe26241b7cba0d3ec14c3793d79a7847b6968a149d0bc3b935b17c68fb195e80285b873c3707da208cb",
+      "fileSize": 4140002
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Elytra Trims",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "XpzGz7KD",
+      "slug": "elytra-trims",
+      "versionId": "KiDLWRiF",
+      "versionNumber": "4.9.1",
+      "filename": "elytratrims-fabric-4.9.1+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XpzGz7KD/versions/KiDLWRiF/elytratrims-fabric-4.9.1%2B26.3.jar",
+      "sha1": "76553c51e0a4268e482d0a97711891f4e2a5bc36",
+      "sha512": "8a885f9fafa0faa5b1192ebd10ef2eae1c0b02b11296ccf9f952c744710f4a8d3f48f4f7716933e268a330a173f95ed634d5deb4054012b1f01b77bc54ae6925",
+      "fileSize": 1053799
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

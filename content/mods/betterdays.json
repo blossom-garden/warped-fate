@@ -1,0 +1,26 @@
+{
+  "name": "Better Days",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "tPLE214j",
+      "slug": "betterdays",
+      "versionId": "nGUdicIW",
+      "versionNumber": "26.3-4.1.1.7-FABRIC",
+      "filename": "betterdays-26.3-fabric-4.1.1.7-FABRIC.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/tPLE214j/versions/nGUdicIW/betterdays-26.3-fabric-4.1.1.7-FABRIC.jar",
+      "sha1": "89d26730902cd52755e85d477b15ee8c1421e707",
+      "sha512": "dc61c6579feec503dc5940fc085843606a125d82e1b5144bab48002c5541f901d0ebc3a3c0e9d29086f76a3f3b50fc0cb9b8eed414d41349f1f841ec3f6ddbbb",
+      "fileSize": 973004
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "j3xSC4PA"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

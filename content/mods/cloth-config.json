@@ -1,0 +1,41 @@
+{
+  "name": "Cloth Config API",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "9s6osm5g",
+      "slug": "cloth-config",
+      "versionId": "fg2uyxOW",
+      "versionNumber": "26.3.159+fabric",
+      "filename": "cloth-config-fabric-26.3.159.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/fg2uyxOW/cloth-config-fabric-26.3.159.jar",
+      "sha1": "9a5cce069380a2047250831dcb19f4ef1b15872d",
+      "sha512": "8924e19d41845096724fa10f3717bc51964a0edbbbcad0ff1e6c6187a398b08f356e49579a657c2dc44a7f92e3850771f3ca70bf8c1f654de60425163b91dbb1",
+      "fileSize": 1135009
+    }
+  },
+  "dependents": [
+    "5sy6g3kz",
+    "8shC1gFX",
+    "K0AkAin6",
+    "XvoWJaA2",
+    "nfn13YXA",
+    "oWpIIBJu",
+    "rI0hvYcd",
+    "x1hIzbuY"
+  ],
+  "optionalDependents": [
+    "9eGKb6K1",
+    "ETlrkaYF",
+    "Fb4jn8m6",
+    "LQ3K71Q1",
+    "PKoLkD98",
+    "Wb5oqrBJ",
+    "qQyHxfxd"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

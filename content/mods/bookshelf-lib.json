@@ -1,0 +1,25 @@
+{
+  "name": "Bookshelf",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "uy4Cnpcm",
+      "slug": "bookshelf-lib",
+      "versionId": "LCtizH5g",
+      "versionNumber": "26.2.0.4",
+      "filename": "Bookshelf-fabric-MC26.2-26.2.0.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/LCtizH5g/Bookshelf-fabric-MC26.2-26.2.0.4.jar",
+      "sha1": "9e2094064da3653779fe29540e4d0581c9e70f2c",
+      "sha512": "b3550394be80b54fe58c3fafd26f7e2b36c34368fa70fb8f44d32b828ff4dcc559fad6479269ad878277cd4e17ed3a0826e0c67a3d540914f96d4b7c1ee00ac3",
+      "fileSize": 307849
+    }
+  },
+  "dependents": [
+    "P4Xi5huA"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

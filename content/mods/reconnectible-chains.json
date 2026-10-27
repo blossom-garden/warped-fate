@@ -1,0 +1,26 @@
+{
+  "name": "Reconnectible Chains",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5pzBXDS3",
+      "slug": "reconnectible-chains",
+      "versionId": "8dnlNk9O",
+      "versionNumber": "2.4.4+26.2-fabric",
+      "filename": "connectiblechains-2.4.4+26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5pzBXDS3/versions/8dnlNk9O/connectiblechains-2.4.4%2B26.2-fabric.jar",
+      "sha1": "543409fb9ad262b4c0854cbf3ee7dff33937bb4d",
+      "sha512": "dda417b55085b602bb6561534170b4fd1aef49db4d57fdc505295c127754ae11b2f4481df73f90cac18e3681e30dcd51c4022a5eb697b4229965ce7e09889a58",
+      "fileSize": 266843
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "C1MoWQlb"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Polytone",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3qAYkBMB",
+      "slug": "polytone",
+      "versionId": "qM0zPlR5",
+      "versionNumber": "26.3-6.8.6-alpha",
+      "filename": "polytone-26.3-6.8.6-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3qAYkBMB/versions/qM0zPlR5/polytone-26.3-6.8.6-fabric.jar",
+      "sha1": "8762bac6ce639a519884d8dd686ac78642329cca",
+      "sha512": "f50370557e24f5404f17b6c055d35a3e4540f6d0dc9b9b406afc4d0f1f8a14a33b7993b747bb9e7d92f7c83d818493b1082858cf2f85b06d476107577af9a087",
+      "fileSize": 1681327
+    }
+  },
+  "dependents": [
+    "bY2CaVIh"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

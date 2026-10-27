@@ -1,0 +1,23 @@
+{
+  "name": "Unified API",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vWUn8M9s",
+      "slug": "unified-api",
+      "versionId": "5zRq5p0H",
+      "versionNumber": "26.2-1.0-beta-23-fabric",
+      "filename": "unified-api-26.2-1.0-beta-23+fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vWUn8M9s/versions/5zRq5p0H/unified-api-26.2-1.0-beta-23%2Bfabric.jar",
+      "sha1": "500a80c05a4f97e6e47018511cea17e1f9dd5898",
+      "sha512": "d64518c0ce08289797fa2ba702b4cebe3b3c0b9aabb5fbc0354ac91ee6e8165f66b1d392938a55476c1b012e59ef8a032c83aacc8a76d82798ad9dcc501e3eca",
+      "fileSize": 1068876
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

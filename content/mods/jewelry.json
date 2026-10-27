@@ -1,0 +1,23 @@
+{
+  "name": "Jewelry (RPG Series)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "sNJAIjUm",
+      "slug": "jewelry",
+      "versionId": "xpXy6vPf",
+      "versionNumber": "2.5.1+26.3-fabric",
+      "filename": "jewelry-fabric-2.5.1+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sNJAIjUm/versions/xpXy6vPf/jewelry-fabric-2.5.1%2B26.3.jar",
+      "sha1": "3b7acf0d241aa934e00efd95b09a0fe0d507b76d",
+      "sha512": "34d176524f3873124c6024ecca5b428c585d603b7de89cfe018f808d3d1b6a4aa6915d24f6e8d74c33922373acc7d162812613ca4d054126a40940d1b48b86ee",
+      "fileSize": 677532
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

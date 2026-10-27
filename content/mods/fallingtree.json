@@ -1,0 +1,23 @@
+{
+  "name": "FallingTree",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Fb4jn8m6",
+      "slug": "fallingtree",
+      "versionId": "6wMhF5Oq",
+      "versionNumber": "26.2-26.2.0.4",
+      "filename": "FallingTree-26.2-25.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/6wMhF5Oq/FallingTree-26.2-25.jar",
+      "sha1": "9f583b0c57b964b2da6381fcec34ba124b65f509",
+      "sha512": "0e59ca949e50fc718ed4642ea8adaaa395e9fd3c5bbe136b0ef0c9f91144814682b6dfa9578ba77c3234ee27f55399d3ac9081eedf05fee0051013571aa3047c",
+      "fileSize": 493177
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

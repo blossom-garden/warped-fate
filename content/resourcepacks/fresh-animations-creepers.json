@@ -1,0 +1,23 @@
+{
+  "name": "Fresh Animations: Creepers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "AhPf2E1u",
+      "slug": "fresh-animations-creepers",
+      "versionId": "GrfbfoJB",
+      "versionNumber": "2.1.0",
+      "filename": "FA+Creepers-v2.1.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/AhPf2E1u/versions/GrfbfoJB/FA%2BCreepers-v2.1.zip",
+      "sha1": "41ebafbc64e1d90ef1628e3ffb8da7d2dd3b2c6c",
+      "sha512": "6c0d1e295f3123c7ee27c8538aa92822952bf20623215adc1278774eefbbb1fff9aab16d1599642fde2b5d9c8a84de2fc1c0234880264fed18d1d32a5fa9be9d",
+      "fileSize": 80737
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

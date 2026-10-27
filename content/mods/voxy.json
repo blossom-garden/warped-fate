@@ -1,0 +1,25 @@
+{
+  "name": "voxy",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "fxxUqruK",
+      "slug": "voxy",
+      "versionId": "iIrM8ZKQ",
+      "versionNumber": "0.2.20-beta",
+      "filename": "voxy-0.2.20-beta.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/fxxUqruK/versions/iIrM8ZKQ/voxy-0.2.20-beta.jar",
+      "sha1": "a0efa54716b0fcbf4075cc18f4dbfbdc3b0cf305",
+      "sha512": "ab502017b3241e1307717ca426ba564f1450ddb7d9d37e95759e57ee5edc7cb014aa48628f51f6010ffd2a410dadf1f4eea7ba86c0da6233059c0a6120157a01",
+      "fileSize": 12668812
+    }
+  },
+  "dependents": [
+    "cjH8wqHu"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

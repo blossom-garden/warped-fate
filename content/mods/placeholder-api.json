@@ -1,0 +1,25 @@
+{
+  "name": "Text Placeholder API",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "eXts2L7r",
+      "slug": "placeholder-api",
+      "versionId": "lXytLqWj",
+      "versionNumber": "3.2.0+26.3",
+      "filename": "placeholder-api-3.2.0+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/eXts2L7r/versions/lXytLqWj/placeholder-api-3.2.0%2B26.3.jar",
+      "sha1": "4c455faa6333dbaef72cedbb91fe4a2a03176741",
+      "sha512": "eb2bb31e51068aad2581b7864ea7b11b1209ba1c2b27551cd5837d9b312b818b73bb47c06374b46b99b73401c62c6b6c115f702c55aed6afd467ad8ad6448de4",
+      "fileSize": 254959
+    }
+  },
+  "dependents": [
+    "mOgUt4GM"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

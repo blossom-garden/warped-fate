@@ -1,0 +1,23 @@
+{
+  "name": "Particular ✨ Reforged",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "pYFUU6cq",
+      "slug": "particular-reforged",
+      "versionId": "erj2kjMs",
+      "versionNumber": "1.5.7",
+      "filename": "particular-26.3-Fabric-1.5.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pYFUU6cq/versions/erj2kjMs/particular-26.3-Fabric-1.5.7.jar",
+      "sha1": "9ce277e691b7dfc23d5c0ff561e1163c55d9fc1a",
+      "sha512": "01b656a45a6c31bd96ff513badd741696cf22860ef51b43d640a5fd6510298469c8cb32df59624fa3abfa04e2e2f5a37667b361f932c11a3648ee56b3904997a",
+      "fileSize": 287956
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

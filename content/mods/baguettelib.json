@@ -1,0 +1,25 @@
+{
+  "name": "BaguetteLib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "OfKzpbRU",
+      "slug": "baguettelib",
+      "versionId": "T7PHIuOE",
+      "versionNumber": "2.0.8",
+      "filename": "baguettelib-26.3-Fabric-2.0.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OfKzpbRU/versions/T7PHIuOE/baguettelib-26.3-Fabric-2.0.8.jar",
+      "sha1": "9a7395f94864ee022de8fa00c5506690652320fd",
+      "sha512": "d20b4f1483deb4031404885f45bb96788b891b60dcc6b4917586c993c6cbae385ad7cd45cfe8b05e9f57985f697b5ac090457474bce95ef04039713f6be77d4a",
+      "fileSize": 106523
+    }
+  },
+  "dependents": [
+    "pYFUU6cq"
+  ],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

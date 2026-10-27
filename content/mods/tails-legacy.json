@@ -1,0 +1,23 @@
+{
+  "name": "Tails Legacy",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MUD8QUkv",
+      "slug": "tails-legacy",
+      "versionId": "mViYdXdu",
+      "versionNumber": "4.0.4+26.2-fabric",
+      "filename": "TailsLegacy-4.0.4+26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MUD8QUkv/versions/mViYdXdu/TailsLegacy-4.0.4%2B26.2-fabric.jar",
+      "sha1": "f989f49885e99f8405e16abaf473f1b59a34a6eb",
+      "sha512": "b8d6fe7a524687f1a24424f9099bd0f625b082f4741ba504741ec756681f2f16bcbf799a5605a4daac7b38347bab045293cf837fb9dd72063ba897587e44639c",
+      "fileSize": 567947
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

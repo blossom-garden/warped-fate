@@ -1,0 +1,26 @@
+{
+  "name": "Pufferfish's Skills",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hqQqvaa4",
+      "slug": "skills",
+      "versionId": "uijj8Imm",
+      "versionNumber": "0.19.2",
+      "filename": "puffish_skills-0.19.2-26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hqQqvaa4/versions/uijj8Imm/puffish_skills-0.19.2-26.2-fabric.jar",
+      "sha1": "bc0f8d4a6e9e62fad9b4cefe7175ea34bc36d514",
+      "sha512": "b39d1ba62d6c81369dd3e2e05058f6e53ccd1ea7be4b4014573cc732e31e4eab86271bddea926d85d0ca2a4c1203d420967c5d08e2cb733e2093d67a6408135a",
+      "fileSize": 640069
+    }
+  },
+  "dependents": [
+    "4w7YR25f",
+    "PjDhruSC"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

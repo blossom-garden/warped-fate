@@ -1,0 +1,23 @@
+{
+  "name": "Ghast Direction",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "7gwuN94K",
+      "slug": "ghast-direction",
+      "versionId": "HtzmVMUu",
+      "versionNumber": "2.0.1+26.2-fabric",
+      "filename": "ghastdirection-fabric-2.0.1+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/7gwuN94K/versions/HtzmVMUu/ghastdirection-fabric-2.0.1%2B26.2.jar",
+      "sha1": "d7cbacfcccf3b4c3dfce753a02b3621340cb0c7f",
+      "sha512": "3f6936dba1d89e06f0aad90744ffd1c56000264f2edfe029ff0a09d0c56a142a220be3a2500f18020d70c24e0ac67d12a409fb625a03317eb29dfe64bcb5bdd1",
+      "fileSize": 135270
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

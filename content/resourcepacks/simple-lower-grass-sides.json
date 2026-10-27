@@ -1,0 +1,23 @@
+{
+  "name": "Simple Lower Grass Sides",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "yANRnOx8",
+      "slug": "simple-lower-grass-sides",
+      "versionId": "S1rUIKTX",
+      "versionNumber": "1.3.0",
+      "filename": "Simple Lower Grass Sides v1.3.0.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/yANRnOx8/versions/S1rUIKTX/Simple%20Lower%20Grass%20Sides%20v1.3.0.zip",
+      "sha1": "33054fdd23c86966f1a35d310311ca1c1b196c65",
+      "sha512": "174a851880365c3ba0fa1b6dd6f3c3844894074bf34bf137cde697b813307e2cf66d4644cbf07e31425d5d32b90651a9b759c9b70534a20ffc5b5a2c241ed625",
+      "fileSize": 252776
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

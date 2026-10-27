@@ -1,0 +1,23 @@
+{
+  "name": "Ziplines: Rezipped!",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "C1MoWQlb",
+      "slug": "ziplines-rezipped",
+      "versionId": "kfZBaPj0",
+      "versionNumber": "1.5.3+26.2-fabric",
+      "filename": "zipline-1.5.3+26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/C1MoWQlb/versions/kfZBaPj0/zipline-1.5.3%2B26.2-fabric.jar",
+      "sha1": "5f51e92b41ada54be05efb0b97beb54759ab78bc",
+      "sha512": "4246e4f7cbfe0efa75c87fa700261ab02bfbb21e86c4b0798b35b35be0fd1853e8a3117a19deaa8beb4e7b6e40b757c1ddd1f437a194dab0450a95498d50b3d1",
+      "fileSize": 91759
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

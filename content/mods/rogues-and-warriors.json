@@ -1,0 +1,23 @@
+{
+  "name": "Rogues & Warriors (RPG Series)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3MKqoGuP",
+      "slug": "rogues-and-warriors",
+      "versionId": "vMFN5Fd1",
+      "versionNumber": "3.1.4.1+26.3-fabric",
+      "filename": "rogues-fabric-3.1.4.1+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3MKqoGuP/versions/vMFN5Fd1/rogues-fabric-3.1.4.1%2B26.3.jar",
+      "sha1": "fcb674bec4ed02a7f28c711818c27c9b4c074447",
+      "sha512": "abe53ff442936fc62ab5d8bdd593d8f4e0229d962c6437b7e442f68e1a2c2dcb5da80dade1f5179245a95bdceada78429c701d95c13ab18241587f327d1a679d",
+      "fileSize": 1810048
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

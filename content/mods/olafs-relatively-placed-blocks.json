@@ -1,0 +1,23 @@
+{
+  "name": "Olafs Relatively Placed Blocks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ev5ltlL2",
+      "slug": "olafs-relatively-placed-blocks",
+      "versionId": "IAYCUXQ9",
+      "versionNumber": "2.0.0",
+      "filename": "olafsrelativeblocks-2.0.0+mc26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ev5ltlL2/versions/IAYCUXQ9/olafsrelativeblocks-2.0.0%2Bmc26.2.jar",
+      "sha1": "5ccaecba303d553f44d0c83582256668767e99be",
+      "sha512": "df6b9609507781a676fee5da657775885327cbf65ebeba3d8d015fb920c20d2b6fa60461eaa596d13ec7676f4684b00fe77ebb77fb86d7510d006b26f2b302d8",
+      "fileSize": 140329
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

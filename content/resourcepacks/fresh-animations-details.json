@@ -1,0 +1,23 @@
+{
+  "name": "Fresh Animations: Details",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lctgpCsu",
+      "slug": "fresh-animations-details",
+      "versionId": "tGydmcT3",
+      "versionNumber": "2.2.1",
+      "filename": "FA+Details-v2.2.1.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/lctgpCsu/versions/tGydmcT3/FA%2BDetails-v2.2.1.zip",
+      "sha1": "456243af4db5e0b575b1f31c0ba5edfac24ec346",
+      "sha512": "f5f84645c2665e772d6db80a201e7dda0feb570a82445b72e7012665b6df238357a8b62e6d2655a43146fd309c36125ed18d9512ee924f89587ef627c6f3c753",
+      "fileSize": 289745
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

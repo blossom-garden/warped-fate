@@ -1,0 +1,25 @@
+{
+  "name": "Konfig",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "pp7kIrlM",
+      "slug": "konfig",
+      "versionId": "lX5eM1JM",
+      "versionNumber": "0.10.2+26.2",
+      "filename": "konfig-fabric-0.10.2+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pp7kIrlM/versions/lX5eM1JM/konfig-fabric-0.10.2%2B26.2.jar",
+      "sha1": "33662bc06b26e45cc4b47b3cf45706922233f2c1",
+      "sha512": "2f21fa48b270d1c457bdba3169fe87ed204a960bfecbbe22ec6e540ae922e4816e80a42858f1fd6b5f11b9b940b4dbb1abcfac9e942938c304a859478c9ef3fa",
+      "fileSize": 1469314
+    }
+  },
+  "dependents": [
+    "VTnHoofC"
+  ],
+  "clientSide": "unknown",
+  "serverSide": "unknown"
+}

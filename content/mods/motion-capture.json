@@ -1,0 +1,23 @@
+{
+  "name": "Motion Capture",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gWu44BYU",
+      "slug": "motion-capture",
+      "versionId": "8hI2qsj0",
+      "versionNumber": "1.3.10-fabric-26.2",
+      "filename": "Mocap-FABRIC-26.2-1.3.10.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gWu44BYU/versions/8hI2qsj0/Mocap-FABRIC-26.2-1.3.10.jar",
+      "sha1": "9e51e42fa3bfa87c83d5626c338863a806ba9193",
+      "sha512": "fb1a3377b9feac751881ef82f5b837b95a168d37f298cbbdd363b7a95fc27b76e6abc4421197c71dd82c9d1665c630877b2f6340a65cb48ef635e65a17ac3fcd",
+      "fileSize": 270909
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

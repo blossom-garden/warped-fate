@@ -1,0 +1,26 @@
+{
+  "name": "[ETF] Entity Texture Features",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BVzZfTc1",
+      "slug": "entitytexturefeatures",
+      "versionId": "OOEycXyN",
+      "versionNumber": "7.2.6-fabric-26.3",
+      "filename": "entity_texture_features-7.2.6-26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/OOEycXyN/entity_texture_features-7.2.6-26.3-fabric.jar",
+      "sha1": "40fd33455e0543a5716f8cb7100d0d3c7abde3d8",
+      "sha512": "21ef9e7640a2e1e06f5dba10bcf830d6410255e9fdd204504f021c6e3c697d1b86203089b5b21dd99821a2b5f1a237ac4c798f3287562f160786572d6756c4ff",
+      "fileSize": 793054
+    }
+  },
+  "dependents": [
+    "4I1XuqiY",
+    "E6UMWeLX"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

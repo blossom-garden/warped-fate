@@ -1,0 +1,23 @@
+{
+  "name": "Sodium Extra",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "PtjYWJkn",
+      "slug": "sodium-extra",
+      "versionId": "SachDQow",
+      "versionNumber": "mc26.3-0.9.6-beta.1+fabric",
+      "filename": "sodium-extra-fabric-0.9.6-beta.1+mc26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/PtjYWJkn/versions/SachDQow/sodium-extra-fabric-0.9.6-beta.1%2Bmc26.3.jar",
+      "sha1": "71c63d9af92ce960bf8fefb55b1ba31f89307bde",
+      "sha512": "8ca0f3fa69df6bb745adb65f20441a58156114a08b093fa7f75f2f26b73ecadb9d17ddbdefd0b12bbdfa6d1ff4986f82c1362fe4f1ccafeb48289ed9ffa1789d",
+      "fileSize": 481978
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

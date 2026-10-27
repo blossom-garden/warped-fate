@@ -1,0 +1,23 @@
+{
+  "name": "Sun & Moon Fusion",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Lhu1mjD6",
+      "slug": "sun-moon-fusion",
+      "versionId": "F9zqN1Rb",
+      "versionNumber": "3",
+      "filename": "Sun & Moon Fusion 3.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/Lhu1mjD6/versions/F9zqN1Rb/Sun%20%26%20Moon%20Fusion%203.zip",
+      "sha1": "932d6bcc402ff29e4740927dd8be448ae68e565d",
+      "sha512": "f2f7f7c9caefe24561caae582945330994a0c72f16bc44c51aaba94284028ad20cfc90d1eb606f23f61610130878b6302fc7f21d12bee9ec6491803c25994f89",
+      "fileSize": 10575
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Explosive Enhancement",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "OSQ8mw2r",
+      "slug": "explosive-enhancement",
+      "versionId": "q9vZmPqg",
+      "versionNumber": "1.4.2-26.2",
+      "filename": "explosive-enhancement-1.4.2-26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/q9vZmPqg/explosive-enhancement-1.4.2-26.2.jar",
+      "sha1": "18214af634d37a211c5dd1c2d2136ee9cd2a7df7",
+      "sha512": "c500699ec9b9059b2e7a40f216694dadd9d7d54cf7cb7b556e9cdc650cd842ee61bcef462cc31fc5884261ae64976dde13c57588938666cbc2caf8c3af9f9f3a",
+      "fileSize": 118316
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

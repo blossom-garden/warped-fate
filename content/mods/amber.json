@@ -1,0 +1,25 @@
+{
+  "name": "Amber",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vjGZJDu5",
+      "slug": "amber",
+      "versionId": "UYGCx60S",
+      "versionNumber": "11.7.0+26.2",
+      "filename": "amber-fabric-11.7.0+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vjGZJDu5/versions/UYGCx60S/amber-fabric-11.7.0%2B26.2.jar",
+      "sha1": "1012b8d6d24f34493d81de613e5f60f8b74b2f6d",
+      "sha512": "33218882d88632ac799a0a263487987099c186f167a238d36357ca6f6da50a61c975479fa0c695e07e28b3317d22affafc4d7e597c1b20b4c8496bd31f39560a",
+      "fileSize": 417173
+    }
+  },
+  "dependents": [
+    "VTnHoofC"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

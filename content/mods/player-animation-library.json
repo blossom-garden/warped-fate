@@ -1,0 +1,27 @@
+{
+  "name": "Player Animation Library",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ha1mEyJS",
+      "slug": "player-animation-library",
+      "versionId": "xJ30QmpE",
+      "versionNumber": "1.2.8",
+      "filename": "PlayerAnimationLibMerged-1.2.8+mc.26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ha1mEyJS/versions/xJ30QmpE/PlayerAnimationLibMerged-1.2.8%2Bmc.26.3.jar",
+      "sha1": "e878fad023249fb2e039ddc6ce67821e1ba22960",
+      "sha512": "d6870759e2f5f83c6a74b2d02aeabab937d6d8da8c46245566646bc6e8efaeeb06c978edc43a50b57a0de2d015b341c284382bc5d4ae2e450d1b6aa5f8e2e97e",
+      "fileSize": 406793
+    }
+  },
+  "dependents": [
+    "5sy6g3kz",
+    "XvoWJaA2",
+    "pZ2wrerK"
+  ],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

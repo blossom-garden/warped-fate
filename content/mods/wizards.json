@@ -1,0 +1,23 @@
+{
+  "name": "Wizards (RPG Series)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NkGaQMDA",
+      "slug": "wizards",
+      "versionId": "KQuYpfVP",
+      "versionNumber": "3.1.4+26.3-fabric",
+      "filename": "wizards-fabric-3.1.4+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NkGaQMDA/versions/KQuYpfVP/wizards-fabric-3.1.4%2B26.3.jar",
+      "sha1": "d068d42039c59811fa5e7b2ac3fd21e990510548",
+      "sha512": "c93d1034a348c9ec29316b5e6a80fe4f29b35868ed7f27090c6c809ac4f2a018a87baa602c31071b6a3adba4cecec22925c9e5df0eed0461bf9f9f972f602e71",
+      "fileSize": 4570044
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

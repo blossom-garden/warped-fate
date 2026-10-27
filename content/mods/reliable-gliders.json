@@ -1,0 +1,23 @@
+{
+  "name": "Reliable Gliders",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "pVIWsXir",
+      "slug": "reliable-gliders",
+      "versionId": "BZxe7upg",
+      "versionNumber": "2.0.0+26.2-fabric",
+      "filename": "reliable_gliders-2.0.0+26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pVIWsXir/versions/BZxe7upg/reliable_gliders-2.0.0%2B26.2-fabric.jar",
+      "sha1": "7b68344b8ac4409f1c5110a8a80f1c39cf44b527",
+      "sha512": "cf286622def1afec99fc29367732f0e53b58602f9436bdf9187ba197f01dc485d1a868334e2f57df08d930aa93409e5d82127efa114e653aedb88e716f9a73f3",
+      "fileSize": 61903
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Arsenal (RPG Series)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LiP9Q3KV",
+      "slug": "arsenal-rpg-series",
+      "versionId": "wb7KcnBT",
+      "versionNumber": "1.5.1+26.3-fabric",
+      "filename": "arsenal-fabric-1.5.1+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LiP9Q3KV/versions/wb7KcnBT/arsenal-fabric-1.5.1%2B26.3.jar",
+      "sha1": "bafaed8ace7bc6a277d76d0766ad84951e817c05",
+      "sha512": "926969d54386a0cfc7bacd335482b171c787cc3f6e6ba470c3fa99f47cb6114017bbc3226bdaf95b51effa54acdca49cfd4d38e1488f58d9566cabbb6a5b75dd",
+      "fileSize": 1209705
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

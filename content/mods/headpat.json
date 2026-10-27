@@ -1,0 +1,23 @@
+{
+  "name": "Headpat a Friend!",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vETxChiy",
+      "slug": "headpat",
+      "versionId": "kq9IEA2S",
+      "versionNumber": "1.0.7+26.2",
+      "filename": "headpats-1.0.7+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vETxChiy/versions/kq9IEA2S/headpats-1.0.7%2B26.2.jar",
+      "sha1": "4a16337864aabacc023a036c2e3439b9f24302df",
+      "sha512": "8ba3e0f4ca6c890d327dae41070c803dba48616e955bd42ff998f86a78737cdeb76dc9ea5f60c5254e7650d596a72d69bdf60df356be67944af0264c32a7b990",
+      "fileSize": 208616
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

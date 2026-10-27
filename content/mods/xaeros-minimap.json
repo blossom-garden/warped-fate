@@ -1,0 +1,23 @@
+{
+  "name": "Xaero's Minimap",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1bokaNcj",
+      "slug": "xaeros-minimap",
+      "versionId": "MfxfgXaO",
+      "versionNumber": "fabric-26.3-26.6.2",
+      "filename": "xaerominimap-fabric-26.3-26.6.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1bokaNcj/versions/MfxfgXaO/xaerominimap-fabric-26.3-26.6.2.jar",
+      "sha1": "9b44e5718f9258ed32283a391e19a1d46464188a",
+      "sha512": "edf57b80cfe0e0fe229728a6babc3b25c364c07a0406bcdb3a21f73fc225b98954c68ff456c7b1af3182c48512f29d47238ddc501dbfd5eaca0a4609fddcc280",
+      "fileSize": 2233189
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

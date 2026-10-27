@@ -1,0 +1,23 @@
+{
+  "name": "Better Clouds",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5srFLIaK",
+      "slug": "better-clouds",
+      "versionId": "mo1L4rI7",
+      "versionNumber": "1.15.0-beta.7",
+      "filename": "better-clouds-1.15.0-beta.7+26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5srFLIaK/versions/mo1L4rI7/better-clouds-1.15.0-beta.7%2B26.3-fabric.jar",
+      "sha1": "ae7771308dd9d2c0e0b03c9ad073262e2b36e9b4",
+      "sha512": "1fd3814991982765e928654da910aa3ffa8350f6d1109ba0299df26477dcace186d29f0fb7ab9d995a38e5d24c2df303c5338bf731158c6414372b4cfbcfe404",
+      "fileSize": 1447405
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

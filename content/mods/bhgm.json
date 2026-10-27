@@ -1,0 +1,23 @@
+{
+  "name": "Better Happy Ghast Movement",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "mvqjNtw8",
+      "slug": "bhgm",
+      "versionId": "exPHvwX2",
+      "versionNumber": "1.0.0",
+      "filename": "BetterHappyGhastMovement-fabric-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/mvqjNtw8/versions/exPHvwX2/BetterHappyGhastMovement-fabric-1.0.0.jar",
+      "sha1": "45d211947f2bff323f378481e2240456a7586c76",
+      "sha512": "7888a337e4642a673b035803120fba8127d96797dc155d222b325dd8849f75bf5c32679967debee9c49c02c0ff53d57ad879e528594bba0c1226e6b97e5364e5",
+      "fileSize": 132631
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

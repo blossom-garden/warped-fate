@@ -1,0 +1,23 @@
+{
+  "name": "Tweaks Delight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "k4B832GB",
+      "slug": "tweaks-delight",
+      "versionId": "oj60C4Gt",
+      "versionNumber": "26.06.24-26.2-fabric",
+      "filename": "tweaksdelight-26.06.24-26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/k4B832GB/versions/oj60C4Gt/tweaksdelight-26.06.24-26.2-fabric.jar",
+      "sha1": "c25bcf917d64d84c2a4d22edaa4fd224ece73d76",
+      "sha512": "3721e9f7009dbae1bcc0a1e9abfcd4bb098472e34bfe9e31e4a9d6dc8cd4fde2d45c47f20c25acaef0de9bb6e42ca01defd7ba45098e897b8e2daf1fdea9fad2",
+      "fileSize": 34801
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

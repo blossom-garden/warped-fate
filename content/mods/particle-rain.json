@@ -1,0 +1,23 @@
+{
+  "name": "Particle Rain",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "nrikgvxm",
+      "slug": "particle-rain",
+      "versionId": "ecVAaY1R",
+      "versionNumber": "v4.0.2+26.3-fabric",
+      "filename": "particlerain-4.0.2+26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nrikgvxm/versions/ecVAaY1R/particlerain-4.0.2%2B26.3-fabric.jar",
+      "sha1": "e6737febb57e31837d74bede3ce788783b381e23",
+      "sha512": "b87684651246c05d0985c88cc0e05ba0e5bdf04d6e5c3ec90962d4342d9f70bc13a4ca86a4276022d71afdcfd69709596e070f3cfe1ae0ee3484dc2924121f19",
+      "fileSize": 627188
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

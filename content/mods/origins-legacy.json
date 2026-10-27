@@ -1,0 +1,23 @@
+{
+  "name": "Origins: Legacy",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "mc1uvRn8",
+      "slug": "origins-legacy",
+      "versionId": "7CqsxVdL",
+      "versionNumber": "1.12.20+26.3",
+      "filename": "Origins-Legacy-1.12.20+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/mc1uvRn8/versions/7CqsxVdL/Origins-Legacy-1.12.20%2B26.3.jar",
+      "sha1": "8ebe4cbd03fbb968cc1a2721b0553ac5c6ed248d",
+      "sha512": "9d513c743b2aee589feabd0b03c2d93b0dec40b4ba3a5afceb76fbdba56cf4565f84fe4ca9eb3045833e6d01f1c2243da7bcdc16a410131b38f34543fda177ab",
+      "fileSize": 2780244
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

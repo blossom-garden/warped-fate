@@ -1,0 +1,23 @@
+{
+  "name": "Leawind's Third Person",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "S3D3QF0M",
+      "slug": "leawind-third-person",
+      "versionId": "Fpowpwas",
+      "versionNumber": "3.0.3-beta+fabric-26.2",
+      "filename": "leawind_third_person-3.0.3-beta+fabric-26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/S3D3QF0M/versions/Fpowpwas/leawind_third_person-3.0.3-beta%2Bfabric-26.2.jar",
+      "sha1": "3e388cf3a421bce45e67bb1db1fc30f628a2ba15",
+      "sha512": "d0ca097b29cd2346354409a6e5ecf9736eeab116c99380b131a5d71803519c411539f73c83fb6fa654cf8b642a076997fade53a896a57cc30e1ba9c3f4a9fe0d",
+      "fileSize": 255158
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

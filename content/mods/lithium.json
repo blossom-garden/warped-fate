@@ -1,0 +1,23 @@
+{
+  "name": "Lithium",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gvQqBUqZ",
+      "slug": "lithium",
+      "versionId": "xS0Q8LSi",
+      "versionNumber": "mc26.3-0.26.2-fabric",
+      "filename": "lithium-fabric-0.26.2+mc26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xS0Q8LSi/lithium-fabric-0.26.2%2Bmc26.3.jar",
+      "sha1": "dd5a4ec2c68d7601d8bce9076f789c55a5f8bef3",
+      "sha512": "4d7fee66132eedc71feab9390b92c95d7058edbdad0fecfac1d836a2950b97a7ca463afbede61c7ef361ce65e1f927ab9e89dde5bf2e0e0ce486afb5c5dbee40",
+      "fileSize": 914543
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

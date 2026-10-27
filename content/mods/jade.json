@@ -1,0 +1,28 @@
+{
+  "name": "Jade 🔍",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "nvQzSEkH",
+      "slug": "jade",
+      "versionId": "71CTWqdE",
+      "versionNumber": "26.3.5+fabric",
+      "filename": "Jade-mc26.3-Fabric-26.3.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nvQzSEkH/versions/71CTWqdE/Jade-mc26.3-Fabric-26.3.5.jar",
+      "sha1": "da61413c586c8918c14e2bbfdc808ce2d56ea9df",
+      "sha512": "2e7331e62eb6658268ae92dc42de8b469f50dd6c6a9d2546a6f649bae97c2cdfd8d4c1560948cf46269175d2c79c6c47a36a02685e39d476768d18fbb2a28703",
+      "fileSize": 1092685
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "Ct11Kuii",
+    "UMblNdlF",
+    "UaizcMKP"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

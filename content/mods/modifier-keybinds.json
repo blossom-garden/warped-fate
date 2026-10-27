@@ -1,0 +1,23 @@
+{
+  "name": "Modifier Keybinds",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "fUIcgq6j",
+      "slug": "modifier-keybinds",
+      "versionId": "dUXl1KwP",
+      "versionNumber": "1.1.0+26.2-fabric",
+      "filename": "modifier_keybinds-fabric-1.1.0+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/fUIcgq6j/versions/dUXl1KwP/modifier_keybinds-fabric-1.1.0%2B26.2.jar",
+      "sha1": "762583cbd991255a95c61c6f14056295dbbb8206",
+      "sha512": "8683567aa274c5e7bdfbdd70a609b73fadb3515bc51ad6df94b962c585ccf993216bb6fdd4c93c2db8c696538f2f1e49c13505317b82e445913252b8404d7ba9",
+      "fileSize": 27280
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

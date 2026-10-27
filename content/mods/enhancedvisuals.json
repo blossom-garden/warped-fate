@@ -1,0 +1,23 @@
+{
+  "name": "EnhancedVisuals",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "KjL0jE2w",
+      "slug": "enhancedvisuals",
+      "versionId": "qaccmSuj",
+      "versionNumber": "1.8.35",
+      "filename": "EnhancedVisuals_FABRIC_v1.8.35_mc26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KjL0jE2w/versions/qaccmSuj/EnhancedVisuals_FABRIC_v1.8.35_mc26.3.jar",
+      "sha1": "5c051f5a3ab7d74951442e7be12ba910d4269498",
+      "sha512": "a01cae159cc426626545cf4cb6ab4a4bcad5e91b524597743fc4a1af1962c10fe3b5ee37e3220316f22d9ead3b83a9de766697fb042269de358ccb1751187c83",
+      "fileSize": 4739673
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

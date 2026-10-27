@@ -1,0 +1,23 @@
+{
+  "name": "Trinkets Lantern Support",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Rxg5piNV",
+      "slug": "trinkets-lantern-support",
+      "versionId": "8EhFOpKN",
+      "versionNumber": "1.0.0+mod",
+      "filename": "trinkets-lantern-support-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Rxg5piNV/versions/8EhFOpKN/trinkets-lantern-support-1.0.0.jar",
+      "sha1": "4a39ce42ab4c7ad1f71380acc292956930191a05",
+      "sha512": "b1df920b09c92b41ad51bfa1c90de6d51bc2dcc2704981a84283b883fda51fe6962bd020186a09e0c2876737899ec410911afc54fe6e99be25835bbb6494c871",
+      "fileSize": 12803
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

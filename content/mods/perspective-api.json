@@ -1,0 +1,25 @@
+{
+  "name": "Perspective API",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LIqveQm1",
+      "slug": "perspective-api",
+      "versionId": "cuskoxpS",
+      "versionNumber": "1.5.0-beta+fabric-26.2",
+      "filename": "perspective_api-1.5.0-beta+fabric-26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LIqveQm1/versions/cuskoxpS/perspective_api-1.5.0-beta%2Bfabric-26.2.jar",
+      "sha1": "4225869dc36ff6b538378871874bcacb133e7cd1",
+      "sha512": "70efff2677eda59b9c7502602971370fb55ade3ff275119ef509059d2d022ded75cefd3791338b45c9a76015e1ebc38c6df3aba5f47179a74e7b515b4ba44800",
+      "fileSize": 267036
+    }
+  },
+  "dependents": [
+    "S3D3QF0M"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

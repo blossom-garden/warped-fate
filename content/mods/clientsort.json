@@ -1,0 +1,23 @@
+{
+  "name": "Client Sort",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "K0AkAin6",
+      "slug": "clientsort",
+      "versionId": "UWMryUad",
+      "versionNumber": "3.104.1+26.3",
+      "filename": "clientsort-fabric-3.104.1+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/K0AkAin6/versions/UWMryUad/clientsort-fabric-3.104.1%2B26.3.jar",
+      "sha1": "96cbf8e292a1c5325f0050af1091ea778b967578",
+      "sha512": "99554db1c60c149f0fa0e6238d397d6cff2408bcfbdf111f9f2e5c701fa4db3d5e516cd5a5248319f64dda6a6676f350e2d29932f35cb2ad5340c13d682f04ec",
+      "fileSize": 356994
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

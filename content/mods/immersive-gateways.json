@@ -1,0 +1,23 @@
+{
+  "name": "Immersive Gateways",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3hZmBMYA",
+      "slug": "immersive-gateways",
+      "versionId": "rMqzTLPS",
+      "versionNumber": "0.0.7+26.2",
+      "filename": "immersive_gateways-fabric-0.0.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3hZmBMYA/versions/rMqzTLPS/immersive_gateways-fabric-0.0.7.jar",
+      "sha1": "04892505ace398157496c87d800761409538370a",
+      "sha512": "ce5f8c1c7211b909afc2a7b5dfd5bdc377fcf09c6fc6c8f95685f11732e5e9488f7718b7fa2515904c0317a8445a6d4c170034e481ddbd8809205dedee6d12db",
+      "fileSize": 511344
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Modonomicon",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "692GClaE",
+      "slug": "modonomicon",
+      "versionId": "pcUaUvgw",
+      "versionNumber": "26.2-2.5.0",
+      "filename": "modonomicon-26.2-fabric-2.5.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/692GClaE/versions/pcUaUvgw/modonomicon-26.2-fabric-2.5.0.jar",
+      "sha1": "48214490caa3dc329b01a498e39b07991ee6974d",
+      "sha512": "4d39f6953a426119681d1c9adc78552f20fa414904f1a5847673ff0b6ded51de2ba6473c4987c07e6681353ec0ee17ba2e2b1d1a8224d648e938e0075f883d49",
+      "fileSize": 3164456
+    }
+  },
+  "dependents": [
+    "XlUm5I57"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

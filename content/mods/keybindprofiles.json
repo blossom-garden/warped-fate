@@ -1,0 +1,23 @@
+{
+  "name": "KeyBindProfiles",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6g9J441m",
+      "slug": "keybindprofiles",
+      "versionId": "AE8Izh15",
+      "versionNumber": "1.0.3",
+      "filename": "keybindprofiles-1.0.3-26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6g9J441m/versions/AE8Izh15/keybindprofiles-1.0.3-26.2.jar",
+      "sha1": "dd57ddab986489422297cc06465c82f11c4e75ed",
+      "sha512": "e69f86ce29bdd38df5afbbe4551de4307bb0bb0d2ed0f5c28169829e4495c3c6625fcd0edad86708bbb6dd54fabb32064c16a2bc40a534fa37b033fb4c31ad50",
+      "fileSize": 74591
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

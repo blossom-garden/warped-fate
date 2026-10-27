@@ -1,0 +1,33 @@
+{
+  "name": "Trinkets Updated",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "XaT8sLP6",
+      "slug": "trinkets-updated",
+      "versionId": "lVR1OKgV",
+      "versionNumber": "4.2.1+26.3",
+      "filename": "trinkets-4.2.1+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XaT8sLP6/versions/lVR1OKgV/trinkets-4.2.1%2B26.3.jar",
+      "sha1": "134fa691e3afac2236bd72e8a07ebfeabaacd531",
+      "sha512": "d4038e93b95462cff05075dad5b97669871f62212c0228ec6483782e22476d0354d1869f0e523fdb23b2a233fa0f15ff01d497fd2c8a5292ab20838dc464d15a",
+      "fileSize": 663821
+    }
+  },
+  "dependents": [
+    "Rxg5piNV",
+    "XvoWJaA2",
+    "md0lxAjO",
+    "sNJAIjUm"
+  ],
+  "optionalDependents": [
+    "Ct11Kuii",
+    "UMblNdlF",
+    "pVIWsXir"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}
