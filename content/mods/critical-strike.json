@@ -17,9 +17,7 @@
       "fileSize": 157427
     }
   },
-  "dependents": [
-    "PjDhruSC"
-  ],
+  "dependents": [],
   "clientSide": "required",
   "serverSide": "required"
 }

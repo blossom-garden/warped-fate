@@ -1,7 +1,7 @@
 {
   "name": "Pufferfish's Attributes",
   "side": "auto",
-  "explicit": false,
+  "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
@@ -17,9 +17,7 @@
       "fileSize": 44939
     }
   },
-  "dependents": [
-    "4w7YR25f"
-  ],
+  "dependents": [],
   "clientSide": "required",
   "serverSide": "required"
 }

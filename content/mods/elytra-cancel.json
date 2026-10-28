@@ -1,0 +1,23 @@
+{
+  "name": "Elytra Cancel",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "CJHTlRjq",
+      "slug": "elytra-cancel",
+      "versionId": "tzhY2vtu",
+      "versionNumber": "3.0.0",
+      "filename": "ElytraCancel-fabric-26.2-3.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/CJHTlRjq/versions/tzhY2vtu/ElytraCancel-fabric-26.2-3.0.0.jar",
+      "sha1": "ba56e54c7c37d00b0332bc59cc82a6f7b9b58653",
+      "sha512": "a76f974a28547399c284825c235ed077e91e0d973d2cf3b52f436d16453a0b89fa8b938cbb0275ec018527822207738b7044bdc394d2ecfc23977e4795025200",
+      "fileSize": 7774
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

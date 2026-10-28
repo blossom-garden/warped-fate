@@ -34,7 +34,7 @@
     },
     {
       "path": "content/mods/attributes.json",
-      "sha1": "a87083c648cf61b3f77c6c7c486f0b83d31be1e1"
+      "sha1": "1caba4141c86ee81c3d3c267e586b40c5a56438f"
     },
     {
       "path": "content/mods/badoptimizations.json",
@@ -145,12 +145,8 @@
       "sha1": "b68b6afc468b9767bacc2404cda4ad50bc0a036c"
     },
     {
-      "path": "content/mods/creativecore.json",
-      "sha1": "4c795c7b76708459c2d3ae9a8f755a4bd691a83f"
-    },
-    {
       "path": "content/mods/critical-strike.json",
-      "sha1": "d07ff60d0d29112e8ae005db402ac4aec2c855a1"
+      "sha1": "37b7d9db2da460623f4f09faaa8c4429b010c38e"
     },
     {
       "path": "content/mods/cubes-without-borders.json",
@@ -165,10 +161,6 @@
       "sha1": "7c68937bed27887255d603060087954e5e9f518c"
     },
     {
-      "path": "content/mods/default-skill-trees.json",
-      "sha1": "dd57bb0c9322846081341e4b2efd98d3a4945471"
-    },
-    {
       "path": "content/mods/drippy-loading-screen.json",
       "sha1": "5d70d9916c2fd39627cf18f46ba70d62fc0b24df"
     },
@@ -179,6 +171,14 @@
     {
       "path": "content/mods/dynamic-fps.json",
       "sha1": "692fc6c40bbc7d7dc9860f6aadfee9b7a6329485"
+    },
+    {
+      "path": "content/mods/elytra-cancel.json",
+      "sha1": "534fcd5af92f50057233b3dd91bf46fcf0df537e"
+    },
+    {
+      "path": "content/mods/elytra-contrails-mod.json",
+      "sha1": "f5ef4d54aa21d6d63b56c707eaf97988c8226c87"
     },
     {
       "path": "content/mods/elytra-trims.json",
@@ -213,10 +213,6 @@
       "sha1": "dc32aa55cabd5d323c04a454a444c8e061b36071"
     },
     {
-      "path": "content/mods/enhancedvisuals.json",
-      "sha1": "018dc3822bd95781db0b8b91d44d214373244e54"
-    },
-    {
       "path": "content/mods/entity-model-features.json",
       "sha1": "317fe4d849508f28a8ec4e24aabfed76da7a0a48"
     },
@@ -242,7 +238,7 @@
     },
     {
       "path": "content/mods/fabric-api.json",
-      "sha1": "e747c8ed93ae15e0da298796b21911095c20ffa3"
+      "sha1": "b5641c63075a86ac35bbefcd5a59ad33eea8b270"
     },
     {
       "path": "content/mods/fabric-language-kotlin.json",
@@ -295,10 +291,6 @@
     {
       "path": "content/mods/homeostatic-seasons.json",
       "sha1": "11a9bb1b8a7330f8f2ff5a10f819a7a1514ac30a"
-    },
-    {
-      "path": "content/mods/icommon.json",
-      "sha1": "350eb4210c0acdcac138209380b4ef908c4b27cd"
     },
     {
       "path": "content/mods/icys-better-horses.json",
@@ -510,7 +502,7 @@
     },
     {
       "path": "content/mods/ranged-weapon-api.json",
-      "sha1": "ba6a0577d670b96e96a2e600a34faab4c96b6d5b"
+      "sha1": "8f72f04b64b889604cbc56a942e36a8ceb3ef124"
     },
     {
       "path": "content/mods/reconnectible-chains.json",
@@ -569,12 +561,8 @@
       "sha1": "92c804ee4b048aeee0c735c015981a0f996d51f2"
     },
     {
-      "path": "content/mods/skill-tree.json",
-      "sha1": "f0009540374c8819daad37ec18853b3ead2b807e"
-    },
-    {
       "path": "content/mods/skills.json",
-      "sha1": "7dbe9f35fae89463e946df0b91d6b8e09211c529"
+      "sha1": "ae64f884482a219ca0bdd0d5f48758ee4c748cdc"
     },
     {
       "path": "content/mods/skinrestorer.json",
@@ -598,7 +586,7 @@
     },
     {
       "path": "content/mods/spell-engine.json",
-      "sha1": "31c898f99e65d402f4d36898f6e6d3f9817356b3"
+      "sha1": "7412ef441047e11c0834289290e8a4fb82b70458"
     },
     {
       "path": "content/mods/spell-power.json",
@@ -607,10 +595,6 @@
     {
       "path": "content/mods/strawberrylib.json",
       "sha1": "9efad0a65637f335f02beab1161d1e537488cd4b"
-    },
-    {
-      "path": "content/mods/stronger-skill-tree-for-pufferfishs-skills.json",
-      "sha1": "92ef5f8848c87b60c2605ae9b163ed26aad4c732"
     },
     {
       "path": "content/mods/structure-pool-api.json",
@@ -822,7 +806,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "b69e253b4d0ef3476d7a31ea315d675f8f154a37"
+      "sha1": "2a13284f239e64eec94c6dc3a73b26a48d1090ec"
     },
     {
       "path": "overrides/packweaver.jar",

@@ -1,6 +1,6 @@
 # Warped Fate
 
-**Minecraft 26.2 · fabric 0.20.1**, 138 mods (37 dependencies), 16 resource packs
+**Minecraft 26.2 · fabric 0.20.1**, 137 mods (34 dependencies), 16 resource packs
 
 ## Contents
 
@@ -37,10 +37,11 @@
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `5.0.0+26.2`
 - [Cull Leaves](https://modrinth.com/project/cull-leaves) `4.1.2+26.2-fabric`
 - [Cushion Backport](https://modrinth.com/project/cushions-backport) `1.0.5`
-- [Default Skill Trees](https://modrinth.com/project/default-skill-trees) `1.1`
 - [Drippy Loading Screen](https://modrinth.com/project/drippy-loading-screen) `3.1.5-26.2-fabric`
 - [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `5.3.2+mod`
 - [Dynamic FPS](https://modrinth.com/project/dynamic-fps) `3.11.9`
+- [Elytra Cancel](https://modrinth.com/project/elytra-cancel) `3.0.0`
+- [Elytra Contrails Mod](https://modrinth.com/project/elytra-contrails-mod) `1.6.9-26.2`
 - [Elytra Trims](https://modrinth.com/project/elytra-trims) `4.9.1`
 - [EMF Compat: Better Combat](https://modrinth.com/project/emf-compat-better-combat) `2.1.0`
 - [EMF Compat: Gliders](https://modrinth.com/project/emf-compat-gliders) `2.0.0`
@@ -48,7 +49,6 @@
 - [Emotecraft Recording Addon](https://modrinth.com/project/emotecraft-recording-addon) `1.5.0-26.2`
 - [Emotecraft: Borrow Their Emote (EBTE)](https://modrinth.com/project/emotecraft-borrow-their-emote) `1.0.1+26.2+fabric`
 - [Enchancement](https://modrinth.com/project/enchancement) `26.2-r9`
-- [EnhancedVisuals](https://modrinth.com/project/enhancedvisuals) `1.8.35`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
 - [Entity Selection Outlines](https://modrinth.com/project/entity-outlines) `1.0.0+26.2-fabric`
 - [Explosive Enhancement](https://modrinth.com/project/explosive-enhancement) `1.4.2-26.2`
@@ -73,7 +73,6 @@
 - [Ghast Direction](https://modrinth.com/project/ghast-direction) `2.0.1+26.2-fabric`
 - [Headpat a Friend!](https://modrinth.com/project/headpat) `1.0.7+26.2`
 - [Homeostatic Seasons](https://modrinth.com/project/homeostatic-seasons) `26.2-1.2.0.3`
-- [iCommon API](https://modrinth.com/project/icommon) `109`
 - [Icy's Better Horses](https://modrinth.com/project/icys-better-horses) `2.1.7`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.16.5+26.2-fabric`
 - [Immersive Gateways](https://modrinth.com/project/immersive-gateways) `0.0.7+26.2`
@@ -112,6 +111,8 @@
 - [PolyLight -  Simple Colored Lights](https://modrinth.com/project/polylight) `1.6`
 - [Portal Cornerlink](https://modrinth.com/project/portal-cornerlink) `1.1.0`
 - [Presence Footsteps](https://modrinth.com/project/presence-footsteps) `1.13.3+26.2`
+- [Pufferfish's Attributes](https://modrinth.com/project/attributes) `0.8.2`
+- [Pufferfish's Skills](https://modrinth.com/project/skills) `0.19.2`
 - [rainbow's foliage: polytone](https://modrinth.com/project/rainbows-foliage) `2.1`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.4+26.2-fabric`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc26.2-2.2.4+fabric`
@@ -129,7 +130,6 @@
 - [Simple Grass Flowers](https://modrinth.com/project/simple-grass-flowers) `2.0.0`
 - [Simple Lower Grass Sides](https://modrinth.com/project/simple-lower-grass-sides) `1.2.0`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `fabric-2.6.27+26.2`
-- [Skill Tree (RPG Series)](https://modrinth.com/project/skill-tree) `1.6.2+26.2-fabric`
 - [Skin Restorer](https://modrinth.com/project/skinrestorer) `2.11.0+26.1-fabric`
 - [Skin Shuffle](https://modrinth.com/project/skinshuffle) `2.13.0+26.2-fabric`
 - [Sodium](https://modrinth.com/project/sodium) `mc26.2-0.9.2-fabric`
@@ -137,7 +137,6 @@
 - [Spatial GUI](https://modrinth.com/project/spatial-gui) `1.9.1-fabric+26.2`
 - [Spell Engine](https://modrinth.com/project/spell-engine) `1.10.9+26.2-fabric`
 - [Spell Power Attributes](https://modrinth.com/project/spell-power) `1.6.2+26.2-fabric`
-- [Stronger Skill Tree](https://modrinth.com/project/stronger-skill-tree-for-pufferfishs-skills) `2.0.0+mod`
 - [Sun & Moon Fusion](https://modrinth.com/project/sun-moon-fusion) `3`
 - [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.14`
 - [Take a Seat!](https://modrinth.com/project/tas) `1.0.4`

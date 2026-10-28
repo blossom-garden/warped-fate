@@ -209,6 +209,14 @@ key_key.category.componentviewer.controls.cycle_configs.clipboard_copy:key.keybo
 key_key.category.componentviewer.controls.cycle_configs.clipboard_formatting:key.keyboard.unknown
 key_key.category.componentviewer.controls.cycle_configs.clipboard_selector:key.keyboard.unknown
 key_key.crawl:key.keyboard.unknown
+key_key.elytratrails.twirl_random:key.keyboard.unknown
+key_key.elytratrails.twirl_random_two:key.keyboard.unknown
+key_key.elytratrails.open_settings:key.keyboard.unknown
+key_key.elytratrails.continuous_twirl_l:key.keyboard.unknown
+key_key.elytratrails.continuous_twirl_r:key.keyboard.unknown
+key_key.elytratrails.continuous_twirl_l_two:key.keyboard.unknown
+key_key.elytratrails.continuous_twirl_r_two:key.keyboard.unknown
+key_key.elytratrails.toggle:key.keyboard.unknown
 key_key.emotecraft.fastchoose:key.keyboard.world.2
 key_key.emotecraft.stop:key.keyboard.unknown
 key_emotecraft_borrow_their_emote.keybinding.borrow:key.keyboard.unknown
