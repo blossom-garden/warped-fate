@@ -829,10 +829,6 @@
       "sha1": "a0de07419fb3fb20f97ecf44c58e2e8c81e2276b"
     },
     {
-      "path": "overrides/config/mod-loading-screen/config.txt",
-      "sha1": "f390c0d8cd4a43903d8cf59c16eb3bfd17b05d8c"
-    },
-    {
       "path": "overrides/config/packed_packs/profiles/resourcepacks/FreshStart.profile.json",
       "sha1": "d00b997f8415313e9dfa39f28536e2250782517a"
     },
