@@ -794,7 +794,7 @@
     },
     {
       "path": "overrides/config/fancymenu/customization/title_screen_layout.txt",
-      "sha1": "f8fd33bc535014d0908298f9c4e15deb31a8659a"
+      "sha1": "37af98431eb937072eef00160fe5723bb73a30fe"
     },
     {
       "path": "overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
@@ -806,7 +806,7 @@
     },
     {
       "path": "overrides/config/fancymenu/options.txt",
-      "sha1": "1735d72a01c594352fbcc3b0550a45e4da5d014b"
+      "sha1": "423d28f3c5a66dc84aecfd7bdbd6df67054d0299"
     },
     {
       "path": "overrides/config/fancymenu/user_variables.db",
