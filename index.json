@@ -549,10 +549,6 @@
       "sha1": "58b28b3d61243489cdde52d931858e2d5c236633"
     },
     {
-      "path": "content/mods/sails-and-airships.json",
-      "sha1": "a615b865fc5e5b4c7c6d4432d7db9866c5ca5dde"
-    },
-    {
       "path": "content/mods/scholar.json",
       "sha1": "a4fd4d6e262261aec3a1367ae0dcab56d874bb5a"
     },
@@ -806,7 +802,11 @@
     },
     {
       "path": "overrides/config/packed_packs/profiles/resourcepacks/FreshStart.profile.json",
-      "sha1": "4d20e68efc7dc4285e9b5e15bc0194f2aeb2c3f4"
+      "sha1": "d00b997f8415313e9dfa39f28536e2250782517a"
+    },
+    {
+      "path": "overrides/config/packed_packs/profiles/resourcepacks/PrettyStart.profile.json",
+      "sha1": "8693a36ca865d25f4d8dceb94b1ba2ea2df23710"
     },
     {
       "path": "overrides/config/spatial-gui.json5",
@@ -822,7 +822,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "d33ed3b1f681e191dd2cf2f17055d2a89df1d3b3"
+      "sha1": "b69e253b4d0ef3476d7a31ea315d675f8f154a37"
     },
     {
       "path": "overrides/packweaver.jar",

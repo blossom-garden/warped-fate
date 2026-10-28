@@ -17,7 +17,7 @@ glintStrength:0.75
 preferredGraphicsBackend:"default"
 graphicsPreset:"fancy"
 prioritizeChunkUpdates:1
-fullscreen:false
+fullscreen:true
 exclusiveFullscreen:true
 gamma:0.5
 guiScale:2
@@ -65,7 +65,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:false
-resourcePacks:["vanilla","scholar:chiseled_bookshelf_colored_books","scholar:colored_books","continuity:default","continuity:glass_pane_culling_fix","minecraft:kaleidoscope_eating_animation","file/Simple Lower Grass Sides v1.2.0.zip","file/Simple Grass Flowers v2.0.0.zip","file/Wisps Wonderful Wildflowers v1.0.0.zip","file/Sun \u0026 Moon Fusion 3.zip","file/sunbathing-v1.13.zip","file/rainbows-foliage-polytone-edition-v2.1.zip","file/colored_lights-v1.6.zip","file/FreshAnimations_v1.11.1_26.1+.zip","file/FA+Spiders-v2.2.zip","file/FA+Quivers-v2.2.zip","file/FA+Objects-v2.1.2.zip","file/FA+Emissive-v1.6.zip","file/FA+Details-v2.3.zip","file/FA+Creepers-v2.1.zip","file/FA+Player-v1.1.zip","file/FA+Player_Expressions-v1.2.zip"]
+resourcePacks:["vanilla","scholar:chiseled_bookshelf_colored_books","scholar:colored_books","continuity:default","continuity:glass_pane_culling_fix","minecraft:kaleidoscope_eating_animation","file/Simple Lower Grass Sides v1.2.0.zip","file/Simple Grass Flowers v2.0.0.zip","file/Wisps Wonderful Wildflowers v1.0.0.zip","file/sunbathing-v1.14.zip","file/Sun \u0026 Moon Fusion 3.zip","file/rainbows-foliage-polytone-edition-v2.1.zip","file/colored_lights-v1.6.zip"]
 incompatibleResourcePacks:["file/Simple Lower Grass Sides v1.2.0.zip","file/Wisps Wonderful Wildflowers v1.0.0.zip"]
 lastServer:
 lang:en_us
@@ -193,6 +193,21 @@ key_key.clientsort.op.sort:key.mouse.middle
 key_key.clientsort.op.stackFill:key.keyboard.unknown
 key_key.clientsort.op.matchTransfer:key.keyboard.unknown
 key_key.clientsort.op.transfer:key.keyboard.unknown
+key_key.category.componentviewer.controls.config_screen:key.keyboard.j
+key_key.category.componentviewer.controls.show_tooltip:key.keyboard.left.alt
+key_key.category.componentviewer.controls.next_component:key.keyboard.down
+key_key.category.componentviewer.controls.previous_component:key.keyboard.up
+key_key.category.componentviewer.controls.first_component:key.keyboard.home
+key_key.category.componentviewer.controls.last_component:key.keyboard.end
+key_key.category.componentviewer.controls.cycle_configs.tooltip_display:key.keyboard.unknown
+key_key.category.componentviewer.controls.cycle_configs.tooltip_purpose:key.keyboard.unknown
+key_key.category.componentviewer.controls.cycle_configs.tooltip_components:key.keyboard.unknown
+key_key.category.componentviewer.controls.cycle_configs.tooltip_keep_selection:key.keyboard.unknown
+key_key.category.componentviewer.controls.cycle_configs.tooltip_formatting:key.keyboard.unknown
+key_key.category.componentviewer.controls.cycle_configs.tooltip_inject_method:key.keyboard.unknown
+key_key.category.componentviewer.controls.cycle_configs.clipboard_copy:key.keyboard.unknown
+key_key.category.componentviewer.controls.cycle_configs.clipboard_formatting:key.keyboard.unknown
+key_key.category.componentviewer.controls.cycle_configs.clipboard_selector:key.keyboard.unknown
 key_key.crawl:key.keyboard.unknown
 key_key.emotecraft.fastchoose:key.keyboard.world.2
 key_key.emotecraft.stop:key.keyboard.unknown
@@ -238,13 +253,11 @@ key_key.leawind_third_person.adjust_camera:key.keyboard.left.alt
 key_key.leawind_third_person.switch_shoulder:key.keyboard.caps.lock
 key_key.leawind_third_person.aim:key.keyboard.unknown
 key_key.liteminer.veinmine:key.keyboard.grave.accent
-key_key.magicdrive.blimp_descend:key.keyboard.left.control
-key_key.magicdrive.cruise_control:key.keyboard.r
-key_key.magicdrive.camera_zoom_out:key.keyboard.page.up
-key_key.magicdrive.camera_zoom_in:key.keyboard.page.down
-key_key.magicdrive.camera_zoom_reset:key.keyboard.home
 key_key.mca.skin_library:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_key.origins.primary_active:key.keyboard.g
+key_key.origins.secondary_active:key.keyboard.c
+key_key.origins.view_origin:key.keyboard.o
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_key.presencefootsteps.debug_toggle:key.keyboard.unknown

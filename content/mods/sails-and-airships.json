@@ -2,7 +2,7 @@
   "name": "Sails and Airships: Block-Based Ships",
   "side": "auto",
   "explicit": true,
-  "disabled": false,
+  "disabled": true,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {
