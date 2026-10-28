@@ -1,0 +1,23 @@
+{
+  "name": "SeamlessChunks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MslYld7M",
+      "slug": "schunks",
+      "versionId": "xficKUUw",
+      "versionNumber": "0.1.0-beta.7+26.2-fabric",
+      "filename": "seamlesschunks-fabric-0.1.0-beta.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MslYld7M/versions/xficKUUw/seamlesschunks-fabric-0.1.0-beta.7.jar",
+      "sha1": "6e76fae99a56c96d50dbd9f21d87860117908557",
+      "sha512": "7f84fcbb960fda8a805d61806fba3d286070e71d459e0eeefba58d822f0f157f39db1d9cc3ef574ebc7f98b73769993cffbeac9d9912b9c5bc2074048567d8a5",
+      "fileSize": 61521
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

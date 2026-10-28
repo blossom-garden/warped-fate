@@ -18,7 +18,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "33e2fde3cca51f85113f31a1ff82a24a9885b440"
+      "sha1": "86698d5c2751c3e885964bbabc0954e12c835808"
     },
     {
       "path": "content/mods/armor-model-api.json",
@@ -238,7 +238,7 @@
     },
     {
       "path": "content/mods/fabric-api.json",
-      "sha1": "5616919df3a31c3ff867eb30cada701e98b08b62"
+      "sha1": "079e39606f28d7a7774c7e80894d32ba01e90316"
     },
     {
       "path": "content/mods/fabric-language-kotlin.json",
@@ -365,6 +365,10 @@
       "sha1": "a9c2a45112fcec7ab572456147b083a3078d6b54"
     },
     {
+      "path": "content/mods/lazy-chunk-load.json",
+      "sha1": "1b152f1736f98fa5a672553e759403bbab1d4fd3"
+    },
+    {
       "path": "content/mods/leawind-third-person.json",
       "sha1": "c9d70dece56c9f73193e3f4d806cea698d3415e8"
     },
@@ -399,6 +403,10 @@
     {
       "path": "content/mods/mob-chains.json",
       "sha1": "147b31efa98a56115bd556adc44f28f537ec3fb2"
+    },
+    {
+      "path": "content/mods/mod-loading-screen.json",
+      "sha1": "7ebb0dbf0ed98e5f62f064f278f45ee49ace12db"
     },
     {
       "path": "content/mods/modmenu.json",
@@ -501,6 +509,10 @@
       "sha1": "495cd42f82bc9567fb4884c8472a03bd8d45dc46"
     },
     {
+      "path": "content/mods/quick-pack.json",
+      "sha1": "696a73bbb6e06e456c31c72219ee6f17536baa87"
+    },
+    {
       "path": "content/mods/ranged-weapon-api.json",
       "sha1": "8f72f04b64b889604cbc56a942e36a8ceb3ef124"
     },
@@ -543,6 +555,10 @@
     {
       "path": "content/mods/scholar.json",
       "sha1": "a4fd4d6e262261aec3a1367ae0dcab56d874bb5a"
+    },
+    {
+      "path": "content/mods/schunks.json",
+      "sha1": "0fb32f6f7676a215434e052081fb188d0361f669"
     },
     {
       "path": "content/mods/seamless-ores.json",
@@ -662,7 +678,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "a1a5c7a49badbf2d5bafe77dc1abef06eb018b4d"
+      "sha1": "80c4c1679ff3486bce4fe594cc6404173e5894d4"
     },
     {
       "path": "content/mods/yori3os-grappling-hooks.json",

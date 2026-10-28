@@ -1,6 +1,6 @@
 # Warped Fate
 
-**Minecraft 26.2 · fabric 0.20.1**, 138 mods (34 dependencies), 16 resource packs
+**Minecraft 26.2 · fabric 0.20.1**, 142 mods (34 dependencies), 16 resource packs
 
 ## Contents
 
@@ -87,11 +87,13 @@
 - [KeyBindProfiles](https://modrinth.com/project/keybindprofiles) `1.0.3`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.12.4+26.2`
 - [Language Reload](https://modrinth.com/project/language-reload) `1.7.8+26.2`
+- [Lazy Chunk Load](https://modrinth.com/project/lazy-chunk-load) `1.3.0`
 - [Leawind's Third Person](https://modrinth.com/project/leawind-third-person) `3.0.3-beta+fabric-26.2`
 - [Liteminer](https://modrinth.com/project/liteminer) `4.5.2+26.2`
 - [Lootr](https://modrinth.com/project/lootr) `1.24.41.124`
 - [MCA Reborn](https://modrinth.com/project/minecraft-comes-alive-reborn) `8.1.11+26.2`
 - [Mob Chains](https://modrinth.com/project/mob-chains) `1.0.0`
+- [Mod Loading Screen](https://modrinth.com/project/mod-loading-screen) `1.0.5`
 - [Mod Menu](https://modrinth.com/project/modmenu) `20.0.3`
 - [Motion Capture](https://modrinth.com/project/motion-capture) `1.3.10-fabric-26.2`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `26.2-2.31-fabric`
@@ -113,6 +115,7 @@
 - [Presence Footsteps](https://modrinth.com/project/presence-footsteps) `1.13.3+26.2`
 - [Pufferfish's Attributes](https://modrinth.com/project/attributes) `0.8.2`
 - [Pufferfish's Skills](https://modrinth.com/project/skills) `0.19.2`
+- [quick pack](https://modrinth.com/project/quick-pack) `fabric-1.5.1+26.2`
 - [rainbow's foliage: polytone](https://modrinth.com/project/rainbows-foliage) `2.1`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.4+26.2-fabric`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc26.2-2.2.4+fabric`
@@ -125,6 +128,7 @@
 - [Sails and Airships: Block-Based Ships](https://modrinth.com/project/sails-and-airships) `1.0.5+26.2`
 - [Scholar](https://modrinth.com/project/scholar) `1.2.10`
 - [Seamless Ores](https://modrinth.com/project/seamless-ores) `5.1.0+fabric`
+- [SeamlessChunks](https://modrinth.com/project/schunks) `0.1.0-beta.7+26.2-fabric`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.1`
 - [Show Me Your Skin!](https://modrinth.com/project/show-me-your-skin) `2.0.3+26.2`
 - [Simple Blood](https://modrinth.com/project/simple-blood) `1.2.1+26.2`

@@ -1,0 +1,23 @@
+{
+  "name": "Lazy Chunk Load",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ZsyQkd1s",
+      "slug": "lazy-chunk-load",
+      "versionId": "EyBe9ULe",
+      "versionNumber": "1.3.0",
+      "filename": "lazychunkload-fabric-26.1+-1.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ZsyQkd1s/versions/EyBe9ULe/lazychunkload-fabric-26.1%2B-1.3.0.jar",
+      "sha1": "be3af44403ba6ffb065b6574b8e7574a5b8eeb55",
+      "sha512": "49a06bed085ceb74f411142a6c45458d58c7c0ec1f0c5d90a99b1ab9fdeaec3caa62bcabbc009bb429101907404e115cc37be586701a905409797a997424b68c",
+      "fileSize": 50984
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

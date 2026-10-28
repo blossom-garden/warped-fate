@@ -1,0 +1,23 @@
+{
+  "name": "quick pack",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "pSISfJ4O",
+      "slug": "quick-pack",
+      "versionId": "8ud7G0oR",
+      "versionNumber": "fabric-1.5.1+26.2",
+      "filename": "quick-pack-fabric-1.5.1+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pSISfJ4O/versions/8ud7G0oR/quick-pack-fabric-1.5.1%2B26.2.jar",
+      "sha1": "248b1b361b5a2f25bfccc54df6d667ca02cad213",
+      "sha512": "5767fa8804022800a2db1db3bebefc9c8133a4b87b3e5f574394599834cfa12855f9246499b80e956ab1e06ec1ce79d032fa140af1e8f705d7b13bc2b0e9e268",
+      "fileSize": 22373
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}
