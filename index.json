@@ -238,7 +238,7 @@
     },
     {
       "path": "content/mods/fabric-api.json",
-      "sha1": "b5641c63075a86ac35bbefcd5a59ad33eea8b270"
+      "sha1": "5616919df3a31c3ff867eb30cada701e98b08b62"
     },
     {
       "path": "content/mods/fabric-language-kotlin.json",
@@ -557,6 +557,10 @@
       "sha1": "ebe33b706631daf0a840aaa6f5ef151ecc788877"
     },
     {
+      "path": "content/mods/simple-blood.json",
+      "sha1": "ccc6a92e46cc1fdfbe6e17311dcbb62c48f8831e"
+    },
+    {
       "path": "content/mods/simple-voice-chat.json",
       "sha1": "92c804ee4b048aeee0c735c015981a0f996d51f2"
     },
@@ -743,6 +747,10 @@
     {
       "path": "content/resourcepacks/wisps-colourful-wildflowers.json",
       "sha1": "06d72eb5f9d33e67d57a6de235c42b54ceba3bd3"
+    },
+    {
+      "path": "overrides/config/bcc-common.json",
+      "sha1": "cb5dac84a9a2884deb40264721f44704074fdc81"
     },
     {
       "path": "overrides/config/drippyloadingscreen/options.txt",

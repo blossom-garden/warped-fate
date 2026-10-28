@@ -1,6 +1,6 @@
 # Warped Fate
 
-**Minecraft 26.2 · fabric 0.20.1**, 137 mods (34 dependencies), 16 resource packs
+**Minecraft 26.2 · fabric 0.20.1**, 138 mods (34 dependencies), 16 resource packs
 
 ## Contents
 
@@ -127,6 +127,7 @@
 - [Seamless Ores](https://modrinth.com/project/seamless-ores) `5.1.0+fabric`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.1`
 - [Show Me Your Skin!](https://modrinth.com/project/show-me-your-skin) `2.0.3+26.2`
+- [Simple Blood](https://modrinth.com/project/simple-blood) `1.2.1+26.2`
 - [Simple Grass Flowers](https://modrinth.com/project/simple-grass-flowers) `2.0.0`
 - [Simple Lower Grass Sides](https://modrinth.com/project/simple-lower-grass-sides) `1.2.0`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `fabric-2.6.27+26.2`

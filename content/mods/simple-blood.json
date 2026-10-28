@@ -1,0 +1,23 @@
+{
+  "name": "Simple Blood",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lAKYDTAr",
+      "slug": "simple-blood",
+      "versionId": "PAk2QbYB",
+      "versionNumber": "1.2.1+26.2",
+      "filename": "simpleblood-fabric-1.2.1+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lAKYDTAr/versions/PAk2QbYB/simpleblood-fabric-1.2.1%2B26.2.jar",
+      "sha1": "c5f1d3bd5a73c7088bebf44787f0fe54b37657cd",
+      "sha512": "9e7bf697766c97fbe832f8f72ffdef1e9cc07f18c77ef4bd12f4b58f113c4edf7954201182fd80dab961bcf4ecb5daba0fc681bae37e8226c40ee7fce19b0a71",
+      "fileSize": 655119
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

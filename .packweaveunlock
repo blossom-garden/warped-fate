@@ -18,3 +18,4 @@ config/mca.json
 !config/mca.json#forceVillagerPlayerModel
 config/spatial-gui.json5
 config/keybindprofiles/current_profile.txt
+config/bcc-common.json#useMetadata.comments.1
