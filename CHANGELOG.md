@@ -1,0 +1,175 @@
+# Changelog
+
+## Warped Fate v0.1.0
+
+### Added
+- [EMF] Entity Model Features 3.3.12-fabric-26.2
+- [ETF] Entity Texture Features 7.2.6-fabric-26.2
+- Anabiosis 0.3.1, with Fabric API 0.161.0+26.2
+- AppleSkin 3.0.10+mc26.2, with Fabric API 0.161.0+26.2
+- Archers (RPG Series) 3.1.3.003+26.2-fabric, with Armor Model API 1.1.2+26.2-fabric, Bundle API 4.0.0+26.2-fabric, Fabric API 0.161.0+26.2, Ranged Weapon API 4.0.0+26.2-fabric, Structure Pool API 1.3.0+26.2-fabric
+- Armory (RPG Series) 1.5.3.003+26.2-fabric, with Armor Model API 1.1.2+26.2-fabric, Fabric API 0.161.0+26.2, Ranged Weapon API 4.0.0+26.2-fabric
+- Arsenal (RPG Series) 1.5.1+26.2-fabric, with Fabric API 0.161.0+26.2, Ranged Weapon API 4.0.0+26.2-fabric
+- BadOptimizations 2.4.1
+- Better Climbing 6-fabric
+- Better Clouds 1.14.4, with Fabric API 0.161.0+26.2, YetAnotherConfigLib (YACL) 3.9.7+26.2-fabric
+- Better Combat 3.2.2+26.2-fabric, with Cloth Config API 26.2.155+fabric, Fabric API 0.161.0+26.2, Player Animation Library 1.2.8
+- Better Compatibility Checker 26.2.0.1, with Fabric API 0.161.0+26.2
+- Better Days 26.2-4.1.1.7-FABRIC, with Fabric API 0.161.0+26.2
+- Better Happy Ghast Movement 1.0.0
+- Better Selective Combat 1.2.2+26.2-fabric, with Fabric API 0.161.0+26.2
+- BetterF3 19.0.1, with Cloth Config API 26.2.155+fabric, Fabric API 0.161.0+26.2
+- BlueMap 5.29-fabric, with Fabric API 0.161.0+26.2
+- BlueMap Custom Skin Server 2026.8.1, with Fabric API 0.161.0+26.2, Fabric Language Kotlin 1.14.2+kotlin.2.4.21
+- BlueMap Offline Player Markers (Fabric) 2026.7.2, with Fabric API 0.161.0+26.2
+- BlueMap Sign Markers 26.2-1.0.0.87, with Fabric API 0.161.0+26.2
+- ButterBee - Mob Variants 1.0.8-mod
+- Call Your Happy Ghast v2.1.0+mod, with 5555ff-lib v1.1.5+mod
+- Chunksmith 4.8.0+26.2, with Fabric API 0.161.0+26.2
+- Client Sort 3.103.4+26.2, with Cloth Config API 26.2.155+fabric
+- CliffTree 3.3-fabric-26.2, with Lithostitched 1.8.0-fabric-26.2
+- Clumps 26.2.1, with Fabric API 0.161.0+26.2
+- Continuity 3.0.1+26.2, with Fabric API 0.161.0+26.2
+- Cool Rain 1.4.0-26.2
+- Crawl 0.15.0, with Fabric API 0.161.0+26.2
+- Critical Strike 1.0.6+26.2-fabric, with Fabric API 0.161.0+26.2
+- Cubes Without Borders 5.0.0+26.2
+- Cull Leaves 4.1.2+26.2-fabric, with Fabric API 0.161.0+26.2
+- Cushion Backport 1.0.5
+- Default Skill Trees 1.1, with Pufferfish's Attributes 0.8.2, Pufferfish's Skills 0.19.2
+- Drippy Loading Screen 3.1.5-26.2-fabric, with Fabric API 0.161.0+26.2, Konkrete 1.11.1-26.2-fabric, Melody 1.0.17-26.2-fabric
+- Dungeons and Taverns 5.3.2+mod
+- Dynamic FPS 3.11.9, with Fabric API 0.161.0+26.2
+- Elytra Trims 4.9.1, with Fabric API 0.161.0+26.2, Fabric Language Kotlin 1.14.2+kotlin.2.4.21
+- EMF Compat: Better Combat 2.1.0, with EMF Compat: Core 2.3.2
+- EMF Compat: Gliders 2.0.0, with EMF Compat: Core 2.3.2
+- Emotecraft 3.4.0-b.build.170, with Player Animation Library 1.2.8
+- Emotecraft Recording Addon 1.5.0-26.2
+- Emotecraft: Borrow Their Emote (EBTE) 1.0.1+26.2+fabric, with Fabric API 0.161.0+26.2, MossyLib 1.6.0+26.2+fabric
+- Enchancement 26.2-r9, with Fabric API 0.161.0+26.2, StrawberryLib 26.2-r5
+- EnhancedVisuals 1.8.35, with CreativeCore 2.14.16, Fabric API 0.161.0+26.2
+- Entity Culling 1.11.3, with Fabric API 0.161.0+26.2
+- Entity Selection Outlines 1.0.0+26.2-fabric
+- Explosive Enhancement 1.4.2-26.2, with Fabric API 0.161.0+26.2
+- Exposure-Unofficial 1.9.18-unofficial-beta.1, with Fabric API 0.161.0+26.2, Forge Config API Port 26.2.1
+- FallingTree 26.2-26.2.0.4
+- FancyMenu 3.9.14-26.2-fabric, with Fabric API 0.161.0+26.2, Konkrete 1.11.1-26.2-fabric, Melody 1.0.17-26.2-fabric
+- Fast Noise 1.1.1+26.2, with ZConfig 1.0.0+26.x
+- FastQuit 3.1.5+mc26.2, with Cloth Config API 26.2.155+fabric, Fabric API 0.161.0+26.2
+- Field Guide 1.22.4+26.2-fabric, with Fabric API 0.161.0+26.2, Immersive Overlays 1.8.6+26.2-fabric, Item Descriptions 2.8.5+26.2-fabric
+- Fluidloggable 3.1.2-beta.5-mc26.2, with Cloth Config API 26.2.155+fabric
+- ForceExitOnShutdown 0.1.0
+- Fresh Animations 1.11.1
+- Fresh Animations: Creepers 2.1.0
+- Fresh Animations: Details 2.3.0
+- Fresh Animations: Emissive 1.6.0
+- Fresh Animations: Objects 2.1.2
+- Fresh Animations: Player Extension 1.1.0
+- Fresh Animations: Player Extension + Just Expressions 1.2
+- Fresh Animations: Quivers 2.2.0
+- Fresh Animations: Spiders 2.2.0
+- Gazebos (RPG Series) 2.2.0+26.2-fabric, with Structure Pool API 1.3.0+26.2-fabric
+- Ghast Direction 2.0.1+26.2-fabric, with Fabric API 0.161.0+26.2
+- Headpat a Friend! 1.0.7+26.2, with CICADA 0.15.3+26.2, Fabric API 0.161.0+26.2
+- Homeostatic Seasons 26.2-1.2.0.3, with Fabric API 0.161.0+26.2
+- iCommon API 109, with Fabric API 0.161.0+26.2
+- Icy's Better Horses 2.1.7, with Geckolib 5.5.5, Modonomicon 26.2-2.5.0
+- ImmediatelyFast 1.16.5+26.2-fabric
+- Immersive Gateways 0.0.7+26.2, with Fabric API 0.161.0+26.2
+- Immersive Melodies 0.8.2+26.2, with Fabric API 0.161.0+26.2
+- Jade 🔍 26.2.11+fabric, with Fabric API 0.161.0+26.2
+- Jewelry (RPG Series) 2.5.1+26.2-fabric, with Fabric API 0.161.0+26.2, Ranged Weapon API 4.0.0+26.2-fabric, Structure Pool API 1.3.0+26.2-fabric
+- Kaleidoscope Cookery Refabricated 1.6.0.5-fabric+mc26.2, with Forge Config API Port 26.2.1
+- Kaleidoscope End Refabricated 1.1.0-fabric+mc26.2, with Forge Config API Port 26.2.1
+- Kaleidoscope Hodgepodge 1.1.0.3-fabric+mc26.2, with Forge Config API Port 26.2.1
+- Kaleidoscope Nether Refabricated 1.1.13-fabric+mc26.2, with Forge Config API Port 26.2.1
+- Kaleidoscope Tavern Refabricated 1.2.0.12-fabric+mc26.2, with Forge Config API Port 26.2.1
+- KeyBindProfiles 1.0.3
+- LambDynamicLights - Dynamic Lights 4.12.4+26.2, with Fabric API 0.161.0+26.2
+- Language Reload 1.7.8+26.2, with Fabric API 0.161.0+26.2
+- Leawind's Third Person 3.0.3-beta+fabric-26.2, with Fabric API 0.161.0+26.2, Perspective API 1.5.0-beta+fabric-26.2
+- Liteminer 4.5.2+26.2, with Amber 11.7.0+26.2, Konfig 0.10.2+26.2
+- Lootr 1.24.41.124, with Fabric API 0.161.0+26.2
+- MCA Reborn 8.1.11+26.2, with Fabric API 0.161.0+26.2
+- Mob Chains 1.0.0, with Fabric API 0.161.0+26.2
+- Mod Menu 20.0.3, with Fabric API 0.161.0+26.2, Text Placeholder API 3.1.0-beta.1+26.2
+- Motion Capture 1.3.10-fabric-26.2
+- Mouse Tweaks 26.2-2.31-fabric, with Fabric API 0.161.0+26.2
+- Nautilus Studio - Packs Editor IDE 26.2-1.11.0
+- No Chat Reports Fabric-26.2-v2.20.2, with Fabric API 0.161.0+26.2
+- Olafs Relatively Placed Blocks 2.0.0
+- OmniCrossbow 1.1.2+mc26.2, with Fabric API 0.161.0+26.2, Fabric Language Kotlin 1.14.2+kotlin.2.4.21
+- OmniCut: Better Wood, Copper, and Stone Cutter 1.121.0+mod
+- Optimized Cushions 1.2.0
+- Origins: Legacy 1.12.19+26.2, with Fabric API 0.161.0+26.2
+- oωo (owo-lib) 0.13.1+26.2, with Fabric API 0.161.0+26.2
+- Packed Packs 2.3.1+26.2, with Fabric API 0.161.0+26.2
+- Paladins & Priests (RPG Series) 3.1.3.003+26.2-fabric, with Armor Model API 1.1.2+26.2-fabric, Fabric API 0.161.0+26.2, Runes 1.3.2+26.2-fabric, Structure Pool API 1.3.0+26.2-fabric
+- Particle Rain v4.0.2+26.2-fabric, with Fabric API 0.161.0+26.2
+- Particular ✨ Reforged 1.5.7, with BaguetteLib 2.0.7, Fabric API 0.161.0+26.2, Forge Config API Port 26.2.1
+- Pick Up Notifier 26.2.0, with Fabric API 0.161.0+26.2, Forge Config API Port 26.2.1, Puzzles Lib 26.2.5
+- PolyLight -  Simple Colored Lights 1.6
+- Portal Cornerlink 1.1.0
+- Presence Footsteps 1.13.3+26.2, with Fabric API 0.161.0+26.2
+- rainbow's foliage: polytone 2.1, with Polytone 26.2-6.9.1
+- Reconnectible Chains 2.4.4+26.2-fabric, with Fabric API 0.161.0+26.2, YetAnotherConfigLib (YACL) 3.9.7+26.2-fabric
+- Reese's Sodium Options mc26.2-2.2.4+fabric
+- Reliable Gliders 2.0.0+26.2-fabric, with Fabric API 0.161.0+26.2
+- Relics (RPG Series) 1.4.1+26.2-fabric, with Fabric API 0.161.0+26.2, Ranged Weapon API 4.0.0+26.2-fabric
+- Respackopts 26.2.2, with LibJF 26.2.2
+- Rogues & Warriors (RPG Series) 3.1.3.003+26.2-fabric, with Armor Model API 1.1.2+26.2-fabric, Fabric API 0.161.0+26.2, Structure Pool API 1.3.0+26.2-fabric
+- Roughly Enough Items (REI) 26.2.820+fabric, with Architectury API 21.1.12+fabric, Cloth Config API 26.2.155+fabric, Fabric API 0.161.0+26.2
+- Runelic 26.2.0.1, with Bookshelf 26.2.0.4, Fabric API 0.161.0+26.2
+- Sails and Airships: Block-Based Ships 1.0.5+26.2
+- Scholar 1.2.10, with Fabric API 0.161.0+26.2, Forge Config API Port 26.2.1
+- Seamless Ores 5.1.0+fabric, with Cloth Config API 26.2.155+fabric, Fabric API 0.161.0+26.2
+- Searchables 1.0.1, with Fabric API 0.161.0+26.2
+- Show Me Your Skin! 2.0.3+26.2, with CICADA 0.15.3+26.2, Fabric API 0.161.0+26.2
+- Simple Grass Flowers 2.0.0
+- Simple Lower Grass Sides 1.2.0
+- Simple Voice Chat fabric-2.6.27+26.2
+- Skill Tree (RPG Series) 1.6.2+26.2-fabric, with Fabric API 0.161.0+26.2, Pufferfish's Skills 0.19.2, Ranged Weapon API 4.0.0+26.2-fabric
+- Skin Restorer 2.11.0+26.1-fabric
+- Skin Shuffle 2.13.0+26.2-fabric, with Fabric API 0.161.0+26.2
+- Sodium mc26.2-0.9.2-fabric
+- Sodium Extra mc26.2-0.9.5+fabric
+- Spatial GUI 1.9.1-fabric+26.2, with Fabric API 0.161.0+26.2, YetAnotherConfigLib (YACL) 3.9.7+26.2-fabric
+- Spell Engine 1.10.9+26.2-fabric, with Cloth Config API 26.2.155+fabric, Fabric API 0.161.0+26.2, Player Animation Library 1.2.8
+- Spell Power Attributes 1.6.2+26.2-fabric, with Fabric API 0.161.0+26.2
+- Stronger Skill Tree 2.0.0+mod
+- Sun & Moon Fusion 3
+- Sunbathing Godrays 1.14
+- Take a Seat! 1.0.4
+- Tectonic 3.0.28-fabric-26.2, with Fabric API 0.161.0+26.2, Lithostitched 1.8.0-fabric-26.2
+- Trinkets Elytra Support 1.0.0+mod
+- Trinkets Lantern Support 1.0.0+mod
+- Trinkets Updated 4.1.1+26.2
+- Unified API 26.2-1.0-beta-23-fabric
+- UUID Fixer 26.2
+- Village Taverns (RPG Series) 1.3.0+26.2-fabric, with Fabric API 0.161.0+26.2, Structure Pool API 1.3.0+26.2-fabric
+- Visuality 0.7.15+26.3, with Cloth Config API 26.2.155+fabric, Fabric API 0.161.0+26.2
+- voxy 0.2.19-beta, with Fabric API 0.161.0+26.2
+- Voxy Seam Fix 0.2.1-release
+- Wisp's Colourful Wildflowers 1.0.0
+- Wizards (RPG Series) 3.1.3.003+26.2-fabric, with Armor Model API 1.1.2+26.2-fabric, Fabric API 0.161.0+26.2, Runes 1.3.2+26.2-fabric, Structure Pool API 1.3.0+26.2-fabric
+- Xaero's Minimap fabric-26.2-26.6.2, with Fabric API 0.161.0+26.2
+- Xaero's World Map fabric-26.2-1.47.2, with Fabric API 0.161.0+26.2
+- Yori3o's Grappling Hooks 5.2.0, with YetAnotherConfigLib (YACL) 3.9.7+26.2-fabric
+- Ziplines: Rezipped! 1.5.3+26.2-fabric, with Fabric API 0.161.0+26.2
+- ZoomX Smooth 26.2
+
+### Settings
+- config/drippyloadingscreen/options.txt added
+- config/enchancement.json added
+- config/fancymenu/custom_gui_screens.txt added
+- config/fancymenu/customizablemenus.txt added
+- config/fancymenu/legacy_checklist.txt added
+- config/fancymenu/options.txt added
+- config/fancymenu/user_variables.db added
+- config/keybindprofiles/current_profile.txt added
+- config/keybindprofiles/starter.kbp added
+- config/mca.json added
+- config/packed_packs/profiles/resourcepacks/FreshStart.profile.json added
+- config/spatial-gui.json5 added
+- icon.png added
+- options.txt added

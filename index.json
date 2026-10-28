@@ -819,6 +819,10 @@
     {
       "path": "overrides/options.txt",
       "sha1": "d33ed3b1f681e191dd2cf2f17055d2a89df1d3b3"
+    },
+    {
+      "path": "overrides/packweaver.jar",
+      "sha1": "2bcc5a3596a57d4ae2752a0b61645f36e048a5a4"
     }
   ]
 }
