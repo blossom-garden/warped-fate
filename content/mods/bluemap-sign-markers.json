@@ -1,0 +1,23 @@
+{
+  "name": "BlueMap Sign Markers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "i5ZtmNIW",
+      "slug": "bluemap-sign-markers",
+      "versionId": "mIGboCLs",
+      "versionNumber": "26.2-1.0.0.87",
+      "filename": "bluemapsignmarkers-26.2-1.0.0.87.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/mIGboCLs/bluemapsignmarkers-26.2-1.0.0.87.jar",
+      "sha1": "243ec156ee17a9f929162b597c470098a71f9c09",
+      "sha512": "02dd1d314bd39bcff3bea967908cf29f97d46ae147ad472a1124f59c62ac4f2f0ccccf1cfb341baa80beb7f506ff169931b65d3da50788750e84c7606332c8ee",
+      "fileSize": 171560
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

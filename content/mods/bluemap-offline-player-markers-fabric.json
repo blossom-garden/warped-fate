@@ -1,0 +1,23 @@
+{
+  "name": "BlueMap Offline Player Markers (Fabric)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4h9u0qdE",
+      "slug": "bluemap-offline-player-markers-fabric",
+      "versionId": "aFgZym0S",
+      "versionNumber": "2026.7.2",
+      "filename": "bluemap-offline-player-markers-2026.7.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4h9u0qdE/versions/aFgZym0S/bluemap-offline-player-markers-2026.7.2.jar",
+      "sha1": "5856104234cc28312c36d76fd9dcf9cc79b4420f",
+      "sha512": "277a5846d475d1ef1eb8e17e247e5e0319fdee34ef2b407eb18b7aa55086dcf90cba461cf532839b703738dae4dc64ab8fc9323a2982a85b924886561fcaf827",
+      "fileSize": 880356
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

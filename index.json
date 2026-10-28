@@ -45,6 +45,10 @@
       "sha1": "29d62ad7bb8318ef98dfa7b4b031e02fbaf7e619"
     },
     {
+      "path": "content/mods/bcss.json",
+      "sha1": "b44a3c7626db63e1a4bb5879e8ea381b041cbdd7"
+    },
+    {
       "path": "content/mods/better-climbing.json",
       "sha1": "33d8ca09a8516060527bdd71d119b126ac5b20d9"
     },
@@ -77,6 +81,18 @@
       "sha1": "b2ae6042fe888b4a8f0f235749dc642d526402d4"
     },
     {
+      "path": "content/mods/bluemap-offline-player-markers-fabric.json",
+      "sha1": "58f3ca9f0030e99bd400fcca379a49fc22e92baf"
+    },
+    {
+      "path": "content/mods/bluemap-sign-markers.json",
+      "sha1": "1b9e61b517650a8f8a64321f9a06f8267b7ded38"
+    },
+    {
+      "path": "content/mods/bluemap.json",
+      "sha1": "7b86d63cdb9a9fa6aa1f91d1ed8945599581092c"
+    },
+    {
       "path": "content/mods/bookshelf-lib.json",
       "sha1": "a6aaa6d7b999d22e6f9307e68b7b094be9ea478c"
     },
@@ -98,7 +114,7 @@
     },
     {
       "path": "content/mods/cicada.json",
-      "sha1": "e626e7f5f5ecf603136975f7c346863200fd4feb"
+      "sha1": "4f019a21bc265e47e0236e0f42cbd8db5e3eb714"
     },
     {
       "path": "content/mods/clientsort.json",
@@ -226,11 +242,11 @@
     },
     {
       "path": "content/mods/fabric-api.json",
-      "sha1": "784ad465660cf0f0d3e259e91efb48801ba10dbd"
+      "sha1": "e747c8ed93ae15e0da298796b21911095c20ffa3"
     },
     {
       "path": "content/mods/fabric-language-kotlin.json",
-      "sha1": "dcafcfde6d3c0eee3d1f2fd1a715b3c348fe6d85"
+      "sha1": "bb824cf406caad156cefc3bcf65180f1ceb6c39b"
     },
     {
       "path": "content/mods/fallingtree.json",
@@ -437,6 +453,10 @@
       "sha1": "eb1265bae3fef3b1d0879554e38faad89a9b614c"
     },
     {
+      "path": "content/mods/owo-lib.json",
+      "sha1": "c142c5cea2743a3d75cbc8eb4f0bdd53d916f2de"
+    },
+    {
       "path": "content/mods/packed-packs.json",
       "sha1": "4f2674d88154e5fbf9d21b45c3ee33ffe33f8832"
     },
@@ -545,6 +565,10 @@
       "sha1": "0ab400ebc1106622d9f27ed440b9e6aa0711cc98"
     },
     {
+      "path": "content/mods/show-me-your-skin.json",
+      "sha1": "ebe33b706631daf0a840aaa6f5ef151ecc788877"
+    },
+    {
       "path": "content/mods/simple-voice-chat.json",
       "sha1": "bd3d2e4744e95a9793abf86272543d5f0113aca1"
     },
@@ -555,6 +579,14 @@
     {
       "path": "content/mods/skills.json",
       "sha1": "7dbe9f35fae89463e946df0b91d6b8e09211c529"
+    },
+    {
+      "path": "content/mods/skinrestorer.json",
+      "sha1": "38a66742e59069e72e94d16fd26e061e9fee5afe"
+    },
+    {
+      "path": "content/mods/skinshuffle.json",
+      "sha1": "88a220e29d40e7ea3c2e1b2e6f92b6b133dd1b50"
     },
     {
       "path": "content/mods/sodium-extra.json",
@@ -589,10 +621,6 @@
       "sha1": "510a612dcd5435a8faafcf6fef96b58abf96be0b"
     },
     {
-      "path": "content/mods/tails-legacy.json",
-      "sha1": "da2b5133c8171fd34990a7541d4eb4cef72ee6d4"
-    },
-    {
       "path": "content/mods/tas.json",
       "sha1": "099ddb739ee13879c4e9e7e43ffca87065020df8"
     },
@@ -615,6 +643,10 @@
     {
       "path": "content/mods/unified-api.json",
       "sha1": "c9b165635e51ed2dd70e5f859e0539305de3a4d0"
+    },
+    {
+      "path": "content/mods/uuid-fixer.json",
+      "sha1": "5b45354de6071706a64ad3b9c4ef41e6f59b0353"
     },
     {
       "path": "content/mods/village-taverns.json",
@@ -766,7 +798,7 @@
     },
     {
       "path": "overrides/config/keybindprofiles/starter.kbp",
-      "sha1": "4509b90512c353d29a7d1c30438d7568433f652d"
+      "sha1": "dcad54f732586259624cb90414175e59e33c3922"
     },
     {
       "path": "overrides/config/mca.json",
@@ -786,7 +818,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "433f8dfe9a11f0ee46b1929779ae62b79f85bb06"
+      "sha1": "d33ed3b1f681e191dd2cf2f17055d2a89df1d3b3"
     }
   ]
 }

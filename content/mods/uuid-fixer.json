@@ -1,0 +1,23 @@
+{
+  "name": "UUID Fixer",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1KyJixBn",
+      "slug": "uuid-fixer",
+      "versionId": "SHxteuAO",
+      "versionNumber": "26.2",
+      "filename": "uuidfixer-26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1KyJixBn/versions/SHxteuAO/uuidfixer-26.2.jar",
+      "sha1": "7a0f0c41138cc0c26a37c84eac8c3fd9a21888be",
+      "sha512": "0195474637afdc71b6a4b86815b75ca22eecb02d9339eb3d20d775443d4503379e7780f181c604bfb9bfb8a1a17be4810156d2b48d3036935efe36038b8b0666",
+      "fileSize": 81889
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

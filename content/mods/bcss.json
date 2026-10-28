@@ -1,0 +1,23 @@
+{
+  "name": "BlueMap Custom Skin Server",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "yMAHcHNr",
+      "slug": "bcss",
+      "versionId": "M8UDJcrr",
+      "versionNumber": "2026.8.1",
+      "filename": "bluemap-custom-skin-server-2026.8.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/yMAHcHNr/versions/M8UDJcrr/bluemap-custom-skin-server-2026.8.1.jar",
+      "sha1": "1606281efa7a51107c351b05660e47ca3b78c2a3",
+      "sha512": "e34376cf937cc09a1f2ed5ee644268c0c0eb58b0269811b4c863ad79cd314c5a8733f7950da73d014871d7cba685e764920fbc6cb6108260468b9c2fdf1c2aae",
+      "fileSize": 3577109
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

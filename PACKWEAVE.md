@@ -1,6 +1,6 @@
 # Warped Fate
 
-**Minecraft 26.2 · fabric 0.20.1**, 130 mods (37 dependencies), 16 resource packs
+**Minecraft 26.2 · fabric 0.20.1**, 138 mods (37 dependencies), 16 resource packs
 
 ## Contents
 
@@ -20,6 +20,10 @@
 - [Better Happy Ghast Movement](https://modrinth.com/project/bhgm) `1.0.0`
 - [Better Selective Combat](https://modrinth.com/project/better-selective-combat) `1.2.2+26.2-fabric`
 - [BetterF3](https://modrinth.com/project/betterf3) `19.0.1`
+- [BlueMap](https://modrinth.com/project/bluemap) `5.29-fabric`
+- [BlueMap Custom Skin Server](https://modrinth.com/project/bcss) `2026.8.1`
+- [BlueMap Offline Player Markers (Fabric)](https://modrinth.com/project/bluemap-offline-player-markers-fabric) `2026.7.2`
+- [BlueMap Sign Markers](https://modrinth.com/project/bluemap-sign-markers) `26.2-1.0.0.87`
 - [ButterBee - Mob Variants](https://modrinth.com/project/butterbee) `1.0.8-mod`
 - [Call Your Happy Ghast](https://modrinth.com/project/call-your-happy-ghast) `v2.1.0+mod`
 - [Chunksmith](https://modrinth.com/project/chunksmith) `4.8.0+26.2`
@@ -99,6 +103,7 @@
 - [OmniCut: Better Wood, Copper, and Stone Cutter](https://modrinth.com/project/omnicut-better-wood-stone-cutter) `1.121.0+mod`
 - [Optimized Cushions](https://modrinth.com/project/optimized-cushions) `1.2.0`
 - [Origins: Legacy](https://modrinth.com/project/origins-legacy) `1.12.19+26.2`
+- [oωo (owo-lib)](https://modrinth.com/project/owo-lib) `0.13.1+26.2`
 - [Packed Packs](https://modrinth.com/project/packed-packs) `2.3.1+26.2`
 - [Paladins & Priests (RPG Series)](https://modrinth.com/project/paladins-and-priests) `3.1.3.003+26.2-fabric`
 - [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.2+26.2-fabric`
@@ -120,10 +125,13 @@
 - [Scholar](https://modrinth.com/project/scholar) `1.2.10`
 - [Seamless Ores](https://modrinth.com/project/seamless-ores) `5.1.0+fabric`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.1`
+- [Show Me Your Skin!](https://modrinth.com/project/show-me-your-skin) `2.0.3+26.2`
 - [Simple Grass Flowers](https://modrinth.com/project/simple-grass-flowers) `2.0.0`
 - [Simple Lower Grass Sides](https://modrinth.com/project/simple-lower-grass-sides) `1.2.0`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `fabric-2.6.26+26.2`
 - [Skill Tree (RPG Series)](https://modrinth.com/project/skill-tree) `1.6.2+26.2-fabric`
+- [Skin Restorer](https://modrinth.com/project/skinrestorer) `2.11.0+26.1-fabric`
+- [Skin Shuffle](https://modrinth.com/project/skinshuffle) `2.13.0+26.2-fabric`
 - [Sodium](https://modrinth.com/project/sodium) `mc26.2-0.9.2-fabric`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc26.2-0.9.5+fabric`
 - [Spatial GUI](https://modrinth.com/project/spatial-gui) `1.9.1-fabric+26.2`
@@ -132,13 +140,13 @@
 - [Stronger Skill Tree](https://modrinth.com/project/stronger-skill-tree-for-pufferfishs-skills) `2.0.0+mod`
 - [Sun & Moon Fusion](https://modrinth.com/project/sun-moon-fusion) `3`
 - [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.13`
-- [Tails Legacy](https://modrinth.com/project/tails-legacy) `4.0.4+26.2-fabric`
 - [Take a Seat!](https://modrinth.com/project/tas) `1.0.4`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-fabric-26.2`
 - [Trinkets Elytra Support](https://modrinth.com/project/trinkets-elytra-support) `1.0.0+mod`
 - [Trinkets Lantern Support](https://modrinth.com/project/trinkets-lantern-support) `1.0.0+mod`
 - [Trinkets Updated](https://modrinth.com/project/trinkets-updated) `4.1.1+26.2`
 - [Unified API](https://modrinth.com/project/unified-api) `26.2-1.0-beta-23-fabric`
+- [UUID Fixer](https://modrinth.com/project/uuid-fixer) `26.2`
 - [Village Taverns (RPG Series)](https://modrinth.com/project/village-taverns) `1.3.0+26.2-fabric`
 - [Visuality](https://modrinth.com/project/visuality) `0.7.15+26.3`
 - [voxy](https://modrinth.com/project/voxy) `0.2.19-beta`

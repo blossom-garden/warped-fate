@@ -1,0 +1,23 @@
+{
+  "name": "Skin Shuffle",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3s19I5jr",
+      "slug": "skinshuffle",
+      "versionId": "13ofAx80",
+      "versionNumber": "2.13.0+26.2-fabric",
+      "filename": "skinshuffle-2.13.0+26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3s19I5jr/versions/13ofAx80/skinshuffle-2.13.0%2B26.2-fabric.jar",
+      "sha1": "fc456a217ca982a2afa0154b0f6fe7ebda6d56ee",
+      "sha512": "24270d786fde366714a1bb974703fc3bb7f181250101c2b7b0f5c0f84e586f4fcb1284a82f5a3e86df8646448fa287312dec236ea54f284d8ec0b5bd32988fb1",
+      "fileSize": 5300922
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

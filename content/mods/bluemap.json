@@ -1,0 +1,27 @@
+{
+  "name": "BlueMap",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "swbUV1cr",
+      "slug": "bluemap",
+      "versionId": "SX74rxzP",
+      "versionNumber": "5.29-fabric",
+      "filename": "bluemap-5.29-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/swbUV1cr/versions/SX74rxzP/bluemap-5.29-fabric.jar",
+      "sha1": "1fbd340333962fc778d88c23a618e6208d48ce55",
+      "sha512": "032a96971437e43a3722d8d6c026aeb9837117e1a56521d017a68fce8bb5630ceffd98454672b9d6c589a1008fcd2ab4cd48f4af8fadf08755313b1e326bedb1",
+      "fileSize": 7085342
+    }
+  },
+  "dependents": [
+    "4h9u0qdE",
+    "i5ZtmNIW",
+    "yMAHcHNr"
+  ],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}
