@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "9eGKb6K1",
       "slug": "simple-voice-chat",
-      "versionId": "s0wBn5Sf",
-      "versionNumber": "fabric-2.6.26+26.2",
-      "filename": "voicechat-fabric-2.6.26+26.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/9eGKb6K1/versions/s0wBn5Sf/voicechat-fabric-2.6.26%2B26.2.jar",
-      "sha1": "a24c3cca330c650f45aa3db15d5ace0b7b4f1b12",
-      "sha512": "028ecc1be6c910d688f884e9e94401b9ce43ca69eb0b120947390be15a4871863190e664aeaa5f5e3517dededa15fecfb880b3dd782094b5c3d2db2288726b6e",
-      "fileSize": 5595032
+      "versionId": "ul3tRpKz",
+      "versionNumber": "fabric-2.6.27+26.2",
+      "filename": "voicechat-fabric-2.6.27+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ul3tRpKz/voicechat-fabric-2.6.27%2B26.2.jar",
+      "sha1": "42f718b4f2c4b05a7c3b6b4eaa51a49d043d9740",
+      "sha512": "d3c0d7c57138457a16af6dff8e15cd664471647e7697f66a53b62b953b9c778af217170a3284b0b606d1ec4dbfb74936fd95b23469d90fd5afa4c1db82e5b6d7",
+      "fileSize": 5595129
     }
   },
   "dependents": [],

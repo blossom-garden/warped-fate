@@ -128,7 +128,7 @@
 - [Show Me Your Skin!](https://modrinth.com/project/show-me-your-skin) `2.0.3+26.2`
 - [Simple Grass Flowers](https://modrinth.com/project/simple-grass-flowers) `2.0.0`
 - [Simple Lower Grass Sides](https://modrinth.com/project/simple-lower-grass-sides) `1.2.0`
-- [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `fabric-2.6.26+26.2`
+- [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `fabric-2.6.27+26.2`
 - [Skill Tree (RPG Series)](https://modrinth.com/project/skill-tree) `1.6.2+26.2-fabric`
 - [Skin Restorer](https://modrinth.com/project/skinrestorer) `2.11.0+26.1-fabric`
 - [Skin Shuffle](https://modrinth.com/project/skinshuffle) `2.13.0+26.2-fabric`
@@ -139,7 +139,7 @@
 - [Spell Power Attributes](https://modrinth.com/project/spell-power) `1.6.2+26.2-fabric`
 - [Stronger Skill Tree](https://modrinth.com/project/stronger-skill-tree-for-pufferfishs-skills) `2.0.0+mod`
 - [Sun & Moon Fusion](https://modrinth.com/project/sun-moon-fusion) `3`
-- [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.13`
+- [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.14`
 - [Take a Seat!](https://modrinth.com/project/tas) `1.0.4`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-fabric-26.2`
 - [Trinkets Elytra Support](https://modrinth.com/project/trinkets-elytra-support) `1.0.0+mod`
