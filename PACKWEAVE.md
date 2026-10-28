@@ -1,6 +1,6 @@
 # Warped Fate
 
-**Minecraft 26.2 · fabric 0.20.1**, 131 mods (37 dependencies), 16 resource packs
+**Minecraft 26.2 · fabric 0.20.1**, 130 mods (37 dependencies), 16 resource packs
 
 ## Contents
 
@@ -34,7 +34,6 @@
 - [Cull Leaves](https://modrinth.com/project/cull-leaves) `4.1.2+26.2-fabric`
 - [Cushion Backport](https://modrinth.com/project/cushions-backport) `1.0.5`
 - [Default Skill Trees](https://modrinth.com/project/default-skill-trees) `1.1`
-- [Do a Barrel Roll](https://modrinth.com/project/do-a-barrel-roll) `3.8.4+26.2-fabric`
 - [Drippy Loading Screen](https://modrinth.com/project/drippy-loading-screen) `3.1.5-26.2-fabric`
 - [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `5.3.2+mod`
 - [Dynamic FPS](https://modrinth.com/project/dynamic-fps) `3.11.9`
