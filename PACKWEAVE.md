@@ -91,7 +91,6 @@
 - [MCA Reborn](https://modrinth.com/project/minecraft-comes-alive-reborn) `8.1.11+26.2`
 - [Mob Chains](https://modrinth.com/project/mob-chains) `1.0.0`
 - [Mod Menu](https://modrinth.com/project/modmenu) `20.0.3`
-- [Modifier Keybinds](https://modrinth.com/project/modifier-keybinds) `1.1.0+26.2-fabric`
 - [Motion Capture](https://modrinth.com/project/motion-capture) `1.3.10-fabric-26.2`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `26.2-2.31-fabric`
 - [Nautilus Studio - Packs Editor IDE](https://modrinth.com/project/packs-editor) `26.2-1.11.0`
@@ -101,6 +100,7 @@
 - [OmniCut: Better Wood, Copper, and Stone Cutter](https://modrinth.com/project/omnicut-better-wood-stone-cutter) `1.121.0+mod`
 - [Optimized Cushions](https://modrinth.com/project/optimized-cushions) `1.2.0`
 - [Origins: Legacy](https://modrinth.com/project/origins-legacy) `1.12.19+26.2`
+- [Packed Packs](https://modrinth.com/project/packed-packs) `2.3.1+26.2`
 - [Paladins & Priests (RPG Series)](https://modrinth.com/project/paladins-and-priests) `3.1.3.003+26.2-fabric`
 - [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.2+26.2-fabric`
 - [Particular ✨ Reforged](https://modrinth.com/project/particular-reforged) `1.5.7`

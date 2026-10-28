@@ -1,0 +1,29 @@
+{
+  "locked": false,
+  "name": "FreshStart",
+  "overrides": {},
+  "packIds": [
+    "file/FA+Player_Expressions-v1.2.zip",
+    "file/FA+Player-v1.1.zip",
+    "file/FA+Creepers-v2.1.zip",
+    "file/FA+Details-v2.3.zip",
+    "file/FA+Emissive-v1.6.zip",
+    "file/FA+Objects-v2.1.2.zip",
+    "file/FA+Quivers-v2.2.zip",
+    "file/FA+Spiders-v2.2.zip",
+    "file/FreshAnimations_v1.11.1_26.1+.zip",
+    "file/colored_lights-v1.6.zip",
+    "file/rainbows-foliage-polytone-edition-v2.1.zip",
+    "file/sunbathing-v1.13.zip",
+    "file/Sun \u0026 Moon Fusion 3.zip",
+    "file/Wisps Wonderful Wildflowers v1.0.0.zip",
+    "file/Simple Grass Flowers v2.0.0.zip",
+    "file/Simple Lower Grass Sides v1.2.0.zip",
+    "minecraft:kaleidoscope_eating_animation",
+    "continuity:glass_pane_culling_fix",
+    "continuity:default",
+    "scholar:colored_books",
+    "scholar:chiseled_bookshelf_colored_books",
+    "vanilla"
+  ]
+}

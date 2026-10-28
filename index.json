@@ -226,7 +226,7 @@
     },
     {
       "path": "content/mods/fabric-api.json",
-      "sha1": "f569994d847103d0c00789503353b182363bea40"
+      "sha1": "784ad465660cf0f0d3e259e91efb48801ba10dbd"
     },
     {
       "path": "content/mods/fabric-language-kotlin.json",
@@ -393,10 +393,6 @@
       "sha1": "147b31efa98a56115bd556adc44f28f537ec3fb2"
     },
     {
-      "path": "content/mods/modifier-keybinds.json",
-      "sha1": "06d8ca3d8bb6327c1073c30fd4fdc0127b2609e8"
-    },
-    {
       "path": "content/mods/modmenu.json",
       "sha1": "e48021691e03cfb149ed9ad32e411d2ca2cf6f86"
     },
@@ -439,6 +435,10 @@
     {
       "path": "content/mods/origins-legacy.json",
       "sha1": "eb1265bae3fef3b1d0879554e38faad89a9b614c"
+    },
+    {
+      "path": "content/mods/packed-packs.json",
+      "sha1": "4f2674d88154e5fbf9d21b45c3ee33ffe33f8832"
     },
     {
       "path": "content/mods/packs-editor.json",
@@ -745,12 +745,16 @@
       "sha1": "a0de07419fb3fb20f97ecf44c58e2e8c81e2276b"
     },
     {
+      "path": "overrides/config/packed_packs/profiles/resourcepacks/FreshStart.profile.json",
+      "sha1": "4d20e68efc7dc4285e9b5e15bc0194f2aeb2c3f4"
+    },
+    {
       "path": "overrides/icon.png",
       "sha1": "4b3e0a6318cc7e197e49acbe3b4d346a7b84a4dd"
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "a608fdf2342cfe5b1d7d8c18ea1bb98c76cb9f85"
+      "sha1": "891ca823d10980787f3254cc70133e393cbdace6"
     }
   ]
 }

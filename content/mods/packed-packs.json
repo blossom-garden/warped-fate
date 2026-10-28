@@ -1,0 +1,23 @@
+{
+  "name": "Packed Packs",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8Pq6Exn2",
+      "slug": "packed-packs",
+      "versionId": "5Py338U8",
+      "versionNumber": "2.3.1+26.2",
+      "filename": "packed_packs-fabric-2.3.1+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/5Py338U8/packed_packs-fabric-2.3.1%2B26.2.jar",
+      "sha1": "4c184231ac6e6f0c1ff6638e1d01efa6d2622003",
+      "sha512": "90d011f750e8ee1b25e898d65875681b183a0c496ce5fa365bc35ab66d5f8d4e339bee401a2aa35cfbc2dc791b194eca848338f39cfd1c5f48e09decc0c2321d",
+      "fileSize": 1002969
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
