@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "50dA9Sha",
       "slug": "fresh-animations",
-      "versionId": "aQjwvDfY",
+      "versionId": "tvGVYMD4",
       "versionNumber": "1.11.1",
-      "filename": "FreshAnimations_v1.11.1_1.20+.zip",
-      "downloadUrl": "https://cdn.modrinth.com/data/50dA9Sha/versions/aQjwvDfY/FreshAnimations_v1.11.1_1.20%2B.zip",
-      "sha1": "eaf28f57dee43c469534953517501a021d28cf21",
-      "sha512": "641a03d55c36920cc9a70d891bcca3347b196968bcb5637781f21b417b1ff893ce60652abcf02be872872fc1130ccc6785155ea3b19a0ed484de714b6229c922",
-      "fileSize": 743793
+      "filename": "FreshAnimations_v1.11.1_26.1+.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/50dA9Sha/versions/tvGVYMD4/FreshAnimations_v1.11.1_26.1%2B.zip",
+      "sha1": "ae9175983c5109162c86daae1acff34ccf623faf",
+      "sha512": "5357a3dbce74f5bdb688f3c4e6f7cadb6e0d81d3dde41d46017993d5bc5456a325a39a3faad0d471be51fcc73e3a47218ec64ed8e0024b092cd117b422f23356",
+      "fileSize": 776684
     }
   },
   "dependents": [

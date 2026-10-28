@@ -10,3 +10,9 @@
 # !config/somemod.toml#client.debug
 options.txt
 servers.dat
+config/voicechat/**
+config/mca.json
+!config/mca.json#launchIntoDestiny
+!config/mca.json#allowDestinyTeleportation
+!config/mca.json#enableVillagerPlayerModel
+!config/mca.json#forceVillagerPlayerModel

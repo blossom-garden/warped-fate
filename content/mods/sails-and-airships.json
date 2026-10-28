@@ -1,0 +1,23 @@
+{
+  "name": "Sails and Airships: Block-Based Ships",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "i2NMqEAG",
+      "slug": "sails-and-airships",
+      "versionId": "keJXTFyK",
+      "versionNumber": "1.0.5+26.2",
+      "filename": "sailsandairships-1.0.5+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/i2NMqEAG/versions/keJXTFyK/sailsandairships-1.0.5%2B26.2.jar",
+      "sha1": "26677f385325b0344e7e0f6770cf469bb011d162",
+      "sha512": "4bd7a5eaefa2477efe3bd7fd6725427b839994a75d3a9159ac25a0682e5151bce9c1f667f67e915e7bcfa0ed3472ddfee995a1a5696a1c2d97109fcca6fd650c",
+      "fileSize": 1087279
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

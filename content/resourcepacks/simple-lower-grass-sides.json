@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "yANRnOx8",
       "slug": "simple-lower-grass-sides",
-      "versionId": "S1rUIKTX",
-      "versionNumber": "1.3.0",
-      "filename": "Simple Lower Grass Sides v1.3.0.zip",
-      "downloadUrl": "https://cdn.modrinth.com/data/yANRnOx8/versions/S1rUIKTX/Simple%20Lower%20Grass%20Sides%20v1.3.0.zip",
-      "sha1": "33054fdd23c86966f1a35d310311ca1c1b196c65",
-      "sha512": "174a851880365c3ba0fa1b6dd6f3c3844894074bf34bf137cde697b813307e2cf66d4644cbf07e31425d5d32b90651a9b759c9b70534a20ffc5b5a2c241ed625",
-      "fileSize": 252776
+      "versionId": "YEdrXaza",
+      "versionNumber": "1.2.0",
+      "filename": "Simple Lower Grass Sides v1.2.0.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/yANRnOx8/versions/YEdrXaza/Simple%20Lower%20Grass%20Sides%20v1.2.0.zip",
+      "sha1": "2bdd908eb4f694442994bf7bb9c7abfc321221bc",
+      "sha512": "64340edce7a3fbf5ff79c2fd3451ddba3995e80474e2c7423e0a4e9ca9ade220ed1ac3cd132f87806d903ad37b5365a290694741f1e5d32617ec0ee14af14329",
+      "fileSize": 252576
     }
   },
   "dependents": [],

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "lctgpCsu",
       "slug": "fresh-animations-details",
-      "versionId": "tGydmcT3",
-      "versionNumber": "2.2.1",
-      "filename": "FA+Details-v2.2.1.zip",
-      "downloadUrl": "https://cdn.modrinth.com/data/lctgpCsu/versions/tGydmcT3/FA%2BDetails-v2.2.1.zip",
-      "sha1": "456243af4db5e0b575b1f31c0ba5edfac24ec346",
-      "sha512": "f5f84645c2665e772d6db80a201e7dda0feb570a82445b72e7012665b6df238357a8b62e6d2655a43146fd309c36125ed18d9512ee924f89587ef627c6f3c753",
-      "fileSize": 289745
+      "versionId": "qZUQ2JxK",
+      "versionNumber": "2.3.0",
+      "filename": "FA+Details-v2.3.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/lctgpCsu/versions/qZUQ2JxK/FA%2BDetails-v2.3.zip",
+      "sha1": "150320584ccb0f7632b3fe81a7fe97101293c747",
+      "sha512": "01b76ec5c66710bd035f2805de668db4745b866744093f4b9c8517b28e70c7dc1cf3935a7f5acbb63294874e466f96360e8fe4ce9abdbc0742ee355fd05af38b",
+      "fileSize": 250407
     }
   },
   "dependents": [],

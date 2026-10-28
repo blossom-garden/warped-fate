@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "YSIJ1xkc",
       "slug": "sunbathing-godrays",
-      "versionId": "BCBPz0lY",
-      "versionNumber": "1.11",
-      "filename": "sunbathing-v1.11.zip",
-      "downloadUrl": "https://cdn.modrinth.com/data/YSIJ1xkc/versions/BCBPz0lY/sunbathing-v1.11.zip",
-      "sha1": "f4710fd00269ab017282edcbe8872f22d565765e",
-      "sha512": "1594b507f130b570aec6340bf19f5f5e09d510ec2439dbaab868d56d71893ae9541edc5cbf31ef379c43bf98c71938df51465d38ba733246c3c2a2ea5fe4b5f0",
-      "fileSize": 347493
+      "versionId": "iYoheI9P",
+      "versionNumber": "1.13",
+      "filename": "sunbathing-v1.13.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/YSIJ1xkc/versions/iYoheI9P/sunbathing-v1.13.zip",
+      "sha1": "ea114a2a6b792854047184f423e5f1a0558ef2d0",
+      "sha512": "ca7735e0381652c2f8d0c0da7e57628237c1a77575c446c0f999228b8936521721aac387553db85d7fff09b07c699117d3956086ec933614458dc2e1bfdcba7f",
+      "fileSize": 337082
     }
   },
   "dependents": [],

@@ -1,0 +1,23 @@
+{
+  "name": "MCA Reborn",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1W98a849",
+      "slug": "minecraft-comes-alive-reborn",
+      "versionId": "4Wyg5fOK",
+      "versionNumber": "8.1.11+26.2",
+      "filename": "mca-fabric-8.1.11+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1W98a849/versions/4Wyg5fOK/mca-fabric-8.1.11%2B26.2.jar",
+      "sha1": "01ca28996b952828f215db50fec76c4d66ab160f",
+      "sha512": "c21912cd0aa5db497609389ef04cd5d7c7484f4dab58bbf07af82c309f062c2b7360a7758ad6ae13aea3d715309eaa8aa761395ef6646f304d66e302736d5614",
+      "fileSize": 11465579
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Portal Cornerlink",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qDUgtWyA",
+      "slug": "portal-cornerlink",
+      "versionId": "L5mBJ9L0",
+      "versionNumber": "1.1.0",
+      "filename": "dakes_cornerlink-fabric-26.3-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qDUgtWyA/versions/L5mBJ9L0/dakes_cornerlink-fabric-26.3-1.1.0.jar",
+      "sha1": "ed710401061033c76edc73c910d25548589ade94",
+      "sha512": "fec1855fbd7be92f41b309bd655b12497e921371a443c8bf4fb079b09419cd9060cfefc0bfb47b146210896740f7cc56bd8c8a641812f3942c70548c10e0d784",
+      "fileSize": 171758
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

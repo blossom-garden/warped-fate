@@ -1,0 +1,23 @@
+{
+  "name": "ZoomX Smooth",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4vWyVWtX",
+      "slug": "zoomx-smooth",
+      "versionId": "FdXJKWbC",
+      "versionNumber": "26.2",
+      "filename": "zoomx-smooth-26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4vWyVWtX/versions/FdXJKWbC/zoomx-smooth-26.2.jar",
+      "sha1": "10d4bb9847066d55601a730262cd22ba74913341",
+      "sha512": "8d1fcc9de0c16cfa3483891ed70ef320120556d0697048d51940844e9884e7c68d545dfe60da7dbf29751b4e19b8e87eac3fb74551ff81bcfebb31a845843955",
+      "fileSize": 30150
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Cushion Backport",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "DBGOO7gw",
+      "slug": "cushions-backport",
+      "versionId": "rbaoazxF",
+      "versionNumber": "1.0.5",
+      "filename": "cushionbackport-26.2-Fabric-1.0.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/DBGOO7gw/versions/rbaoazxF/cushionbackport-26.2-Fabric-1.0.5.jar",
+      "sha1": "6c35f5c95b82917fb717ae416cb7f77e1c78a171",
+      "sha512": "69dc61789ef299431cd7ff778931ebbcef48d0551c3ea33aef67e88ccf93aceea75430c07e98f34699f6c38553988748833d4df8305106fc21c00e5d40b08eeb",
+      "fileSize": 161407
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

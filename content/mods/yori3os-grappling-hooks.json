@@ -1,0 +1,23 @@
+{
+  "name": "Yori3o's Grappling Hooks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "t1p8V2nl",
+      "slug": "yori3os-grappling-hooks",
+      "versionId": "dS66MHGO",
+      "versionNumber": "5.2.0",
+      "filename": "yo_hooks-5.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/t1p8V2nl/versions/dS66MHGO/yo_hooks-5.2.0.jar",
+      "sha1": "f523e98fc20c58de35290f2a03ed6638e11e52d1",
+      "sha512": "6692ce2c09d5f28f303ef5ab3a40f2a0f0d499a9ae07935e6611bcfd0dc49aa99040aa49dd7a3cd8c1390520e38053dd40afcc154f902a384812962847588709",
+      "fileSize": 582010
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

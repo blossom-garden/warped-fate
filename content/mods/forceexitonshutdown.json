@@ -1,0 +1,23 @@
+{
+  "name": "ForceExitOnShutdown",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "e4vHaYPn",
+      "slug": "forceexitonshutdown",
+      "versionId": "iD6zQ5KO",
+      "versionNumber": "0.1.0",
+      "filename": "ForceExitOnShutdown-0.1.0+MC-26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/e4vHaYPn/versions/iD6zQ5KO/ForceExitOnShutdown-0.1.0%2BMC-26.2.jar",
+      "sha1": "349e1c6fd135e87816a8b1686f42184c264224e1",
+      "sha512": "1fcc83689961dd7a561acd7c644922a0f5879d17a38bf77c07fb35998385cbd39e46dcd873b0ab860c1de1a1d00caeb43f3664294e88cbe64a7f6c309eb4989a",
+      "fileSize": 16783
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

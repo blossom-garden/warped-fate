@@ -1,0 +1,23 @@
+{
+  "name": "EMF Compat: Gliders",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "PsGWhwc8",
+      "slug": "emf-compat-gliders",
+      "versionId": "yPq4DMja",
+      "versionNumber": "2.0.0",
+      "filename": "emf_compat_gliders_26.2_2.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/PsGWhwc8/versions/yPq4DMja/emf_compat_gliders_26.2_2.0.0.jar",
+      "sha1": "0265a3e0a89bf4f8b7dd8d1a939facaccd092128",
+      "sha512": "89005447dd8b14e8dbc78b9c0789452fc977abd9bfc41be015a64f63beb59b3aa698d4f32ab5a0e83f9b0a1fdf9051deb8342297da0f4ddd05e63f3517d8baa6",
+      "fileSize": 179139
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
