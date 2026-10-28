@@ -761,12 +761,28 @@
       "sha1": "c3bb014d7d891e8ff6148a9667c333d0839edc73"
     },
     {
+      "path": "overrides/config/fancymenu/assets/minecraft_title.png",
+      "sha1": "480dc8741905e39a22cbc3bfe215a4ea019f6d96"
+    },
+    {
       "path": "overrides/config/fancymenu/custom_gui_screens.txt",
       "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c"
     },
     {
       "path": "overrides/config/fancymenu/customizablemenus.txt",
-      "sha1": "ac89850ef71e794f922e5f2454c12268fd8dd339"
+      "sha1": "becf0506a11598157f55da3e7b70734308f7117d"
+    },
+    {
+      "path": "overrides/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+      "sha1": "c110eb7489ce1ef38abeb1df79e493880501fc16"
+    },
+    {
+      "path": "overrides/config/fancymenu/customization/title_screen_layout.txt",
+      "sha1": "f8fd33bc535014d0908298f9c4e15deb31a8659a"
+    },
+    {
+      "path": "overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha1": "ba9edbe4c923858509e040a5881f49bac410429b"
     },
     {
       "path": "overrides/config/fancymenu/legacy_checklist.txt",
@@ -774,7 +790,7 @@
     },
     {
       "path": "overrides/config/fancymenu/options.txt",
-      "sha1": "6efd901b4752fa54e7d7c62411dbfde662c8bfec"
+      "sha1": "1735d72a01c594352fbcc3b0550a45e4da5d014b"
     },
     {
       "path": "overrides/config/fancymenu/user_variables.db",
@@ -789,8 +805,16 @@
       "sha1": "dcad54f732586259624cb90414175e59e33c3922"
     },
     {
+      "path": "overrides/config/lazychunkload.json",
+      "sha1": "7dbe1ace2712e82689e1231a98a8dfd7094b1af2"
+    },
+    {
       "path": "overrides/config/mca.json",
       "sha1": "a0de07419fb3fb20f97ecf44c58e2e8c81e2276b"
+    },
+    {
+      "path": "overrides/config/mod-loading-screen/config.txt",
+      "sha1": "f390c0d8cd4a43903d8cf59c16eb3bfd17b05d8c"
     },
     {
       "path": "overrides/config/packed_packs/profiles/resourcepacks/FreshStart.profile.json",
@@ -799,6 +823,14 @@
     {
       "path": "overrides/config/packed_packs/profiles/resourcepacks/PrettyStart.profile.json",
       "sha1": "8693a36ca865d25f4d8dceb94b1ba2ea2df23710"
+    },
+    {
+      "path": "overrides/config/quick-pack.json",
+      "sha1": "4cdf7b1b52da5b90463f42cba2ff52b65b8ae8bd"
+    },
+    {
+      "path": "overrides/config/seamlesschunks.properties",
+      "sha1": "8c93e5a976ccac169acc9561849ac363d083b9af"
     },
     {
       "path": "overrides/config/spatial-gui.json5",
@@ -814,7 +846,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "2a13284f239e64eec94c6dc3a73b26a48d1090ec"
+      "sha1": "2d5f84edb1a75f7e38cbdbc8cf3f3bb9a677af62"
     },
     {
       "path": "overrides/packweaver.jar",
