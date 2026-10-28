@@ -16,3 +16,5 @@ config/mca.json
 !config/mca.json#allowDestinyTeleportation
 !config/mca.json#enableVillagerPlayerModel
 !config/mca.json#forceVillagerPlayerModel
+config/spatial-gui.json5
+config/keybindprofiles/current_profile.txt

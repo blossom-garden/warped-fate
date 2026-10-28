@@ -733,12 +733,40 @@
       "sha1": "06d72eb5f9d33e67d57a6de235c42b54ceba3bd3"
     },
     {
+      "path": "overrides/config/drippyloadingscreen/options.txt",
+      "sha1": "2ff67b3d9bcc2795fe59856885bf6e4bb648cc7f"
+    },
+    {
       "path": "overrides/config/enchancement.json",
       "sha1": "c3bb014d7d891e8ff6148a9667c333d0839edc73"
     },
     {
+      "path": "overrides/config/fancymenu/custom_gui_screens.txt",
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c"
+    },
+    {
+      "path": "overrides/config/fancymenu/customizablemenus.txt",
+      "sha1": "ac89850ef71e794f922e5f2454c12268fd8dd339"
+    },
+    {
+      "path": "overrides/config/fancymenu/legacy_checklist.txt",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e"
+    },
+    {
+      "path": "overrides/config/fancymenu/options.txt",
+      "sha1": "6efd901b4752fa54e7d7c62411dbfde662c8bfec"
+    },
+    {
+      "path": "overrides/config/fancymenu/user_variables.db",
+      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258"
+    },
+    {
+      "path": "overrides/config/keybindprofiles/current_profile.txt",
+      "sha1": "f16ecba5a2d660c0a728d9cae2b4666e8cb8459c"
+    },
+    {
       "path": "overrides/config/keybindprofiles/starter.kbp",
-      "sha1": "0de8c22d118a410efe99031c58279f5c38af269a"
+      "sha1": "4509b90512c353d29a7d1c30438d7568433f652d"
     },
     {
       "path": "overrides/config/mca.json",
@@ -749,12 +777,16 @@
       "sha1": "4d20e68efc7dc4285e9b5e15bc0194f2aeb2c3f4"
     },
     {
+      "path": "overrides/config/spatial-gui.json5",
+      "sha1": "cf3badbf46b182fe5dae0eabc54ae3897f430861"
+    },
+    {
       "path": "overrides/icon.png",
       "sha1": "4b3e0a6318cc7e197e49acbe3b4d346a7b84a4dd"
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "891ca823d10980787f3254cc70133e393cbdace6"
+      "sha1": "433f8dfe9a11f0ee46b1929779ae62b79f85bb06"
     }
   ]
 }

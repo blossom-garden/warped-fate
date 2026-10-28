@@ -217,7 +217,7 @@ key_key.icys-better-horses.gear:key.keyboard.v
 key_key.icys-better-horses.gear_down:key.keyboard.z
 key_key.icys-better-horses.rear:key.keyboard.h
 key_key.icys-better-horses.free_look:key.keyboard.left.control
-key_key.icys-better-horses.cart_menu:key.keyboard.left.alt
+key_key.icys-better-horses.cart_menu:key.keyboard.insert
 key_key.icys-better-horses.charge:key.keyboard.b
 key_key.immersiveoverlays.toggle:key.keyboard.unknown
 key_key.immersiveoverlays.settings:key.keyboard.unknown
@@ -234,7 +234,7 @@ key_key.jade.profile.2:key.keyboard.unknown
 key_key.jade.profile.3:key.keyboard.unknown
 key_key.keybindprofiles.open:key.keyboard.unknown
 key_key.debug.reloadLanguages:key.keyboard.j
-key_key.leawind_third_person.adjust_camera:key.keyboard.z
+key_key.leawind_third_person.adjust_camera:key.keyboard.left.alt
 key_key.leawind_third_person.switch_shoulder:key.keyboard.caps.lock
 key_key.leawind_third_person.aim:key.keyboard.unknown
 key_key.liteminer.veinmine:key.keyboard.grave.accent
