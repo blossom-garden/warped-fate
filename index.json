@@ -738,7 +738,7 @@
     },
     {
       "path": "overrides/config/keybindprofiles/starter.kbp",
-      "sha1": "bf3531b8c483ac6a2f10dc472acf9234b03d58e3"
+      "sha1": "0de8c22d118a410efe99031c58279f5c38af269a"
     },
     {
       "path": "overrides/config/mca.json",
@@ -750,7 +750,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "b6991e8488c80404a499ea9673f51af8d2a632ae"
+      "sha1": "a608fdf2342cfe5b1d7d8c18ea1bb98c76cb9f85"
     }
   ]
 }
