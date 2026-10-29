@@ -1,6 +1,6 @@
 # Warped Fate
 
-**Minecraft 26.2 · fabric 0.20.1**, 142 mods (34 dependencies), 16 resource packs
+**Minecraft 26.2 · fabric 0.20.1**, 138 mods (33 dependencies), 16 resource packs
 
 ## Contents
 
@@ -25,7 +25,6 @@
 - [BlueMap Offline Player Markers (Fabric)](https://modrinth.com/project/bluemap-offline-player-markers-fabric) `2026.7.2`
 - [BlueMap Sign Markers](https://modrinth.com/project/bluemap-sign-markers) `26.2-1.0.0.87`
 - [ButterBee - Mob Variants](https://modrinth.com/project/butterbee) `1.0.8-mod`
-- [Call Your Happy Ghast](https://modrinth.com/project/call-your-happy-ghast) `v2.1.0+mod`
 - [Chunksmith](https://modrinth.com/project/chunksmith) `4.8.0+26.2`
 - [Client Sort](https://modrinth.com/project/clientsort) `3.103.4+26.2`
 - [CliffTree](https://modrinth.com/project/clifftree) `3.3-fabric-26.2`
@@ -56,7 +55,6 @@
 - [FallingTree](https://modrinth.com/project/fallingtree) `26.2-26.2.0.4`
 - [FancyMenu](https://modrinth.com/project/fancymenu) `3.9.14-26.2-fabric`
 - [Fast Noise](https://modrinth.com/project/zfastnoise) `1.1.1+26.2`
-- [FastQuit](https://modrinth.com/project/fastquit) `3.1.5+mc26.2`
 - [Field Guide](https://modrinth.com/project/field-guide) `1.22.4+26.2-fabric`
 - [Fluidloggable](https://modrinth.com/project/fluidloggable) `3.1.2-beta.5-mc26.2`
 - [ForceExitOnShutdown](https://modrinth.com/project/forceexitonshutdown) `0.1.0`
@@ -70,7 +68,6 @@
 - [Fresh Animations: Quivers](https://modrinth.com/project/fresh-animations-quivers) `2.2.0`
 - [Fresh Animations: Spiders](https://modrinth.com/project/fresh-animations-spiders) `2.2.0`
 - [Gazebos (RPG Series)](https://modrinth.com/project/gazebos) `2.2.0+26.2-fabric`
-- [Ghast Direction](https://modrinth.com/project/ghast-direction) `2.0.1+26.2-fabric`
 - [Headpat a Friend!](https://modrinth.com/project/headpat) `1.0.7+26.2`
 - [Homeostatic Seasons](https://modrinth.com/project/homeostatic-seasons) `26.2-1.2.0.3`
 - [Icy's Better Horses](https://modrinth.com/project/icys-better-horses) `2.1.7`
@@ -102,7 +99,6 @@
 - [Olafs Relatively Placed Blocks](https://modrinth.com/project/olafs-relatively-placed-blocks) `2.0.0`
 - [OmniCrossbow](https://modrinth.com/project/omnicrossbow) `1.1.2+mc26.2`
 - [OmniCut: Better Wood, Copper, and Stone Cutter](https://modrinth.com/project/omnicut-better-wood-stone-cutter) `1.121.0+mod`
-- [Optimized Cushions](https://modrinth.com/project/optimized-cushions) `1.2.0`
 - [Origins: Legacy](https://modrinth.com/project/origins-legacy) `1.12.19+26.2`
 - [oωo (owo-lib)](https://modrinth.com/project/owo-lib) `0.13.1+26.2`
 - [Packed Packs](https://modrinth.com/project/packed-packs) `2.3.1+26.2`

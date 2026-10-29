@@ -105,10 +105,6 @@
       "sha1": "47b40fd4c4aeb0d549a0ca9280812af002006b75"
     },
     {
-      "path": "content/mods/call-your-happy-ghast.json",
-      "sha1": "8ed95ddc39c97c9400d77d51da79c9d36fb1409b"
-    },
-    {
       "path": "content/mods/chunksmith.json",
       "sha1": "fffc02441fcc2ba3a88542c750cc0824e9f7469d"
     },
@@ -126,7 +122,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "5df0c6e8a4b4f26518866a4af7fe7b7bda7c0b21"
+      "sha1": "dacf394ec58fe86889361f715e1f1efa74a23b28"
     },
     {
       "path": "content/mods/clumps.json",
@@ -238,7 +234,7 @@
     },
     {
       "path": "content/mods/fabric-api.json",
-      "sha1": "079e39606f28d7a7774c7e80894d32ba01e90316"
+      "sha1": "9f3feefd807e3b54a2e0f8c15a61c68fa82a6f38"
     },
     {
       "path": "content/mods/fabric-language-kotlin.json",
@@ -251,10 +247,6 @@
     {
       "path": "content/mods/fancymenu.json",
       "sha1": "2f609911d06c2954316d607a6e78b8d69e1a65de"
-    },
-    {
-      "path": "content/mods/fastquit.json",
-      "sha1": "dcee8ae7820d072de0bdcbf826850db8729f44b5"
     },
     {
       "path": "content/mods/field-guide.json",
@@ -279,10 +271,6 @@
     {
       "path": "content/mods/geckolib.json",
       "sha1": "07ae5e56aae6b046d7c6a17a0b98876a413af1e7"
-    },
-    {
-      "path": "content/mods/ghast-direction.json",
-      "sha1": "42f365cd60496c3304c971f08c6c98f40e731648"
     },
     {
       "path": "content/mods/headpat.json",
@@ -373,10 +361,6 @@
       "sha1": "c9d70dece56c9f73193e3f4d806cea698d3415e8"
     },
     {
-      "path": "content/mods/lib-5555ff.json",
-      "sha1": "080a81c8b7c46ab51057513e342a74cfee959808"
-    },
-    {
       "path": "content/mods/libjf.json",
       "sha1": "57d1393473525fb6c162da945a8c17e05f1932a8"
     },
@@ -410,7 +394,7 @@
     },
     {
       "path": "content/mods/modmenu.json",
-      "sha1": "e48021691e03cfb149ed9ad32e411d2ca2cf6f86"
+      "sha1": "ef31c001c0635084093e6fda8bb4ea22ffc182cb"
     },
     {
       "path": "content/mods/modonomicon.json",
@@ -443,10 +427,6 @@
     {
       "path": "content/mods/omnicut-better-wood-stone-cutter.json",
       "sha1": "1442423eeb7692d210ecd5ee5d88910bbd9fc561"
-    },
-    {
-      "path": "content/mods/optimized-cushions.json",
-      "sha1": "38d2fe8c44c280cb39a56639c35f277da94df4cb"
     },
     {
       "path": "content/mods/origins-legacy.json",
@@ -789,14 +769,6 @@
       "sha1": "becf0506a11598157f55da3e7b70734308f7117d"
     },
     {
-      "path": "overrides/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
-      "sha1": "c110eb7489ce1ef38abeb1df79e493880501fc16"
-    },
-    {
-      "path": "overrides/config/fancymenu/customization/title_screen_layout.txt",
-      "sha1": "37af98431eb937072eef00160fe5723bb73a30fe"
-    },
-    {
       "path": "overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
       "sha1": "ba9edbe4c923858509e040a5881f49bac410429b"
     },
@@ -806,7 +778,7 @@
     },
     {
       "path": "overrides/config/fancymenu/options.txt",
-      "sha1": "423d28f3c5a66dc84aecfd7bdbd6df67054d0299"
+      "sha1": "6efd901b4752fa54e7d7c62411dbfde662c8bfec"
     },
     {
       "path": "overrides/config/fancymenu/user_variables.db",
@@ -858,7 +830,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "2d5f84edb1a75f7e38cbdbc8cf3f3bb9a677af62"
+      "sha1": "80823d6af59532949b11625553f2bf33bded56c6"
     },
     {
       "path": "overrides/packweaver.jar",

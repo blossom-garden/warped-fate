@@ -65,8 +65,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:false
-resourcePacks:["vanilla","scholar:chiseled_bookshelf_colored_books","scholar:colored_books","continuity:default","continuity:glass_pane_culling_fix","minecraft:kaleidoscope_eating_animation","file/Simple Lower Grass Sides v1.2.0.zip","file/Simple Grass Flowers v2.0.0.zip","file/Wisps Wonderful Wildflowers v1.0.0.zip","file/sunbathing-v1.14.zip","file/Sun \u0026 Moon Fusion 3.zip","file/rainbows-foliage-polytone-edition-v2.1.zip","file/colored_lights-v1.6.zip"]
-incompatibleResourcePacks:["file/Simple Lower Grass Sides v1.2.0.zip","file/Wisps Wonderful Wildflowers v1.0.0.zip"]
+resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","minecraft:kaleidoscope_eating_animation","file/Simple Lower Grass Sides v1.2.0.zip","file/Simple Grass Flowers v2.0.0.zip","file/Wisps Wonderful Wildflowers v1.0.0.zip","file/sunbathing-v1.14.zip","file/Sun \u0026 Moon Fusion 3.zip","file/rainbows-foliage-polytone-edition-v2.1.zip","file/colored_lights-v1.6.zip","file/FreshAnimations_v1.11.1_26.1+.zip","file/FA+Spiders-v2.2.zip","file/FA+Quivers-v2.2.zip","file/FA+Objects-v2.1.2.zip","file/FA+Emissive-v1.6.zip","file/FA+Details-v2.3.zip","file/FA+Creepers-v2.1.zip","file/FA+Player-v1.1.zip","file/FA+Player_Expressions-v1.2.zip","file/warped-fate-companion","scholar:colored_books","scholar:chiseled_bookshelf_colored_books"]
+incompatibleResourcePacks:["file/Simple Lower Grass Sides v1.2.0.zip","file/Wisps Wonderful Wildflowers v1.0.0.zip","file/warped-fate-companion"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -173,10 +173,25 @@ key_key.debug.networkCharts:key.keyboard.3
 key_key.debug.lightmapTexture:key.keyboard.4
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
-key_flashback.keybind.create_marker_1:key.keyboard.unknown
-key_flashback.keybind.create_marker_2:key.keyboard.unknown
-key_flashback.keybind.create_marker_3:key.keyboard.unknown
-key_flashback.keybind.create_marker_4:key.keyboard.unknown
+key_axiom.keybind.context:key.keyboard.left.alt
+key_axiom.keybind.builder_tool_slot:key.keyboard.0
+key_axiom.keybind.orbit_camera:key.keyboard.unknown
+key_axiom.keybind.jump_to_block:key.keyboard.unknown
+key_axiom.keybind.toggle_editor_ui:key.keyboard.right.shift
+key_axiom.keybind.toggle_invisible_blocks:key.keyboard.unknown
+key_axiom.keybind.toggle_flight_speed_adjustment:key.keyboard.unknown
+key_axiom.keybind.toggle_no_clip_cap:key.keyboard.unknown
+key_axiom.keybind.toggle_angel_placement_cap:key.keyboard.unknown
+key_axiom.keybind.toggle_fast_place_cap:key.keyboard.unknown
+key_axiom.keybind.toggle_infinite_reach_cap:key.keyboard.unknown
+key_axiom.keybind.toggle_tinker_cap:key.keyboard.unknown
+key_axiom.keybind.toggle_no_updates_cap:key.keyboard.unknown
+key_axiom.keybind.toggle_force_place_cap:key.keyboard.unknown
+key_axiom.keybind.toggle_replace_mode_cap:key.keyboard.r
+key_axiom.keybind.toggle_bulldozer_cap:key.keyboard.unknown
+key_axiom.keybind.nudge_with_scroll:key.keyboard.unknown
+key_axiom.keybind.nudge_forwards:key.keyboard.unknown
+key_axiom.keybind.nudge_backwards:key.keyboard.unknown
 key_key.yo_hooks.jump:key.keyboard.space
 key_key.yo_hooks.climb:key.keyboard.unknown
 key_key.yo_hooks.climb_down:key.keyboard.unknown
@@ -336,15 +351,6 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
-key_key.skinshuffle.preset_1:key.keyboard.unknown
-key_key.skinshuffle.preset_2:key.keyboard.unknown
-key_key.skinshuffle.preset_3:key.keyboard.unknown
-key_key.skinshuffle.preset_4:key.keyboard.unknown
-key_key.skinshuffle.preset_5:key.keyboard.unknown
-key_key.skinshuffle.preset_6:key.keyboard.unknown
-key_key.skinshuffle.preset_7:key.keyboard.unknown
-key_key.skinshuffle.preset_8:key.keyboard.unknown
-key_key.skinshuffle.preset_9:key.keyboard.unknown
 key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 soundCategory_master:0.6537148178807947
 soundCategory_music:0.18477662852112675
