@@ -1,6 +1,6 @@
 # Warped Fate
 
-**Minecraft 26.2 · fabric 0.20.1**, 138 mods (33 dependencies), 16 resource packs
+**Minecraft 26.2 · fabric 0.20.1**, 137 mods (33 dependencies), 16 resource packs
 
 ## Contents
 
@@ -84,7 +84,6 @@
 - [KeyBindProfiles](https://modrinth.com/project/keybindprofiles) `1.0.3`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.12.4+26.2`
 - [Language Reload](https://modrinth.com/project/language-reload) `1.7.8+26.2`
-- [Lazy Chunk Load](https://modrinth.com/project/lazy-chunk-load) `1.3.0`
 - [Leawind's Third Person](https://modrinth.com/project/leawind-third-person) `3.0.3-beta+fabric-26.2`
 - [Liteminer](https://modrinth.com/project/liteminer) `4.5.2+26.2`
 - [Lootr](https://modrinth.com/project/lootr) `1.24.41.124`

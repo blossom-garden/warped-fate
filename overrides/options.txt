@@ -19,7 +19,7 @@ graphicsPreset:"fancy"
 prioritizeChunkUpdates:1
 fullscreen:true
 exclusiveFullscreen:true
-gamma:0.5
+gamma:1.0
 guiScale:2
 maxAnisotropyBit:1
 textureFiltering:1

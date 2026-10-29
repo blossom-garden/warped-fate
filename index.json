@@ -353,10 +353,6 @@
       "sha1": "a9c2a45112fcec7ab572456147b083a3078d6b54"
     },
     {
-      "path": "content/mods/lazy-chunk-load.json",
-      "sha1": "1b152f1736f98fa5a672553e759403bbab1d4fd3"
-    },
-    {
       "path": "content/mods/leawind-third-person.json",
       "sha1": "c9d70dece56c9f73193e3f4d806cea698d3415e8"
     },
@@ -830,7 +826,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "80823d6af59532949b11625553f2bf33bded56c6"
+      "sha1": "37c1f2cf5ecf7979a19e9944b269f6dec21d7c7e"
     },
     {
       "path": "overrides/packweaver.jar",
