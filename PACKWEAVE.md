@@ -1,6 +1,6 @@
 # Warped Fate
 
-**Minecraft 26.3 · fabric 0.20.1**, 141 mods (32 dependencies), 17 resource packs
+**Minecraft 26.3 · fabric 0.20.1**, 142 mods (32 dependencies), 17 resource packs, 1 data pack
 
 ## Contents
 
@@ -48,6 +48,7 @@
 - [Elytra Cancel](https://modrinth.com/project/elytra-cancel) `4.0.0`
 - [Elytra Contrails Mod](https://modrinth.com/project/elytra-contrails-mod) `1.6.9-26.3`
 - [Elytra Trims](https://modrinth.com/project/elytra-trims) `4.9.1`
+- [Elytra Vaults](https://modrinth.com/project/elytra-vaults-atlasplays) `1.2.1`
 - [EMF Compat: Better Combat](https://modrinth.com/project/emf-compat-better-combat) `2.1.0`
 - [Enchancement](https://modrinth.com/project/enchancement) `26.3-r4`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
@@ -85,6 +86,7 @@
 - [Language Reload](https://modrinth.com/project/language-reload) `1.7.8+26.3`
 - [Leawind's Third Person](https://modrinth.com/project/leawind-third-person) `3.0.3-beta+fabric-26.2`
 - [Let Them Talk (LTT)](https://modrinth.com/project/let-them-talk) `1.0.3+26.3+fabric`
+- [LetMeSymlink](https://modrinth.com/project/letmesymlink) `1.0.0`
 - [Liteminer](https://modrinth.com/project/liteminer) `4.5.2+26.3`
 - [Loadstone - Chunk Loader](https://modrinth.com/project/load-stone) `3.0+26.3`
 - [Lootr](https://modrinth.com/project/lootr) `1.25.42.124`

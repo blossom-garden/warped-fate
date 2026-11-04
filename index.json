@@ -1,6 +1,10 @@
 {
   "files": [
     {
+      "path": "content/datapacks/elytra-vaults-atlasplays.json",
+      "sha1": "6d7b0a8ca3472f69744033b7cddc3f5cdaad83eb"
+    },
+    {
       "path": "content/mods/actually-harvest.json",
       "sha1": "4d33d849bf3de6d9ced582a7bdd8d8da659049ca"
     },
@@ -355,6 +359,10 @@
     {
       "path": "content/mods/let-them-talk.json",
       "sha1": "d7a14fe0585a21fdece517dd27d0dc88b2647374"
+    },
+    {
+      "path": "content/mods/letmesymlink.json",
+      "sha1": "3168291412df991e4216b8a114ea3839780cad99"
     },
     {
       "path": "content/mods/libjf.json",
