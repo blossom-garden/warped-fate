@@ -8,12 +8,12 @@
     "modrinth": {
       "id": "CJHTlRjq",
       "slug": "elytra-cancel",
-      "versionId": "tzhY2vtu",
-      "versionNumber": "3.0.0",
-      "filename": "ElytraCancel-fabric-26.2-3.0.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/CJHTlRjq/versions/tzhY2vtu/ElytraCancel-fabric-26.2-3.0.0.jar",
-      "sha1": "ba56e54c7c37d00b0332bc59cc82a6f7b9b58653",
-      "sha512": "a76f974a28547399c284825c235ed077e91e0d973d2cf3b52f436d16453a0b89fa8b938cbb0275ec018527822207738b7044bdc394d2ecfc23977e4795025200",
+      "versionId": "nszbkLvj",
+      "versionNumber": "4.0.0",
+      "filename": "ElytraCancel-fabric-26.3-4.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/CJHTlRjq/versions/nszbkLvj/ElytraCancel-fabric-26.3-4.0.0.jar",
+      "sha1": "cf3e67913a54cf1149ad72d68b35c9a7bacdc740",
+      "sha512": "3af9a4b2c7dc489d7427a3cb4c939b6083cdd455b679ac14ebd18a84f5172cf787a1083737ff6d8d2e3df5bd0901ce6a7ba66016b2de268c4be169b78ec66ea4",
       "fileSize": 7774
     },
     "curseforge": {

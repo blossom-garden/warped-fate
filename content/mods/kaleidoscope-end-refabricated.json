@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "B1KCNlDN",
       "slug": "kaleidoscope-end-refabricated",
-      "versionId": "uEmxotMA",
-      "versionNumber": "1.1.0.1-fabric+mc26.2",
-      "filename": "kaleidoscope_end-1.1.0.1-fabric+mc26.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/B1KCNlDN/versions/uEmxotMA/kaleidoscope_end-1.1.0.1-fabric%2Bmc26.2.jar",
-      "sha1": "2918153d96593768944b537b3671fa0acbe8e48f",
-      "sha512": "f9054cb86288c9d1bf3cd422b3bc42b8b318c6b28b22621bda8a7a4bf9efebafc9078038d1512c8a67eac283f5171f2e522a63f6afc4895e2c1ac6a2a08bbcc0",
-      "fileSize": 561001
+      "versionId": "cvltOFli",
+      "versionNumber": "1.1.0.1-fabric+mc26.3",
+      "filename": "kaleidoscope_end-1.1.0.1-fabric+mc26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/B1KCNlDN/versions/cvltOFli/kaleidoscope_end-1.1.0.1-fabric%2Bmc26.3.jar",
+      "sha1": "469fb381974be02feb5e7ed8be7728fd38d55cdb",
+      "sha512": "7997d2473dff24df5a1726c36252340bb3afc5447d36f1786ef60afaaf69f2258265d09801519464fb0f4f543eb8cf34bf24bdbeb4ccdd845b94fc69c68bb41e",
+      "fileSize": 542931
     }
   },
   "dependents": [],

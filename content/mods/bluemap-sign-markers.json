@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "i5ZtmNIW",
       "slug": "bluemap-sign-markers",
-      "versionId": "mIGboCLs",
-      "versionNumber": "26.2-1.0.0.87",
-      "filename": "bluemapsignmarkers-26.2-1.0.0.87.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/mIGboCLs/bluemapsignmarkers-26.2-1.0.0.87.jar",
-      "sha1": "243ec156ee17a9f929162b597c470098a71f9c09",
-      "sha512": "02dd1d314bd39bcff3bea967908cf29f97d46ae147ad472a1124f59c62ac4f2f0ccccf1cfb341baa80beb7f506ff169931b65d3da50788750e84c7606332c8ee",
-      "fileSize": 171560
+      "versionId": "qZJzMzBN",
+      "versionNumber": "26.3-1.0.1.89",
+      "filename": "bluemapsignmarkers-26.3-1.0.1.89.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/qZJzMzBN/bluemapsignmarkers-26.3-1.0.1.89.jar",
+      "sha1": "e9af31f25bc2a37d7a0fb1ab932b7ba4212cdef1",
+      "sha512": "cf6de212b1bdf9b057ed5a34f817c9e12aa2361e9783a0e3bd7b83ce3029b005615c2a6b52f739171c27f60d587bddf52e83ace4850a2ea4c291acf7aad3c5a5",
+      "fileSize": 171661
     }
   },
   "dependents": [],

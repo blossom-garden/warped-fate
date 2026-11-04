@@ -8,17 +8,18 @@
     "modrinth": {
       "id": "SNVQ2c0g",
       "slug": "mru",
-      "versionId": "YQCP346A",
-      "versionNumber": "1.0.45+26.2-fabric",
-      "filename": "mru-1.0.45+26.2-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/YQCP346A/mru-1.0.45%2B26.2-fabric.jar",
-      "sha1": "b46a02a39ff7fcffd6e68b30dd777573406e3e2d",
-      "sha512": "681aae0b11b46f0744ca9ca0bf524df25e43223523a31000cfffc32dd2a8dea354c3b6119c89111b95d3c83e55403aa2bc2819e37601b8d7b8982f0fc8161726",
-      "fileSize": 168239
+      "versionId": "22Tvjurn",
+      "versionNumber": "1.0.45+26.3-fabric",
+      "filename": "mru-1.0.45+26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/22Tvjurn/mru-1.0.45%2B26.3-fabric.jar",
+      "sha1": "16e1a68a934919e4d2f94fec33cad9b5f44e2d42",
+      "sha512": "9b62918f0a78a719fb98ad5f138e17a5640677b7f97cbe0434204cd51cffb9efa1b6231258e4aaf186b3170297b601e05f121e9157fd878f27e00dab9c35d5dc",
+      "fileSize": 169134
     }
   },
   "dependents": [
-    "67iT29W2"
+    "67iT29W2",
+    "xvUE2Syx"
   ],
   "clientSide": "optional",
   "serverSide": "optional"

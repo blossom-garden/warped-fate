@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "FD3rofvj",
       "slug": "better-copper-golem",
-      "versionId": "3lgeEZ1Q",
-      "versionNumber": "2.8.1+fabric-26.2",
-      "filename": "bettercoppergolem-FABRIC-2.8.1-26.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/FD3rofvj/versions/3lgeEZ1Q/bettercoppergolem-FABRIC-2.8.1-26.2.jar",
-      "sha1": "9e36eaa5f13641c01fdbec079920c2fc363cba17",
-      "sha512": "c8bc88a024ce470867038a4503bfe6071a99938be44a9792d026461ca8d6e20abe7682e8ccc2310c1c2beeb01ead0f1811a9980b2d48709a9ab0e8f317db3e21",
-      "fileSize": 173757
+      "versionId": "csFWIklG",
+      "versionNumber": "2.8.1+fabric-26.3",
+      "filename": "bettercoppergolem-FABRIC-2.8.1-26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/FD3rofvj/versions/csFWIklG/bettercoppergolem-FABRIC-2.8.1-26.3.jar",
+      "sha1": "3a7901ba8ca7075da56c7f21cdcd09056faf6927",
+      "sha512": "43ba54a21ad832cd999e217ea39ef5e51d749f202ef06bff8fde111302539c1bd78f7d695da5a56c30ef8ccbd781b47b027e8e6c772cdd391d09ecaad4b14941",
+      "fileSize": 172204
     },
     "curseforge": {
       "id": "1364317",
       "slug": "better-copper-golem",
-      "versionId": "9405733",
-      "versionNumber": "BetterCopperGolem 2.8.1 - FABRIC 26.2",
-      "filename": "bettercoppergolem-FABRIC-2.8.1-26.2.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9405/733/bettercoppergolem-FABRIC-2.8.1-26.2.jar",
-      "sha1": "9e36eaa5f13641c01fdbec079920c2fc363cba17",
-      "fileSize": 173757
+      "versionId": "9405734",
+      "versionNumber": "BetterCopperGolem 2.8.1 - FABRIC 26.3",
+      "filename": "bettercoppergolem-FABRIC-2.8.1-26.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9405/734/bettercoppergolem-FABRIC-2.8.1-26.3.jar",
+      "sha1": "3a7901ba8ca7075da56c7f21cdcd09056faf6927",
+      "fileSize": 172204
     }
   },
   "dependents": [],

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "hqQqvaa4",
       "slug": "skills",
-      "versionId": "uijj8Imm",
+      "versionId": "VCmaVWxo",
       "versionNumber": "0.19.2",
-      "filename": "puffish_skills-0.19.2-26.2-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/hqQqvaa4/versions/uijj8Imm/puffish_skills-0.19.2-26.2-fabric.jar",
-      "sha1": "bc0f8d4a6e9e62fad9b4cefe7175ea34bc36d514",
-      "sha512": "b39d1ba62d6c81369dd3e2e05058f6e53ccd1ea7be4b4014573cc732e31e4eab86271bddea926d85d0ca2a4c1203d420967c5d08e2cb733e2093d67a6408135a",
-      "fileSize": 640069
+      "filename": "puffish_skills-0.19.2-26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hqQqvaa4/versions/VCmaVWxo/puffish_skills-0.19.2-26.3-fabric.jar",
+      "sha1": "b6dd92c560356af98b56e908eb392d05c582f710",
+      "sha512": "828b77af1b5752ebc1972a5a6501beb3f1f4b197b7b1264924de1c562503bb6888d6c546e25705853c00b5be06d97fd400d310ade9e6d5b2a992b9a3863fecab",
+      "fileSize": 642844
     }
   },
   "dependents": [],

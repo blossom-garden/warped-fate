@@ -1,0 +1,23 @@
+{
+  "name": "Let Them Talk (LTT)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "SZ1DDiij",
+      "slug": "let-them-talk",
+      "versionId": "e6AvNXjF",
+      "versionNumber": "1.0.3+26.3+fabric",
+      "filename": "let-them-talk-1.0.3+26.3+fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/SZ1DDiij/versions/e6AvNXjF/let-them-talk-1.0.3%2B26.3%2Bfabric.jar",
+      "sha1": "9631459d01867a8dbd5627094fa69229cf2763bd",
+      "sha512": "b0a9d8ab1b81044f2535a2fa4412c73d26780ad7fb898407830d07dafe23f815567437556abf165ddee7ad0e594ff7095ebd4f25d33130cb93954691f4f6b174",
+      "fileSize": 401813
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,4 +1,5 @@
 # pack documents
+/assets/*
 /README.md
 /CHANGELOG.md
 /PACKWEAVE.md

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "PKoLkD98",
       "slug": "immersive-overlays",
-      "versionId": "zRpdNiF9",
-      "versionNumber": "1.8.6+26.2-fabric",
-      "filename": "immersiveoverlays-1.8.6+26.2-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/PKoLkD98/versions/zRpdNiF9/immersiveoverlays-1.8.6%2B26.2-fabric.jar",
-      "sha1": "544a4157da77ebe7c031ceb7f9b5ff53f8226231",
-      "sha512": "0c509871f85eac5c2ab408f88d0caeebb809bce04eecb7b6cbb23a6e0069ae2741518169ce889cc0d9e24073c30833193bb5be75e50e6176724b653f52806be3",
-      "fileSize": 750100
+      "versionId": "QHdoX6GD",
+      "versionNumber": "1.8.6+26.3-fabric",
+      "filename": "immersiveoverlays-1.8.6+26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/PKoLkD98/versions/QHdoX6GD/immersiveoverlays-1.8.6%2B26.3-fabric.jar",
+      "sha1": "2576d49e522ebc0108da956f2daa74832bc998a7",
+      "sha512": "c4250d65d68985d5aacd05355599fbbef61fa87e5680f94a90a5f045aea2f2e38fe211adc2f5d26246490ff0c5a916507a86d6c801d2d5ef03db85de3d232bcd",
+      "fileSize": 750999
     }
   },
   "dependents": [

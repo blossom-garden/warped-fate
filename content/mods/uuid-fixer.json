@@ -8,12 +8,12 @@
     "modrinth": {
       "id": "1KyJixBn",
       "slug": "uuid-fixer",
-      "versionId": "SHxteuAO",
-      "versionNumber": "26.2",
-      "filename": "uuidfixer-26.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/1KyJixBn/versions/SHxteuAO/uuidfixer-26.2.jar",
-      "sha1": "7a0f0c41138cc0c26a37c84eac8c3fd9a21888be",
-      "sha512": "0195474637afdc71b6a4b86815b75ca22eecb02d9339eb3d20d775443d4503379e7780f181c604bfb9bfb8a1a17be4810156d2b48d3036935efe36038b8b0666",
+      "versionId": "6hS6rGxU",
+      "versionNumber": "26.3",
+      "filename": "uuidfixer-26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1KyJixBn/versions/6hS6rGxU/uuidfixer-26.3.jar",
+      "sha1": "6a23270a101b44b373b28e51f24484ba6b0aa7d7",
+      "sha512": "ca417e3901dc22e692291bea2a3df9b32b2dc4d14563a85f369ac574db1c67a5c1fa978ed54c4f773a0706915bba9623e47e1cd6ced8c02c6417517366aa2449",
       "fileSize": 81889
     }
   },

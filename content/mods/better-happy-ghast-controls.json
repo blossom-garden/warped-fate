@@ -1,0 +1,23 @@
+{
+  "name": "Better Happy Ghast Controls",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "oPS4XM11",
+      "slug": "better-happy-ghast-controls",
+      "versionId": "bi2Oy5VD",
+      "versionNumber": "26.3-1.0.6-fabric",
+      "filename": "ghastcontrols-fabric-26.3-1.0.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/oPS4XM11/versions/bi2Oy5VD/ghastcontrols-fabric-26.3-1.0.6.jar",
+      "sha1": "2d0f5d0b9ded895f938abd4cc7d1cdf6d4b256fc",
+      "sha512": "c435f671d0cc640c8b8a9062459b6da2dd3de70cdc17c4d21898321e419a56ea50d916d8ef9b4d92dcb3091b41c1f91a5b9e51aa1c925a9bbeb837ee24108562",
+      "fileSize": 63852
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

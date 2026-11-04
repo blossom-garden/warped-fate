@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "NYveE6yC",
       "slug": "ji-afk-cinematic",
-      "versionId": "Qgow6ZOf",
+      "versionId": "PsoCikjB",
       "versionNumber": "2.4.0",
-      "filename": "ji-afk-cinematic-fabric-26.1-26.2-2.4.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/NYveE6yC/versions/Qgow6ZOf/ji-afk-cinematic-fabric-26.1-26.2-2.4.0.jar",
-      "sha1": "5e0b62626e671bb5c1f84c74277c548952204bbc",
-      "sha512": "b95937514b9826ef07022329b38827347c2da5bd8d3daa1bf47f5b3bb8f1ae516b9b60a66320c5b5b4a739d8c5c2988aba7dabba36e8b2f177cb83b99e5c6754",
-      "fileSize": 2449698
+      "filename": "ji-afk-cinematic-fabric-26.3-2.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NYveE6yC/versions/PsoCikjB/ji-afk-cinematic-fabric-26.3-2.4.0.jar",
+      "sha1": "a968fb27c70a97435f4aebc98842f6c6201bfe4d",
+      "sha512": "62d59a8813396b456f1d37ddff99afe1231261489e0dbfb226322c0db0f0bcda6f37d7620ddeb1dbdbc9e9d7655d847097bd9ce93ca32bca46c3ac264421953d",
+      "fileSize": 670467
     }
   },
   "dependents": [],

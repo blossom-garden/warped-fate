@@ -1,0 +1,23 @@
+{
+  "name": "Loadstone - Chunk Loader",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "2UT1ynXh",
+      "slug": "load-stone",
+      "versionId": "DRJcaPO6",
+      "versionNumber": "3.0+26.3",
+      "filename": "loadstone-3.0+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/2UT1ynXh/versions/DRJcaPO6/loadstone-3.0%2B26.3.jar",
+      "sha1": "de9b6cbfe64102ca17aa3f18aac0fe9c62a8f7ed",
+      "sha512": "2cd78ad29f1171d9308bcdda98221941977bfa71bbce1cc36610d3ef73c931a03fa5bb7966ede0d52e346612b07d33ceedb2c721e480a4ff590d785694cd66e0",
+      "fileSize": 129497
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

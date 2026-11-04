@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "WXA03JUt",
       "slug": "ecliptic-seasons-fabricated",
-      "versionId": "R3dW9E3B",
-      "versionNumber": "26.2-fabric-0.15.5.1",
-      "filename": "EclipticSeasons-Fabricated-26.2-fabric-0.15.5.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/WXA03JUt/versions/R3dW9E3B/EclipticSeasons-Fabricated-26.2-fabric-0.15.5.1.jar",
-      "sha1": "de9d3115f0a731c026cc5ed14bdbbcf42fc6b0f7",
-      "sha512": "e6da4e6e9d987c7ec49b09ee200c76bc8d2ee80f92eb20c837dafc4da09b601dbae6827924eb22a10b3b6d30190220152c13e2b070786c7ee0c8cd01bf2c3874",
-      "fileSize": 9975557
+      "versionId": "U1rlu4gC",
+      "versionNumber": "26.3-fabric-0.15.5.1",
+      "filename": "EclipticSeasons-Fabricated-26.3-fabric-0.15.5.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WXA03JUt/versions/U1rlu4gC/EclipticSeasons-Fabricated-26.3-fabric-0.15.5.1.jar",
+      "sha1": "941c66445eae84990782bf594799ee1c3ecb04bd",
+      "sha512": "700cbc88f65cbe49b58840136e36294fcc9ed907070923237886b84a76e42855ad30879f49bf748cddeb510a658de05a786fc248850ae5f1d0533e168989810c",
+      "fileSize": 10094709
     },
     "curseforge": {
       "id": "1514738",
       "slug": "ecliptic-seasons-fabricated",
-      "versionId": "9407284",
-      "versionNumber": "EclipticSeasons-Fabricated-26.2-fabric-0.15.5.1.jar",
-      "filename": "EclipticSeasons-Fabricated-26.2-fabric-0.15.5.1.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9407/284/EclipticSeasons-Fabricated-26.2-fabric-0.15.5.1.jar",
-      "sha1": "de9d3115f0a731c026cc5ed14bdbbcf42fc6b0f7",
-      "fileSize": 9975557
+      "versionId": "9407286",
+      "versionNumber": "EclipticSeasons-Fabricated-26.3-fabric-0.15.5.1.jar",
+      "filename": "EclipticSeasons-Fabricated-26.3-fabric-0.15.5.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9407/286/EclipticSeasons-Fabricated-26.3-fabric-0.15.5.1.jar",
+      "sha1": "941c66445eae84990782bf594799ee1c3ecb04bd",
+      "fileSize": 10094709
     }
   },
   "dependents": [],

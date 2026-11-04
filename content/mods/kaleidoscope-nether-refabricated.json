@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "j0n7o8uq",
       "slug": "kaleidoscope-nether-refabricated",
-      "versionId": "5iiV79gu",
-      "versionNumber": "1.1.14-fabric+mc26.2",
-      "filename": "kaleidoscope_nether-1.1.14-fabric+mc26.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/j0n7o8uq/versions/5iiV79gu/kaleidoscope_nether-1.1.14-fabric%2Bmc26.2.jar",
-      "sha1": "4b0e3fa77ef6b2efa965eefa1a505da1654bb838",
-      "sha512": "4c09e2597e79bd61b9741b63dc9b89806a1ba095ffd8784c921c9c5708f85e08d3d62f55deba99aa1f97a7741998e79fcf74e798a572a98603abaff11e76e0ab",
-      "fileSize": 1089090
+      "versionId": "erXd79Sp",
+      "versionNumber": "1.1.14-fabric+mc26.3",
+      "filename": "kaleidoscope_nether-1.1.14-fabric+mc26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/j0n7o8uq/versions/erXd79Sp/kaleidoscope_nether-1.1.14-fabric%2Bmc26.3.jar",
+      "sha1": "7d8532cfc947a905c394462158d4d96eb5ea52e6",
+      "sha512": "40d630196a83376b230c3bf2f4d1c89a369df82a7d22d91e61e3b90c591fbd2025e24f4c3fcd9081bed71b932d935045a9f8c40a905e18ca55d95e2db3fecf64",
+      "fileSize": 1078815
     }
   },
   "dependents": [],

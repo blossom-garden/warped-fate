@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "8Pq6Exn2",
       "slug": "packed-packs",
-      "versionId": "5Py338U8",
-      "versionNumber": "2.3.1+26.2",
-      "filename": "packed_packs-fabric-2.3.1+26.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/5Py338U8/packed_packs-fabric-2.3.1%2B26.2.jar",
-      "sha1": "4c184231ac6e6f0c1ff6638e1d01efa6d2622003",
-      "sha512": "90d011f750e8ee1b25e898d65875681b183a0c496ce5fa365bc35ab66d5f8d4e339bee401a2aa35cfbc2dc791b194eca848338f39cfd1c5f48e09decc0c2321d",
-      "fileSize": 1002969
+      "versionId": "ifCUN8CS",
+      "versionNumber": "2.3.1+26.3",
+      "filename": "packed_packs-fabric-2.3.1+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/ifCUN8CS/packed_packs-fabric-2.3.1%2B26.3.jar",
+      "sha1": "58ea9fda3282c920796cc4d1f1dd8775fcabd9f5",
+      "sha512": "7da7d7a53e88ce38cb06bc60193d8e657868a6c644e2092045ba6cb1adea8b05dbc0010ce72d45d5601fc22eb8fac877edfb15d398a8f9098debb14654b8df59",
+      "fileSize": 994655
     }
   },
   "dependents": [],

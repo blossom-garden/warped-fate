@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "OiDD7Eua",
       "slug": "entity-outlines",
-      "versionId": "3L4xYBhL",
-      "versionNumber": "1.0.0+26.2-fabric",
-      "filename": "eg_entity_outlines-1.0.0+26.2-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/OiDD7Eua/versions/3L4xYBhL/eg_entity_outlines-1.0.0%2B26.2-fabric.jar",
-      "sha1": "0dd4aa0c3e5853185a4fe84a23a03de78efbe072",
-      "sha512": "0021a52d635d86f1e0c9d8a5679c449d55229861e34762ba73ad47a19e73f02536e836eeade6a92f5ce0d1338711fcdd9874493c53d966d29111968da8885e36",
-      "fileSize": 110996
+      "versionId": "lYeOSlJ9",
+      "versionNumber": "1.1.0+26.3-fabric",
+      "filename": "eg_entity_outlines-1.1.0+26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OiDD7Eua/versions/lYeOSlJ9/eg_entity_outlines-1.1.0%2B26.3-fabric.jar",
+      "sha1": "a76f73c2efde38a6c5e70a4db98fb4fdf91758b9",
+      "sha512": "d3518b038f29720779717e4ac819eec19a93db6df6b74f42b4baec9a1189fe37e4ae6bcdc796e89395b6f14fe307c9dedba62d674ad8197ede04cb603dde37c9",
+      "fileSize": 162992
     }
   },
   "dependents": [],

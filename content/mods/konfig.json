@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "pp7kIrlM",
       "slug": "konfig",
-      "versionId": "lX5eM1JM",
-      "versionNumber": "0.10.2+26.2",
-      "filename": "konfig-fabric-0.10.2+26.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/pp7kIrlM/versions/lX5eM1JM/konfig-fabric-0.10.2%2B26.2.jar",
-      "sha1": "33662bc06b26e45cc4b47b3cf45706922233f2c1",
-      "sha512": "2f21fa48b270d1c457bdba3169fe87ed204a960bfecbbe22ec6e540ae922e4816e80a42858f1fd6b5f11b9b940b4dbb1abcfac9e942938c304a859478c9ef3fa",
-      "fileSize": 1469314
+      "versionId": "paD1v6Rg",
+      "versionNumber": "0.10.2+26.3",
+      "filename": "konfig-fabric-0.10.2+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pp7kIrlM/versions/paD1v6Rg/konfig-fabric-0.10.2%2B26.3.jar",
+      "sha1": "7e94a6c6d81e4501e3484c4bf80a082c67826267",
+      "sha512": "f3d7688bc8855cefdd236b22225e0bf7aece5cca29dbbbac7b47d82cec6734a204c8bf7890f44db9e6d4c5b4dc21e3422ea6b84ba6df22a1b7209abe44766e7a",
+      "fileSize": 1469290
     }
   },
   "dependents": [

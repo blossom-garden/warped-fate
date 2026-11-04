@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "ilvNBzFn",
       "slug": "critical-strike",
-      "versionId": "eozhJvBr",
-      "versionNumber": "1.0.6+26.2-fabric",
-      "filename": "critical_strike-fabric-1.0.6+26.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/ilvNBzFn/versions/eozhJvBr/critical_strike-fabric-1.0.6%2B26.2.jar",
-      "sha1": "5d1a5944a99b3e6a0447e406bd16ac69bc0e58b9",
-      "sha512": "e3441d2a5fe61693578e589dc22b4209677004a0affe248268f5a8a8b5503c1ff01dae201b8ca49ffaa760194c50952aa5fe2a3068d1919e7a0f6f8ad13099ef",
-      "fileSize": 157427
+      "versionId": "A2rC2GCH",
+      "versionNumber": "1.0.6+26.3-fabric",
+      "filename": "critical_strike-fabric-1.0.6+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ilvNBzFn/versions/A2rC2GCH/critical_strike-fabric-1.0.6%2B26.3.jar",
+      "sha1": "2120ed1352e931072d7ce26a0c6361d3a1a1be8e",
+      "sha512": "1fb7f76670395cd5f13202de25b176204e9b62ebc1b21e433527ca96e0682b6a16c2fbaa6c3d68c0f475404ccd0c9729673ca0bacb9e7c484b240fe2d74f445d",
+      "fileSize": 157429
     },
     "curseforge": {
       "id": "1379562",
       "slug": "critical-strike",
-      "versionId": "8868342",
-      "versionNumber": "1.0.6+26.2",
-      "filename": "critical_strike-fabric-1.0.6+26.2.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8868/342/critical_strike-fabric-1.0.6%2b26.2.jar",
-      "sha1": "5d1a5944a99b3e6a0447e406bd16ac69bc0e58b9",
-      "fileSize": 157427
+      "versionId": "9004388",
+      "versionNumber": "1.0.6+26.3",
+      "filename": "critical_strike-fabric-1.0.6+26.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9004/388/critical_strike-fabric-1.0.6%2b26.3.jar",
+      "sha1": "2120ed1352e931072d7ce26a0c6361d3a1a1be8e",
+      "fileSize": 157429
     }
   },
   "dependents": [],

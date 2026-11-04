@@ -8,12 +8,12 @@
     "modrinth": {
       "id": "4BeAEBIb",
       "slug": "chunksmith",
-      "versionId": "WGOYYcwP",
-      "versionNumber": "4.8.0+26.2",
-      "filename": "chunksmith-4.8.0+26.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/4BeAEBIb/versions/WGOYYcwP/chunksmith-4.8.0%2B26.2.jar",
-      "sha1": "a5089766f16803ac0505e24c4b4b20def57a29a1",
-      "sha512": "142315c74af18136e6ea937109569e6a25e41603cf2bb612efd997a489c355cc54c742698015b1f3c62851160a9ef8e2b33ebb46e8e279d7a12ff2cb5ebdf67c",
+      "versionId": "cS5UGCz3",
+      "versionNumber": "4.8.0+26.3",
+      "filename": "chunksmith-4.8.0+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4BeAEBIb/versions/cS5UGCz3/chunksmith-4.8.0%2B26.3.jar",
+      "sha1": "53298e778eeeb7bb1101a081be3d73aa69077a7f",
+      "sha512": "876bb951e1a4300e4447f7057e756c239d95c40cad89ec4a09e8369c23618b0b340f58072c835fab0ec7609b3336adcd6fad5a0f65eb3aac2f12df4edcb1224c",
       "fileSize": 718844
     }
   },

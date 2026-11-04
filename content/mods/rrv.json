@@ -1,0 +1,29 @@
+{
+  "name": "Reliable Recipe Viewer (RRV)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5VolwT6c",
+      "slug": "rrv",
+      "versionId": "SFv9RQKm",
+      "versionNumber": "8.11.3+26.3-fabric",
+      "filename": "reliable-recipe-viewer-8.11.3+26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5VolwT6c/versions/SFv9RQKm/reliable-recipe-viewer-8.11.3%2B26.3-fabric.jar",
+      "sha1": "bb9b05789663cc43f0cec3d355be0e3bf6724adc",
+      "sha512": "395edc9ae4256ba2949908280597d4eeb32615b0aebb255421167610215c461b07d288696b10f15b2198bff6eaf1cc4583100bf0e6e0f2b926e80baca79641c1",
+      "fileSize": 845310
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "67iT29W2",
+    "72RRCWM6",
+    "Ct11Kuii",
+    "UMblNdlF"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

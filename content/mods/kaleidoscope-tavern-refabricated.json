@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "UMblNdlF",
       "slug": "kaleidoscope-tavern-refabricated",
-      "versionId": "o1wBLTt3",
-      "versionNumber": "1.2.0.13-fabric+mc26.2",
-      "filename": "kaleidoscope_tavern-1.2.0.13-fabric+mc26.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/UMblNdlF/versions/o1wBLTt3/kaleidoscope_tavern-1.2.0.13-fabric%2Bmc26.2.jar",
-      "sha1": "56af032817071833e786c9bc8ed5965f5a74f40f",
-      "sha512": "7b75cd2dd2e6a6e98eadf2501d12869c7fae4d0f4a251c564db2aa416b625db868e3c2b097b200fbc72f4e9812568842d9fd8b3c9a2eeaf23c2b7da35827783a",
-      "fileSize": 2084223
+      "versionId": "f7tIhCOi",
+      "versionNumber": "1.2.0.13-fabric+mc26.3",
+      "filename": "kaleidoscope_tavern-1.2.0.13-fabric+mc26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/UMblNdlF/versions/f7tIhCOi/kaleidoscope_tavern-1.2.0.13-fabric%2Bmc26.3.jar",
+      "sha1": "c99b2a861521c5603efdf7452df9ef062d21cc6a",
+      "sha512": "f69d99ccb77cd073a09f058a0278a62a921bee3a283ac39c89b594f6b61a5cab38910acde4722293a706b4089b550632df13492bb55b78d804c21f601b651541",
+      "fileSize": 2081152
     }
   },
   "dependents": [],

@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "C1MoWQlb",
       "slug": "ziplines-rezipped",
-      "versionId": "kfZBaPj0",
-      "versionNumber": "1.5.3+26.2-fabric",
-      "filename": "zipline-1.5.3+26.2-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/C1MoWQlb/versions/kfZBaPj0/zipline-1.5.3%2B26.2-fabric.jar",
-      "sha1": "5f51e92b41ada54be05efb0b97beb54759ab78bc",
-      "sha512": "4246e4f7cbfe0efa75c87fa700261ab02bfbb21e86c4b0798b35b35be0fd1853e8a3117a19deaa8beb4e7b6e40b757c1ddd1f437a194dab0450a95498d50b3d1",
-      "fileSize": 91759
+      "versionId": "5491cTU9",
+      "versionNumber": "1.5.3+26.3-fabric",
+      "filename": "zipline-1.5.3+26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/C1MoWQlb/versions/5491cTU9/zipline-1.5.3%2B26.3-fabric.jar",
+      "sha1": "b1e2623bdf45c8af7dea96895e2e7c0e93678f04",
+      "sha512": "0135b49873e772dd334a72f1339085c0c6dae1c5b4279e18291c97517de2694f4a8e149f70c5bd7912e30982c044c1ee34b90b748493d0620a2539c5d3bcc282",
+      "fileSize": 91854
     },
     "curseforge": {
       "id": "1454717",
       "slug": "ziplines-rezipped",
-      "versionId": "8979630",
-      "versionNumber": "Zipline Fabric 26.2 - 1.5.3",
-      "filename": "zipline-1.5.3+26.2-fabric.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8979/630/zipline-1.5.3%2b26.2-fabric.jar",
-      "sha1": "5f51e92b41ada54be05efb0b97beb54759ab78bc",
-      "fileSize": 91759
+      "versionId": "8979639",
+      "versionNumber": "Zipline Fabric 26.3 - 1.5.3",
+      "filename": "zipline-1.5.3+26.3-fabric.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8979/639/zipline-1.5.3%2b26.3-fabric.jar",
+      "sha1": "b1e2623bdf45c8af7dea96895e2e7c0e93678f04",
+      "fileSize": 91854
     }
   },
   "dependents": [],

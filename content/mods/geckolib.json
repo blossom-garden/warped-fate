@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "8BmcQJ2H",
       "slug": "geckolib",
-      "versionId": "7gaQHok7",
-      "versionNumber": "5.5.5",
-      "filename": "geckolib-fabric-26.2-5.5.5.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/7gaQHok7/geckolib-fabric-26.2-5.5.5.jar",
-      "sha1": "66bd0b658dadc9345d9b885641b4322e3686094c",
-      "sha512": "098f28bbe551551f99e85584b36c37e466dfc46084737ed3644fc8588dae676653f5c5b16393cccff2cb90c5f3779260e0aec5a0e8c5813df3456166c0bce9ec",
-      "fileSize": 1185836
+      "versionId": "kSxHvs99",
+      "versionNumber": "5.5.7",
+      "filename": "geckolib-fabric-26.3-5.5.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/kSxHvs99/geckolib-fabric-26.3-5.5.7.jar",
+      "sha1": "064ad66ea62bcf3fd0e89a719843b1a06c81925c",
+      "sha512": "c7c89bd6c5f2801ef1575e2e1212202f5a3eff480d73503beff12b1d60dfb751112fccf36e36c243b26b6b492261cef12d8b2c1a92a734bb0b621daa8c158fc5",
+      "fileSize": 1191230
     }
   },
   "dependents": [
