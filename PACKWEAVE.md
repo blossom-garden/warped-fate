@@ -65,15 +65,15 @@
 - [Field Guide](https://modrinth.com/project/field-guide) `1.23.0+26.2-fabric`
 - [Fluidloggable](https://modrinth.com/project/fluidloggable) `3.1.2-beta.5-mc26.2`
 - [ForceExitOnShutdown](https://modrinth.com/project/forceexitonshutdown) `0.1.0`
-- [Fresh Animations](https://modrinth.com/project/fresh-animations) `1.11.1`
-- [Fresh Animations: Creepers](https://modrinth.com/project/fresh-animations-creepers) `2.1.0`
-- [Fresh Animations: Details](https://modrinth.com/project/fresh-animations-details) `2.3.0`
-- [Fresh Animations: Emissive](https://modrinth.com/project/fresh-animations-emissive) `1.6.0`
+- [Fresh Animations](https://modrinth.com/project/fresh-animations) `1.11.2`
+- [Fresh Animations: Creepers](https://modrinth.com/project/fresh-animations-creepers) `2.2.0`
+- [Fresh Animations: Details](https://modrinth.com/project/fresh-animations-details) `2.4.0`
+- [Fresh Animations: Emissive](https://modrinth.com/project/fresh-animations-emissive) `1.7.0`
 - [Fresh Animations: Objects](https://modrinth.com/project/fresh-animations-objects) `2.1.2`
 - [Fresh Animations: Player Extension](https://modrinth.com/project/fa-player-extension) `1.1.0`
 - [Fresh Animations: Player Extension + Just Expressions](https://modrinth.com/project/fa-player-extension-plusjust-expressions) `1.2`
-- [Fresh Animations: Quivers](https://modrinth.com/project/fresh-animations-quivers) `2.2.0`
-- [Fresh Animations: Spiders](https://modrinth.com/project/fresh-animations-spiders) `2.2.0`
+- [Fresh Animations: Quivers](https://modrinth.com/project/fresh-animations-quivers) `2.3.0`
+- [Fresh Animations: Spiders](https://modrinth.com/project/fresh-animations-spiders) `2.3.1`
 - [Gazebos (RPG Series)](https://modrinth.com/project/gazebos) `2.2.0+26.2-fabric`
 - [Headpat a Friend!](https://modrinth.com/project/headpat) `1.0.7+26.2`
 - [Icy's Better Horses](https://modrinth.com/project/icys-better-horses) `2.1.8`
@@ -118,7 +118,7 @@
 - [Pufferfish's Attributes](https://modrinth.com/project/attributes) `0.8.2`
 - [Pufferfish's Skills](https://modrinth.com/project/skills) `0.19.2`
 - [quick pack](https://modrinth.com/project/quick-pack) `fabric-1.5.1+26.2`
-- [rainbow's foliage: polytone](https://modrinth.com/project/rainbows-foliage) `2.1`
+- [rainbow's foliage: polytone](https://modrinth.com/project/rainbows-foliage) `2.2`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.4+26.2-fabric`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc26.2-2.2.4+fabric`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `2.1.0+26.2-fabric`

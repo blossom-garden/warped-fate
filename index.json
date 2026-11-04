@@ -714,15 +714,15 @@
     },
     {
       "path": "content/resourcepacks/fresh-animations-creepers.json",
-      "sha1": "b81fe67da9fa505543b88c06959e7500d842b42d"
+      "sha1": "924f3a5b865dbd6b23a219ea01352a7bfb8c244c"
     },
     {
       "path": "content/resourcepacks/fresh-animations-details.json",
-      "sha1": "d98288949c139f14e5effcacff784941770542f4"
+      "sha1": "2a30085a8326329e6e27712cf75d5fa5b4f7a9ae"
     },
     {
       "path": "content/resourcepacks/fresh-animations-emissive.json",
-      "sha1": "51788beccaab736f1b8e3465f1a4734e61efc714"
+      "sha1": "f167fc75cc6eca32d3496e31ebcced2d9d1b28de"
     },
     {
       "path": "content/resourcepacks/fresh-animations-objects.json",
@@ -730,15 +730,15 @@
     },
     {
       "path": "content/resourcepacks/fresh-animations-quivers.json",
-      "sha1": "e33aeb7f584c6a42e6bfc83dc5dd101b78980d31"
+      "sha1": "3a8380bcf070d645e467c89a34ea9823ba001207"
     },
     {
       "path": "content/resourcepacks/fresh-animations-spiders.json",
-      "sha1": "9e247bcda6581a3335e62d61a4e8fcca380ad3ec"
+      "sha1": "190ab89e6364cd6094c5b842ac9c75497cb11895"
     },
     {
       "path": "content/resourcepacks/fresh-animations.json",
-      "sha1": "ed24eca1fc3c23e6710b27c79dbbb52bc6d78c1d"
+      "sha1": "524a0b2b1d4179c431a76f60026bf36f79c16b2e"
     },
     {
       "path": "content/resourcepacks/polylight.json",
@@ -746,7 +746,7 @@
     },
     {
       "path": "content/resourcepacks/rainbows-foliage.json",
-      "sha1": "b28adb31518a455cf75bb8bc886df9a619c37420"
+      "sha1": "ae166beffd3ccb47de087987e754abbdc2e0c176"
     },
     {
       "path": "content/resourcepacks/simple-grass-flowers.json",

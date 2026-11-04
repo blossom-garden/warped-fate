@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "VRS2YQn9",
       "slug": "fresh-animations-emissive",
-      "versionId": "byyyyS7z",
-      "versionNumber": "1.6.0",
-      "filename": "FA+Emissive-v1.6.zip",
-      "downloadUrl": "https://cdn.modrinth.com/data/VRS2YQn9/versions/byyyyS7z/FA%2BEmissive-v1.6.zip",
-      "sha1": "9ded93d65124d02bdccd0c5700271da69e283c7f",
-      "sha512": "e3909b72828c27838ba262e91e5fc035bd5553d0053f82f322d4af5f956d024b38d24706e866f8ad62d08a423f899339abefc0584c2e2a11b1f2f9c703032c2d",
-      "fileSize": 93695
+      "versionId": "A3tITCIa",
+      "versionNumber": "1.7.0",
+      "filename": "FA+Emissive-v1.7.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/VRS2YQn9/versions/A3tITCIa/FA%2BEmissive-v1.7.zip",
+      "sha1": "f7cf8c02f166611340d5f2a062a3ad2145365b21",
+      "sha512": "3b7fc541086ee7928dc5a81fb43914ad0846f59f6bffd8fedcb4089a58051e62ed699f8bb91d7b96e20a34e1a0d9fe3ff33ea4603642d022cdd473c8bb20f6ae",
+      "fileSize": 103295
     }
   },
   "dependents": [],

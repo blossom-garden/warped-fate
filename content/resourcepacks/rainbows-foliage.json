@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "bY2CaVIh",
       "slug": "rainbows-foliage",
-      "versionId": "3ggt1j6n",
-      "versionNumber": "2.1",
-      "filename": "rainbows-foliage-polytone-edition-v2.1.zip",
-      "downloadUrl": "https://cdn.modrinth.com/data/bY2CaVIh/versions/3ggt1j6n/rainbows-foliage-polytone-edition-v2.1.zip",
-      "sha1": "9a0f701acbdd076bf70ef35220a48181f2540722",
-      "sha512": "b62938efab9913f1feb01075745239630c3042ad4b061c0d4d31964d13149d58a88958f9f85037b2c05e502d6ec3108a6b885f7dba38af39cb821815562e8426",
-      "fileSize": 4447273
+      "versionId": "JQtvC8uB",
+      "versionNumber": "2.2",
+      "filename": "rainbows-foliage-polytone-edition-v2.2.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/bY2CaVIh/versions/JQtvC8uB/rainbows-foliage-polytone-edition-v2.2.zip",
+      "sha1": "bdf87562ae85617ae6f7cdfd41bc4d281ad36a7b",
+      "sha512": "27d6ba7b5cac68a6df1bb5957bc13b0e149910eadd7f79ae0c89cc7df289d295610b1808f1280a5e3dc088aca182f18f3f5d1d2189e4b3517a2da38cf29ef667",
+      "fileSize": 4182799
     }
   },
   "dependents": [],

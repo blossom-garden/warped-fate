@@ -8,20 +8,16 @@
     "modrinth": {
       "id": "50dA9Sha",
       "slug": "fresh-animations",
-      "versionId": "tvGVYMD4",
-      "versionNumber": "1.11.1",
-      "filename": "FreshAnimations_v1.11.1_26.1+.zip",
-      "downloadUrl": "https://cdn.modrinth.com/data/50dA9Sha/versions/tvGVYMD4/FreshAnimations_v1.11.1_26.1%2B.zip",
-      "sha1": "ae9175983c5109162c86daae1acff34ccf623faf",
-      "sha512": "5357a3dbce74f5bdb688f3c4e6f7cadb6e0d81d3dde41d46017993d5bc5456a325a39a3faad0d471be51fcc73e3a47218ec64ed8e0024b092cd117b422f23356",
-      "fileSize": 776684
+      "versionId": "xfE3qfr5",
+      "versionNumber": "1.11.2",
+      "filename": "FreshAnimations_v1.11.2_26.1+.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/50dA9Sha/versions/xfE3qfr5/FreshAnimations_v1.11.2_26.1%2B.zip",
+      "sha1": "8176a3c13963aac2adc1f12214ceabfc45127ab2",
+      "sha512": "c0a529479b9e43465d8b5c5f939711fded92d92fd26053b75fcbe0560046e23655f2d429d108b286cbfceb0470960b5a519ac2311ab108899b7529b76a9e9e30",
+      "fileSize": 778725
     }
   },
-  "dependents": [
-    "AhPf2E1u",
-    "aqKnWmBf",
-    "lctgpCsu"
-  ],
+  "dependents": [],
   "clientSide": "required",
   "serverSide": "unsupported"
 }

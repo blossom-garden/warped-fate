@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "AhPf2E1u",
       "slug": "fresh-animations-creepers",
-      "versionId": "GrfbfoJB",
-      "versionNumber": "2.1.0",
-      "filename": "FA+Creepers-v2.1.zip",
-      "downloadUrl": "https://cdn.modrinth.com/data/AhPf2E1u/versions/GrfbfoJB/FA%2BCreepers-v2.1.zip",
-      "sha1": "41ebafbc64e1d90ef1628e3ffb8da7d2dd3b2c6c",
-      "sha512": "6c0d1e295f3123c7ee27c8538aa92822952bf20623215adc1278774eefbbb1fff9aab16d1599642fde2b5d9c8a84de2fc1c0234880264fed18d1d32a5fa9be9d",
-      "fileSize": 80737
+      "versionId": "b90eVujh",
+      "versionNumber": "2.2.0",
+      "filename": "FA+Creepers-v2.2.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/AhPf2E1u/versions/b90eVujh/FA%2BCreepers-v2.2.zip",
+      "sha1": "c65e34ee299998d39bec9178f6793af1099733fa",
+      "sha512": "881984168c933f263550bded400157c70e12dabd0c5b6b37bec9fc24189d3ba4f4d234e257d2ef842b287889acadc060266ff6e4031b46a98f803d4b2cf4a8a5",
+      "fileSize": 81283
     }
   },
   "dependents": [],
