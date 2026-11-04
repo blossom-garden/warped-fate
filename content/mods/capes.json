@@ -1,0 +1,36 @@
+{
+  "name": "Capes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "89Wsn8GD",
+      "slug": "capes",
+      "versionId": "ou6uEXQY",
+      "versionNumber": "1.5.11+26.2",
+      "filename": "capes-1.5.11+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/89Wsn8GD/versions/ou6uEXQY/capes-1.5.11%2B26.2.jar",
+      "sha1": "dc142c4f00435d299fa94d7d3558c70da9da5c04",
+      "sha512": "260a95398c2a9e31b1deb9da0cc8e97310acb08219785b590116070f963aef4ca834342f03c8c31640a204bcb2c67861c83fe9c056be1b9df8b8d970980b0e91",
+      "fileSize": 77630
+    },
+    "curseforge": {
+      "id": "408481",
+      "slug": "capes",
+      "versionId": "8260310",
+      "versionNumber": "[Fabric 26.2] Capes 1.5.11",
+      "filename": "capes-1.5.11+26.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8260/310/capes-1.5.11%2b26.2.jar",
+      "sha1": "dc142c4f00435d299fa94d7d3558c70da9da5c04",
+      "fileSize": 77630
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "3s19I5jr"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

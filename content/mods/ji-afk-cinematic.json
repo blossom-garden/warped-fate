@@ -1,0 +1,23 @@
+{
+  "name": "Ji AFK Cinematic",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NYveE6yC",
+      "slug": "ji-afk-cinematic",
+      "versionId": "Qgow6ZOf",
+      "versionNumber": "2.4.0",
+      "filename": "ji-afk-cinematic-fabric-26.1-26.2-2.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NYveE6yC/versions/Qgow6ZOf/ji-afk-cinematic-fabric-26.1-26.2-2.4.0.jar",
+      "sha1": "5e0b62626e671bb5c1f84c74277c548952204bbc",
+      "sha512": "b95937514b9826ef07022329b38827347c2da5bd8d3daa1bf47f5b3bb8f1ae516b9b60a66320c5b5b4a739d8c5c2988aba7dabba36e8b2f177cb83b99e5c6754",
+      "fileSize": 2449698
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

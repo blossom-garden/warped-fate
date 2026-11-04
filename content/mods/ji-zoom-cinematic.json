@@ -1,0 +1,23 @@
+{
+  "name": "Ji Zoom Cinematic",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ztPXOsyn",
+      "slug": "ji-zoom-cinematic",
+      "versionId": "5Atk9mKz",
+      "versionNumber": "1.0.1",
+      "filename": "ji-zoom-cinematic-26.1-26.2-1.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ztPXOsyn/versions/5Atk9mKz/ji-zoom-cinematic-26.1-26.2-1.0.1.jar",
+      "sha1": "7fde9c67f7789df9c9be9f1abdc09e4f7599fc4f",
+      "sha512": "597aa853cbef09787ae82af4fe07e3530cd0e96a6e0708a62a8ce302a9aeb0d8207837e43185a07e5b23754e95d72b1f21b429c4dc544d9e73fa5fe31a8f6a62",
+      "fileSize": 96679
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

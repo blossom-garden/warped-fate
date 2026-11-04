@@ -15,6 +15,16 @@
       "sha1": "0ccd2554865e006ad794d13298f18700be84f165",
       "sha512": "ab89d211a4d88b49c2ce84b5308fbee7d81d31d1af9e0bbc095ef21b812f4e064ef3a57ad9061a305fd5786df7b8084de6f83cee8d55ccf9e4dc311226b99f70",
       "fileSize": 1209707
+    },
+    "curseforge": {
+      "id": "1230054",
+      "slug": "arsenal-rpg-series",
+      "versionId": "8817682",
+      "versionNumber": "1.5.1+26.2",
+      "filename": "arsenal-fabric-1.5.1+26.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8817/682/arsenal-fabric-1.5.1%2b26.2.jar",
+      "sha1": "0ccd2554865e006ad794d13298f18700be84f165",
+      "fileSize": 1209707
     }
   },
   "dependents": [],

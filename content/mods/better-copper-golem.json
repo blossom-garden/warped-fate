@@ -1,0 +1,33 @@
+{
+  "name": "Better Copper Golem",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "FD3rofvj",
+      "slug": "better-copper-golem",
+      "versionId": "3lgeEZ1Q",
+      "versionNumber": "2.8.1+fabric-26.2",
+      "filename": "bettercoppergolem-FABRIC-2.8.1-26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/FD3rofvj/versions/3lgeEZ1Q/bettercoppergolem-FABRIC-2.8.1-26.2.jar",
+      "sha1": "9e36eaa5f13641c01fdbec079920c2fc363cba17",
+      "sha512": "c8bc88a024ce470867038a4503bfe6071a99938be44a9792d026461ca8d6e20abe7682e8ccc2310c1c2beeb01ead0f1811a9980b2d48709a9ab0e8f317db3e21",
+      "fileSize": 173757
+    },
+    "curseforge": {
+      "id": "1364317",
+      "slug": "better-copper-golem",
+      "versionId": "9405733",
+      "versionNumber": "BetterCopperGolem 2.8.1 - FABRIC 26.2",
+      "filename": "bettercoppergolem-FABRIC-2.8.1-26.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9405/733/bettercoppergolem-FABRIC-2.8.1-26.2.jar",
+      "sha1": "9e36eaa5f13641c01fdbec079920c2fc363cba17",
+      "fileSize": 173757
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

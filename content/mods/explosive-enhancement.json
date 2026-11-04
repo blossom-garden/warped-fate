@@ -15,6 +15,16 @@
       "sha1": "18214af634d37a211c5dd1c2d2136ee9cd2a7df7",
       "sha512": "c500699ec9b9059b2e7a40f216694dadd9d7d54cf7cb7b556e9cdc650cd842ee61bcef462cc31fc5884261ae64976dde13c57588938666cbc2caf8c3af9f9f3a",
       "fileSize": 118316
+    },
+    "curseforge": {
+      "id": "1318792",
+      "slug": "project-1318792",
+      "versionId": "8433860",
+      "versionNumber": "explosive-enhancement-1.4.2-26.2.jar",
+      "filename": "explosive-enhancement-1.4.2-26.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8433/860/explosive-enhancement-1.4.2-26.2.jar",
+      "sha1": "18214af634d37a211c5dd1c2d2136ee9cd2a7df7",
+      "fileSize": 118316
     }
   },
   "dependents": [],

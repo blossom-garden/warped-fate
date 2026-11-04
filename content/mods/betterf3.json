@@ -15,6 +15,16 @@
       "sha1": "5e03d73e071df64c42653b63284029cf44a4bfef",
       "sha512": "10bd5bab69c86a267722c134f5e3fcbd681d523cb49ec77f7f42bc60fb98b68638309fc002cbf54cc2c566127e31c19aaa6db92d657312cac8263496d56874d3",
       "fileSize": 719166
+    },
+    "curseforge": {
+      "id": "401648",
+      "slug": "betterf3",
+      "versionId": "9062672",
+      "versionNumber": "BetterF3 Fabric v19.0.1 (26.2)",
+      "filename": "BetterF3-19.0.1-Fabric-26.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9062/672/BetterF3-19.0.1-Fabric-26.2.jar",
+      "sha1": "5e03d73e071df64c42653b63284029cf44a4bfef",
+      "fileSize": 719166
     }
   },
   "dependents": [],

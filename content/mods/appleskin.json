@@ -15,6 +15,16 @@
       "sha1": "03a635bae2c5a5e66825a35ff130242752054b32",
       "sha512": "ddf31d8fe239f66760632606221a9ea55d31907a9f7f8667331929cad348457ec2199cb90d410ee1a06e36bafc01a3bf152a06fd3c9b9e46f50841240875832b",
       "fileSize": 181627
+    },
+    "curseforge": {
+      "id": "248787",
+      "slug": "appleskin",
+      "versionId": "8271985",
+      "versionNumber": "appleskin-fabric-mc26.2-3.0.10.jar",
+      "filename": "appleskin-fabric-mc26.2-3.0.10.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8271/985/appleskin-fabric-mc26.2-3.0.10.jar",
+      "sha1": "03a635bae2c5a5e66825a35ff130242752054b32",
+      "fileSize": 181627
     }
   },
   "dependents": [],

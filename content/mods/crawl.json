@@ -15,6 +15,16 @@
       "sha1": "7981e4be59cd75820e5527034bc58b5d8104589f",
       "sha512": "cc0a7d0674a6c6228484f66bd4308ac56ecc5e3becd752e40245310ebb9b6791f161ec512fbdfae1e49d0aac923079ca367a637c3cbea34571331508146d8f24",
       "fileSize": 37473
+    },
+    "curseforge": {
+      "id": "314579",
+      "slug": "crawl",
+      "versionId": "8287426",
+      "versionNumber": "crawl-0.15.0",
+      "filename": "crawl-mc26.2-fabric-0.15.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8287/426/crawl-mc26.2-fabric-0.15.0.jar",
+      "sha1": "7981e4be59cd75820e5527034bc58b5d8104589f",
+      "fileSize": 37473
     }
   },
   "dependents": [],

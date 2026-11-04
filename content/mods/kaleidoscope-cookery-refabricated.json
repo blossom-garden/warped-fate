@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "Ct11Kuii",
       "slug": "kaleidoscope-cookery-refabricated",
-      "versionId": "8pmEOLME",
-      "versionNumber": "1.6.0.5-fabric+mc26.2",
-      "filename": "kaleidoscope_cookery-1.6.0.5-fabric+mc26.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Ct11Kuii/versions/8pmEOLME/kaleidoscope_cookery-1.6.0.5-fabric%2Bmc26.2.jar",
-      "sha1": "eed1cf2b9c95c029d1be88c96cc81c9589ab5d7e",
-      "sha512": "e8ae4c31e4529d69ea9a55b615f6172161bfb12a586cf83a8f4e75edb0791841b2f879090f97f6e3f69361d4d6601e00bc8e4defd297b8ebbe33f22aafe85498",
-      "fileSize": 6450714
+      "versionId": "sflwXftd",
+      "versionNumber": "1.6.0.7-fabric+mc26.2",
+      "filename": "kaleidoscope_cookery-1.6.0.7-fabric+mc26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Ct11Kuii/versions/sflwXftd/kaleidoscope_cookery-1.6.0.7-fabric%2Bmc26.2.jar",
+      "sha1": "250b92468657077799f6d5f3b7eb372b05917c87",
+      "sha512": "223f7b84045906b7d8d1a396defd39e3fb53d1c4ec1fec8e741b1352a0c556dde1c1d478230ad815d8f361c128e0dc364a1bded52067289c0f21d92e467835a7",
+      "fileSize": 6458511
     }
   },
   "dependents": [

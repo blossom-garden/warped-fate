@@ -15,6 +15,16 @@
       "sha1": "acd115d5a92ceee785f4d08d39d0a0374754e7e5",
       "sha512": "057f7bbf52d87dc6ee41a8cf9d5a5634aafcff8b6fd94e4f797fb54c1926f90f027aede9800cc1ea0200d1c3e8a8e5da9f1368fb650ead2ef94ebf3336af61b7",
       "fileSize": 930628
+    },
+    "curseforge": {
+      "id": "639842",
+      "slug": "better-combat-by-daedelus",
+      "versionId": "8486571",
+      "versionNumber": "3.2.2+26.2",
+      "filename": "bettercombat-fabric-3.2.2+26.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8486/571/bettercombat-fabric-3.2.2%2b26.2.jar",
+      "sha1": "acd115d5a92ceee785f4d08d39d0a0374754e7e5",
+      "fileSize": 930628
     }
   },
   "dependents": [

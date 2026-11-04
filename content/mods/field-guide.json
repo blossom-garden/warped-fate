@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "72RRCWM6",
       "slug": "field-guide",
-      "versionId": "qzxdsvRg",
-      "versionNumber": "1.22.4+26.2-fabric",
-      "filename": "fieldguide-1.22.4+26.2-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/72RRCWM6/versions/qzxdsvRg/fieldguide-1.22.4%2B26.2-fabric.jar",
-      "sha1": "18304460202440253028f1655e63336aa017e8d3",
-      "sha512": "4da517851e8b8cadfbe0d92e3d252c4847633a0a15dac21eff8e62430e1556ff186d31b529066e032c6b3ed32f7f4065a69000433196b2dfd38909b62a279910",
-      "fileSize": 1287671
+      "versionId": "DEbJEowh",
+      "versionNumber": "1.23.0+26.2-fabric",
+      "filename": "fieldguide-1.23.0+26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/72RRCWM6/versions/DEbJEowh/fieldguide-1.23.0%2B26.2-fabric.jar",
+      "sha1": "5dfce220a3a1397d6b8cba1d8b08534bff5702c0",
+      "sha512": "8972a9d0babb59ce99fbb2e75ff100ac2eebf4d4c6ea8243ec2a74b9b658e1ad848c2b3e50149417d426097c7802abda5844b4671f6b35bafec726f14c197d87",
+      "fileSize": 1296442
     }
   },
   "dependents": [],

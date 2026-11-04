@@ -15,6 +15,16 @@
       "sha1": "86dd25b8593b21e387ecaa977fe3c82dfb29527b",
       "sha512": "91ae6e060e220603156f22fd7ffa175885b5322cefb23ce2fb027f6612879fc06b00160f02443f832d27eee0fb70c7a4c5f4037a7e75d20dac873d839161a7e9",
       "fileSize": 30677
+    },
+    "curseforge": {
+      "id": "551894",
+      "slug": "better-compatibility-checker",
+      "versionId": "8268371",
+      "versionNumber": "Better Compatibility Checker - fabric - 26.2.0.1",
+      "filename": "better-compatability-checker-fabric-26.2.0.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8268/371/better-compatability-checker-fabric-26.2.0.1.jar",
+      "sha1": "86dd25b8593b21e387ecaa977fe3c82dfb29527b",
+      "fileSize": 30677
     }
   },
   "dependents": [],

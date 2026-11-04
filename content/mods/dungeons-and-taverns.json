@@ -15,6 +15,16 @@
       "sha1": "11d740c9d0b8c5917626531608af79e295521837",
       "sha512": "af734c31a45cb7c7cc6630d4b258b588aade4ecc6db72d443d5f4d8151ffb2c7b6edfc8fbbe4cdbc6e85d41018bb54661cf9f1dba6226cccf3e18b1de3888703",
       "fileSize": 39642964
+    },
+    "curseforge": {
+      "id": "853794",
+      "slug": "dungeon-and-taverns",
+      "versionId": "8777945",
+      "versionNumber": "dungeons-and-taverns-5.3.2 [Fabric].jar",
+      "filename": "dungeons-and-taverns-5.3.2 [Fabric].jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8777/945/dungeons-and-taverns-5.3.2%20%5bFabric%5d.jar",
+      "sha1": "11d740c9d0b8c5917626531608af79e295521837",
+      "fileSize": 39642964
     }
   },
   "dependents": [],

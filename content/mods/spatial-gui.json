@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "zLBn2IE4",
       "slug": "spatial-gui",
-      "versionId": "IwoDj3xl",
-      "versionNumber": "1.9.1-fabric+26.2",
-      "filename": "spatial-gui-1.9.1+26.2-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/zLBn2IE4/versions/IwoDj3xl/spatial-gui-1.9.1%2B26.2-fabric.jar",
-      "sha1": "926e6f43de7074b156f559ff7823cbed996ad1d8",
-      "sha512": "62f91af951f8f1a9a6e0fb75f133622202cc75292fc0e38d61eefd6b5a0904860180bb46fd11ea4110dc8b30da83edf055ee04f905d5351e2aedbde6c84737b1",
-      "fileSize": 317913
+      "versionId": "qsVv4N7Q",
+      "versionNumber": "1.10.1-fabric+26.2",
+      "filename": "spatial-gui-1.10.1+26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zLBn2IE4/versions/qsVv4N7Q/spatial-gui-1.10.1%2B26.2-fabric.jar",
+      "sha1": "137854b71a142c0b520a30193123c7992283b3ea",
+      "sha512": "d0e8b25cfeea3f79e0dc598e5e4073da8db1d82c429d375f15bd1f3b0b26bbe4b643a971093c6c604bfc89a4d94dc55fcda17fa5a8ba692e0e78396a2d293eff",
+      "fileSize": 734850
     }
   },
   "dependents": [],

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "t1p8V2nl",
       "slug": "yori3os-grappling-hooks",
-      "versionId": "dS66MHGO",
-      "versionNumber": "5.2.0",
-      "filename": "yo_hooks-5.2.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/t1p8V2nl/versions/dS66MHGO/yo_hooks-5.2.0.jar",
-      "sha1": "f523e98fc20c58de35290f2a03ed6638e11e52d1",
-      "sha512": "6692ce2c09d5f28f303ef5ab3a40f2a0f0d499a9ae07935e6611bcfd0dc49aa99040aa49dd7a3cd8c1390520e38053dd40afcc154f902a384812962847588709",
-      "fileSize": 582010
+      "versionId": "FVtKP7aL",
+      "versionNumber": "5.4.0",
+      "filename": "yo_hooks-fabric-5.4.0+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/t1p8V2nl/versions/FVtKP7aL/yo_hooks-fabric-5.4.0%2B26.2.jar",
+      "sha1": "e13098a733b6ebed71ae3b0f2c67a652764dc97a",
+      "sha512": "a7964210a8113d977f9c546041eef4f6604e6ee835c453a97becda75eb36f7452072bdb517f0503315acca7c1a24b8c9427fec342bc018c59fc452da4b7ad21d",
+      "fileSize": 603901
     }
   },
   "dependents": [],

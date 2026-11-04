@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "3qAYkBMB",
       "slug": "polytone",
-      "versionId": "9nvv3S2q",
-      "versionNumber": "26.2-6.9.1",
-      "filename": "polytone-26.2-6.9.1-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/3qAYkBMB/versions/9nvv3S2q/polytone-26.2-6.9.1-fabric.jar",
-      "sha1": "851215a690830f0389c7ba6097bd38b531b1a6aa",
-      "sha512": "e42bb28d0b63347f0528af123dc577d69be5c59be2320ce6c66cb12978a978fc2770b3899c911c1cb1c40818881837d6b4d47bd4a9339373fa678672d1a4ba55",
-      "fileSize": 1862876
+      "versionId": "sB8avBnZ",
+      "versionNumber": "26.2-6.10.0",
+      "filename": "polytone-26.2-6.10.0-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3qAYkBMB/versions/sB8avBnZ/polytone-26.2-6.10.0-fabric.jar",
+      "sha1": "60c3680fe358f58ee92b452ead4fa4f9817a4c4b",
+      "sha512": "9f1b485f1b3b210676ed32fa984695780c2d9a32044275753d45e2191b12dd1077350409b4433d519f2f9ff0045fa23b4ac815f58e6374cbe32b5839eef52c0f",
+      "fileSize": 1831752
     }
   },
   "dependents": [

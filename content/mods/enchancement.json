@@ -15,6 +15,16 @@
       "sha1": "11d100652b2b32ba592635f862e8f0adfe2303b9",
       "sha512": "f87142827c4b1045d8d4b7fcae42ab4ba34a03263ee10ef4e6492a716d18001b50bf542e856d75acada17e4592d9c2e75a42a66bebb493a0d62939a46bf89794",
       "fileSize": 2199119
+    },
+    "curseforge": {
+      "id": "598056",
+      "slug": "enchancement",
+      "versionId": "9064614",
+      "versionNumber": "enchancement-fabric-26.2-r9.jar",
+      "filename": "enchancement-fabric-26.2-r9.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9064/614/enchancement-fabric-26.2-r9.jar",
+      "sha1": "11d100652b2b32ba592635f862e8f0adfe2303b9",
+      "fileSize": 2199119
     }
   },
   "dependents": [],

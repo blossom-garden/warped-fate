@@ -3,6 +3,7 @@
   "name": "PrettyStart",
   "overrides": {},
   "packIds": [
+    "file/warped-fate-companion",
     "file/colored_lights-v1.6.zip",
     "file/rainbows-foliage-polytone-edition-v2.1.zip",
     "file/Sun \u0026 Moon Fusion 3.zip",
@@ -11,6 +12,10 @@
     "file/Simple Grass Flowers v2.0.0.zip",
     "file/Simple Lower Grass Sides v1.2.0.zip",
     "minecraft:kaleidoscope_eating_animation",
+    "file/Theone\u0027s Eating Animation Pack v1.0.zip",
+    "elytratrails:allaytrails",
+    "elytratrails:arrowtrails",
+    "elytratrails:xptrails",
     "continuity:glass_pane_culling_fix",
     "continuity:default",
     "scholar:colored_books",

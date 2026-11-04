@@ -3,6 +3,7 @@
   "name": "FreshStart",
   "overrides": {},
   "packIds": [
+    "file/warped-fate-companion",
     "file/FA+Player_Expressions-v1.2.zip",
     "file/FA+Player-v1.1.zip",
     "file/FA+Creepers-v2.1.zip",
@@ -20,6 +21,10 @@
     "file/Simple Grass Flowers v2.0.0.zip",
     "file/Simple Lower Grass Sides v1.2.0.zip",
     "minecraft:kaleidoscope_eating_animation",
+    "file/Theone\u0027s Eating Animation Pack v1.0.zip",
+    "elytratrails:allaytrails",
+    "elytratrails:arrowtrails",
+    "elytratrails:xptrails",
     "continuity:glass_pane_culling_fix",
     "continuity:default",
     "scholar:colored_books",

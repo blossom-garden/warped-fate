@@ -15,6 +15,16 @@
       "sha1": "8fa8bc108e84158b0828a4aa59bf906d31676eec",
       "sha512": "3436b39fcdddce87f8eda0f35095067477636df2667195df3cb8eae2d002d3ff8ac44de97332668ee50e13ad91be5c532cbc6121878f1e6c904c98c1c9c67c0b",
       "fileSize": 1040013
+    },
+    "curseforge": {
+      "id": "531351",
+      "slug": "continuity",
+      "versionId": "8261100",
+      "versionNumber": "3.0.1+26.2",
+      "filename": "continuity-3.0.1+26.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8261/100/continuity-3.0.1%2b26.2.jar",
+      "sha1": "8fa8bc108e84158b0828a4aa59bf906d31676eec",
+      "fileSize": 1040013
     }
   },
   "dependents": [],

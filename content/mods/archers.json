@@ -15,6 +15,16 @@
       "sha1": "f33e2ceddb27b34a52b30a1e3b83772386e21acb",
       "sha512": "9a7968fc8cf90ec7e50ae5f612cbb55061d1ca8e9ba0d5744ffc610547e681d7297c7c2cc01254639cfc2a3ff77f60f8ef1c346bfd408ad43f20fb100341b972",
       "fileSize": 963965
+    },
+    "curseforge": {
+      "id": "932359",
+      "slug": "archers",
+      "versionId": "9011641",
+      "versionNumber": "3.1.3.003+26.2",
+      "filename": "archers-fabric-3.1.3.003+26.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9011/641/archers-fabric-3.1.3.003%2b26.2.jar",
+      "sha1": "f33e2ceddb27b34a52b30a1e3b83772386e21acb",
+      "fileSize": 963965
     }
   },
   "dependents": [],

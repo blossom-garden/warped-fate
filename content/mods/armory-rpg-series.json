@@ -15,6 +15,16 @@
       "sha1": "9d5a81dd2480054585e7243ac83034d4b15706bf",
       "sha512": "951f085582a54c6bf798f1842ed65168abf7d7da75922ee4637e386e030e67bbe3e51493aa1b23a14206444a247f84dcec33f424188dbbe6a85350718803de4c",
       "fileSize": 694516
+    },
+    "curseforge": {
+      "id": "1311561",
+      "slug": "armory-rpg-series",
+      "versionId": "9011669",
+      "versionNumber": "1.5.3.003+26.2",
+      "filename": "armory-fabric-1.5.3.003+26.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9011/669/armory-fabric-1.5.3.003%2b26.2.jar",
+      "sha1": "9d5a81dd2480054585e7243ac83034d4b15706bf",
+      "fileSize": 694516
     }
   },
   "dependents": [],

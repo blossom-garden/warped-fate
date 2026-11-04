@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "BVzZfTc1",
       "slug": "entitytexturefeatures",
-      "versionId": "p667cMa5",
-      "versionNumber": "7.2.6-fabric-26.2",
-      "filename": "entity_texture_features-7.2.6-26.2-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/p667cMa5/entity_texture_features-7.2.6-26.2-fabric.jar",
-      "sha1": "83e1ae7d1fdd64ce3dee8cd25c1cdee6b6d6570d",
-      "sha512": "34a8365d78cd81cb3d268c4e8d702bb3fb3eeab4b9ea96c798d9f45772110a169a6e37856990eb50a8018e68b6708f2147ce0971a1988007519674e697909ce6",
-      "fileSize": 793181
+      "versionId": "nJCXY7Tp",
+      "versionNumber": "7.2.7-fabric-26.2",
+      "filename": "entity_texture_features-7.2.7-26.2-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/nJCXY7Tp/entity_texture_features-7.2.7-26.2-fabric.jar",
+      "sha1": "b58fd0d4ab88fdd2f2a4fa76783c54d8a9233a88",
+      "sha512": "7cf853688ed9b4f508591811b348db304eb66af5452d4fd8340b37486c750388f73471cbdd073cec1456817ccf84281cd0256097835211b9042cfeee6258cfd2",
+      "fileSize": 798587
     },
     "curseforge": {
       "id": "568563",
       "slug": "entity-texture-features-fabric",
-      "versionId": "9188427",
-      "versionNumber": "7.2.6-fabric-26.2",
-      "filename": "entity_texture_features-7.2.6-26.2-fabric.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9188/427/entity_texture_features-7.2.6-26.2-fabric.jar",
-      "sha1": "83e1ae7d1fdd64ce3dee8cd25c1cdee6b6d6570d",
-      "fileSize": 793181
+      "versionId": "9420352",
+      "versionNumber": "7.2.7-fabric-26.2",
+      "filename": "entity_texture_features-7.2.7-26.2-fabric.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9420/352/entity_texture_features-7.2.7-26.2-fabric.jar",
+      "sha1": "b58fd0d4ab88fdd2f2a4fa76783c54d8a9233a88",
+      "fileSize": 798587
     }
   },
   "dependents": [

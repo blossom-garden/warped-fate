@@ -1,0 +1,23 @@
+{
+  "name": "MagicParticles",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3L8uJgqy",
+      "slug": "magicparticles",
+      "versionId": "KBiGUqmN",
+      "versionNumber": "1.3.2+26.2",
+      "filename": "magic-particles-1.3.2+26.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3L8uJgqy/versions/KBiGUqmN/magic-particles-1.3.2%2B26.2.jar",
+      "sha1": "c614e4fcb995d0e8224c58176977781ad02a5abe",
+      "sha512": "c2462ad809e1c690b20cdeb4f5fa7da49dbbefd84afae43b56f38305f549dada775c393d1d101ef2aaaabcef410e5b13d114f2a55908e9891436652fc206b94f",
+      "fileSize": 424935
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

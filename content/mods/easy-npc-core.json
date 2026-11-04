@@ -1,0 +1,35 @@
+{
+  "name": "Easy NPC: Core",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Epm6R3P2",
+      "slug": "easy-npc-core",
+      "versionId": "3qQiRa0s",
+      "versionNumber": "7.18.0",
+      "filename": "easy_npc-fabric-26.2-7.18.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Epm6R3P2/versions/3qQiRa0s/easy_npc-fabric-26.2-7.18.0.jar",
+      "sha1": "a5d297b3b6897c31776fa509b1d208772f2a3f73",
+      "sha512": "de9018dd35c207cb85f216bc75d2ee9abf929c01cdc92b3bf2dddfcaaf1d0142314d35692ee435816132e6f5da5710690de3ec161c0350b53c08588db42c3d09",
+      "fileSize": 3240421
+    },
+    "curseforge": {
+      "id": "1308987",
+      "slug": "easy-npc-core",
+      "versionId": "9412828",
+      "versionNumber": "easy_npc-fabric-26.2-7.18.0.jar",
+      "filename": "easy_npc-fabric-26.2-7.18.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9412/828/easy_npc-fabric-26.2-7.18.0.jar",
+      "sha1": "a5d297b3b6897c31776fa509b1d208772f2a3f73",
+      "fileSize": 3240421
+    }
+  },
+  "dependents": [
+    "uTGjf7vA"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

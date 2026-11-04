@@ -1,11 +1,12 @@
 # Warped Fate
 
-**Minecraft 26.2 · fabric 0.20.1**, 137 mods (33 dependencies), 16 resource packs
+**Minecraft 26.2 · fabric 0.20.1**, 143 mods (33 dependencies), 17 resource packs
 
 ## Contents
 
 - [[EMF] Entity Model Features](https://modrinth.com/project/entity-model-features) `3.3.12-fabric-26.2`
-- [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.2.6-fabric-26.2`
+- [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.2.7-fabric-26.2`
+- [Actually Harvest](https://modrinth.com/project/actually-harvest) `26.2-1.1.7.6-FABRIC`
 - [Anabiosis](https://modrinth.com/project/anabiosis) `0.3.1`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.10+mc26.2`
 - [Archers (RPG Series)](https://modrinth.com/project/archers) `3.1.3.003+26.2-fabric`
@@ -16,6 +17,7 @@
 - [Better Clouds](https://modrinth.com/project/better-clouds) `1.14.4`
 - [Better Combat](https://modrinth.com/project/better-combat) `3.2.2+26.2-fabric`
 - [Better Compatibility Checker](https://modrinth.com/project/better-compatibility-checker) `26.2.0.1`
+- [Better Copper Golem](https://modrinth.com/project/better-copper-golem) `2.8.1+fabric-26.2`
 - [Better Days](https://modrinth.com/project/betterdays) `26.2-4.1.1.7-FABRIC`
 - [Better Happy Ghast Movement](https://modrinth.com/project/bhgm) `1.0.0`
 - [Better Selective Combat](https://modrinth.com/project/better-selective-combat) `1.2.2+26.2-fabric`
@@ -25,6 +27,7 @@
 - [BlueMap Offline Player Markers (Fabric)](https://modrinth.com/project/bluemap-offline-player-markers-fabric) `2026.7.2`
 - [BlueMap Sign Markers](https://modrinth.com/project/bluemap-sign-markers) `26.2-1.0.0.87`
 - [ButterBee - Mob Variants](https://modrinth.com/project/butterbee) `1.0.8-mod`
+- [Capes](https://modrinth.com/project/capes) `1.5.11+26.2`
 - [Chunksmith](https://modrinth.com/project/chunksmith) `4.8.0+26.2`
 - [Client Sort](https://modrinth.com/project/clientsort) `3.103.4+26.2`
 - [CliffTree](https://modrinth.com/project/clifftree) `3.3-fabric-26.2`
@@ -39,6 +42,9 @@
 - [Drippy Loading Screen](https://modrinth.com/project/drippy-loading-screen) `3.1.5-26.2-fabric`
 - [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `5.3.2+mod`
 - [Dynamic FPS](https://modrinth.com/project/dynamic-fps) `3.11.9`
+- [Easy NPC: Config UI](https://modrinth.com/project/easy-npc-config-ui) `7.18.0`
+- [Easy NPC: Core](https://modrinth.com/project/easy-npc-core) `7.18.0`
+- [Ecliptic Seasons: Fabricated](https://modrinth.com/project/ecliptic-seasons-fabricated) `26.2-fabric-0.15.5.1`
 - [Elytra Cancel](https://modrinth.com/project/elytra-cancel) `3.0.0`
 - [Elytra Contrails Mod](https://modrinth.com/project/elytra-contrails-mod) `1.6.9-26.2`
 - [Elytra Trims](https://modrinth.com/project/elytra-trims) `4.9.1`
@@ -53,9 +59,10 @@
 - [Explosive Enhancement](https://modrinth.com/project/explosive-enhancement) `1.4.2-26.2`
 - [Exposure-Unofficial](https://modrinth.com/project/exposure-unofficial) `1.9.18-unofficial-beta.1`
 - [FallingTree](https://modrinth.com/project/fallingtree) `26.2-26.2.0.4`
+- [Fancy World Animations [FWA]](https://modrinth.com/project/fwa) `1.3.4`
 - [FancyMenu](https://modrinth.com/project/fancymenu) `3.9.14-26.2-fabric`
 - [Fast Noise](https://modrinth.com/project/zfastnoise) `1.1.1+26.2`
-- [Field Guide](https://modrinth.com/project/field-guide) `1.22.4+26.2-fabric`
+- [Field Guide](https://modrinth.com/project/field-guide) `1.23.0+26.2-fabric`
 - [Fluidloggable](https://modrinth.com/project/fluidloggable) `3.1.2-beta.5-mc26.2`
 - [ForceExitOnShutdown](https://modrinth.com/project/forceexitonshutdown) `0.1.0`
 - [Fresh Animations](https://modrinth.com/project/fresh-animations) `1.11.1`
@@ -69,31 +76,32 @@
 - [Fresh Animations: Spiders](https://modrinth.com/project/fresh-animations-spiders) `2.2.0`
 - [Gazebos (RPG Series)](https://modrinth.com/project/gazebos) `2.2.0+26.2-fabric`
 - [Headpat a Friend!](https://modrinth.com/project/headpat) `1.0.7+26.2`
-- [Homeostatic Seasons](https://modrinth.com/project/homeostatic-seasons) `26.2-1.2.0.3`
-- [Icy's Better Horses](https://modrinth.com/project/icys-better-horses) `2.1.7`
+- [Icy's Better Horses](https://modrinth.com/project/icys-better-horses) `2.1.8`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.16.5+26.2-fabric`
 - [Immersive Gateways](https://modrinth.com/project/immersive-gateways) `0.0.7+26.2`
-- [Immersive Melodies](https://modrinth.com/project/immersive-melodies) `0.8.2+26.2`
+- [Immersive Melodies](https://modrinth.com/project/immersive-melodies) `0.8.3+26.2`
 - [Jade 🔍](https://modrinth.com/project/jade) `26.2.11+fabric`
 - [Jewelry (RPG Series)](https://modrinth.com/project/jewelry) `2.5.1+26.2-fabric`
-- [Kaleidoscope Cookery Refabricated](https://modrinth.com/project/kaleidoscope-cookery-refabricated) `1.6.0.5-fabric+mc26.2`
-- [Kaleidoscope End Refabricated](https://modrinth.com/project/kaleidoscope-end-refabricated) `1.1.0-fabric+mc26.2`
+- [Ji AFK Cinematic](https://modrinth.com/project/ji-afk-cinematic) `2.4.0`
+- [Ji Zoom Cinematic](https://modrinth.com/project/ji-zoom-cinematic) `1.0.1`
+- [Kaleidoscope Cookery Refabricated](https://modrinth.com/project/kaleidoscope-cookery-refabricated) `1.6.0.7-fabric+mc26.2`
+- [Kaleidoscope End Refabricated](https://modrinth.com/project/kaleidoscope-end-refabricated) `1.1.0.1-fabric+mc26.2`
 - [Kaleidoscope Hodgepodge](https://modrinth.com/project/kaleidoscope-hodgepodge) `1.1.0.3-fabric+mc26.2`
-- [Kaleidoscope Nether Refabricated](https://modrinth.com/project/kaleidoscope-nether-refabricated) `1.1.13-fabric+mc26.2`
-- [Kaleidoscope Tavern Refabricated](https://modrinth.com/project/kaleidoscope-tavern-refabricated) `1.2.0.12-fabric+mc26.2`
-- [KeyBindProfiles](https://modrinth.com/project/keybindprofiles) `1.0.3`
+- [Kaleidoscope Nether Refabricated](https://modrinth.com/project/kaleidoscope-nether-refabricated) `1.1.14-fabric+mc26.2`
+- [Kaleidoscope Tavern Refabricated](https://modrinth.com/project/kaleidoscope-tavern-refabricated) `1.2.0.13-fabric+mc26.2`
+- [KeyBindProfiles](https://modrinth.com/project/keybindprofiles) `1.1.0`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.12.4+26.2`
 - [Language Reload](https://modrinth.com/project/language-reload) `1.7.8+26.2`
 - [Leawind's Third Person](https://modrinth.com/project/leawind-third-person) `3.0.3-beta+fabric-26.2`
 - [Liteminer](https://modrinth.com/project/liteminer) `4.5.2+26.2`
 - [Lootr](https://modrinth.com/project/lootr) `1.24.41.124`
+- [MagicParticles](https://modrinth.com/project/magicparticles) `1.3.2+26.2`
 - [MCA Reborn](https://modrinth.com/project/minecraft-comes-alive-reborn) `8.1.11+26.2`
 - [Mob Chains](https://modrinth.com/project/mob-chains) `1.0.0`
 - [Mod Loading Screen](https://modrinth.com/project/mod-loading-screen) `1.0.5`
 - [Mod Menu](https://modrinth.com/project/modmenu) `20.0.3`
 - [Motion Capture](https://modrinth.com/project/motion-capture) `1.3.10-fabric-26.2`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `26.2-2.31-fabric`
-- [Nautilus Studio - Packs Editor IDE](https://modrinth.com/project/packs-editor) `26.2-1.11.0`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `Fabric-26.2-v2.20.2`
 - [Olafs Relatively Placed Blocks](https://modrinth.com/project/olafs-relatively-placed-blocks) `2.0.0`
 - [OmniCrossbow](https://modrinth.com/project/omnicrossbow) `1.1.2+mc26.2`
@@ -102,9 +110,8 @@
 - [oωo (owo-lib)](https://modrinth.com/project/owo-lib) `0.13.1+26.2`
 - [Packed Packs](https://modrinth.com/project/packed-packs) `2.3.1+26.2`
 - [Paladins & Priests (RPG Series)](https://modrinth.com/project/paladins-and-priests) `3.1.3.003+26.2-fabric`
-- [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.2+26.2-fabric`
+- [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.3+26.2-fabric`
 - [Particular ✨ Reforged](https://modrinth.com/project/particular-reforged) `1.5.7`
-- [Pick Up Notifier](https://modrinth.com/project/pick-up-notifier) `26.2.0`
 - [PolyLight -  Simple Colored Lights](https://modrinth.com/project/polylight) `1.6`
 - [Portal Cornerlink](https://modrinth.com/project/portal-cornerlink) `1.1.0`
 - [Presence Footsteps](https://modrinth.com/project/presence-footsteps) `1.13.3+26.2`
@@ -114,17 +121,15 @@
 - [rainbow's foliage: polytone](https://modrinth.com/project/rainbows-foliage) `2.1`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.4+26.2-fabric`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc26.2-2.2.4+fabric`
-- [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `2.0.0+26.2-fabric`
+- [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `2.1.0+26.2-fabric`
 - [Relics (RPG Series)](https://modrinth.com/project/relics-rpg) `1.4.1+26.2-fabric`
 - [Respackopts](https://modrinth.com/project/respackopts) `26.2.2`
 - [Rogues & Warriors (RPG Series)](https://modrinth.com/project/rogues-and-warriors) `3.1.3.003+26.2-fabric`
 - [Roughly Enough Items (REI)](https://modrinth.com/project/rei) `26.2.820+fabric`
 - [Runelic](https://modrinth.com/project/runelic) `26.2.0.1`
-- [Sails and Airships: Block-Based Ships](https://modrinth.com/project/sails-and-airships) `1.0.5+26.2`
 - [Scholar](https://modrinth.com/project/scholar) `1.2.10`
 - [Seamless Ores](https://modrinth.com/project/seamless-ores) `5.1.0+fabric`
 - [SeamlessChunks](https://modrinth.com/project/schunks) `0.1.0-beta.7+26.2-fabric`
-- [Searchables](https://modrinth.com/project/searchables) `1.0.1`
 - [Show Me Your Skin!](https://modrinth.com/project/show-me-your-skin) `2.0.3+26.2`
 - [Simple Blood](https://modrinth.com/project/simple-blood) `1.2.1+26.2`
 - [Simple Grass Flowers](https://modrinth.com/project/simple-grass-flowers) `2.0.0`
@@ -134,13 +139,15 @@
 - [Skin Shuffle](https://modrinth.com/project/skinshuffle) `2.13.0+26.2-fabric`
 - [Sodium](https://modrinth.com/project/sodium) `mc26.2-0.9.2-fabric`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc26.2-0.9.5+fabric`
-- [Spatial GUI](https://modrinth.com/project/spatial-gui) `1.9.1-fabric+26.2`
+- [Spatial GUI](https://modrinth.com/project/spatial-gui) `1.10.1-fabric+26.2`
 - [Spell Engine](https://modrinth.com/project/spell-engine) `1.10.9+26.2-fabric`
 - [Spell Power Attributes](https://modrinth.com/project/spell-power) `1.6.2+26.2-fabric`
 - [Sun & Moon Fusion](https://modrinth.com/project/sun-moon-fusion) `3`
 - [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.14`
 - [Take a Seat!](https://modrinth.com/project/tas) `1.0.4`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-fabric-26.2`
+- [Theone's Eating Animation Pack](https://modrinth.com/project/theones-eating-animation-pack) `1.0`
+- [Toil and Trouble](https://modrinth.com/project/toil-and-trouble) `1.6.2+26.2-fabric`
 - [Trinkets Elytra Support](https://modrinth.com/project/trinkets-elytra-support) `1.0.0+mod`
 - [Trinkets Lantern Support](https://modrinth.com/project/trinkets-lantern-support) `1.0.0+mod`
 - [Trinkets Updated](https://modrinth.com/project/trinkets-updated) `4.1.1+26.2`
@@ -154,7 +161,7 @@
 - [Wizards (RPG Series)](https://modrinth.com/project/wizards) `3.1.3.003+26.2-fabric`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `fabric-26.2-26.6.2`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `fabric-26.2-1.47.2`
-- [Yori3o's Grappling Hooks](https://modrinth.com/project/yori3os-grappling-hooks) `5.2.0`
+- [Yori3o's Grappling Hooks](https://modrinth.com/project/yori3os-grappling-hooks) `5.4.0`
 - [Ziplines: Rezipped!](https://modrinth.com/project/ziplines-rezipped) `1.5.3+26.2-fabric`
 - [ZoomX Smooth](https://modrinth.com/project/zoomx-smooth) `26.2`
 

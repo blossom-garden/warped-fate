@@ -1,0 +1,33 @@
+{
+  "name": "Ecliptic Seasons: Fabricated",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WXA03JUt",
+      "slug": "ecliptic-seasons-fabricated",
+      "versionId": "R3dW9E3B",
+      "versionNumber": "26.2-fabric-0.15.5.1",
+      "filename": "EclipticSeasons-Fabricated-26.2-fabric-0.15.5.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WXA03JUt/versions/R3dW9E3B/EclipticSeasons-Fabricated-26.2-fabric-0.15.5.1.jar",
+      "sha1": "de9d3115f0a731c026cc5ed14bdbbcf42fc6b0f7",
+      "sha512": "e6da4e6e9d987c7ec49b09ee200c76bc8d2ee80f92eb20c837dafc4da09b601dbae6827924eb22a10b3b6d30190220152c13e2b070786c7ee0c8cd01bf2c3874",
+      "fileSize": 9975557
+    },
+    "curseforge": {
+      "id": "1514738",
+      "slug": "ecliptic-seasons-fabricated",
+      "versionId": "9407284",
+      "versionNumber": "EclipticSeasons-Fabricated-26.2-fabric-0.15.5.1.jar",
+      "filename": "EclipticSeasons-Fabricated-26.2-fabric-0.15.5.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9407/284/EclipticSeasons-Fabricated-26.2-fabric-0.15.5.1.jar",
+      "sha1": "de9d3115f0a731c026cc5ed14bdbbcf42fc6b0f7",
+      "fileSize": 9975557
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

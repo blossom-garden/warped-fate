@@ -15,6 +15,16 @@
       "sha1": "041306eb119a4c07107eebea9a82b3b33d875685",
       "sha512": "f94441da4a22a61ee4e41ea15c50fd1c06ece759991b18b11e69076c4093fc4d4e37bfe9997bda1fa873cb74158a63428d8101da218b21827d96e75faac4b368",
       "fileSize": 287536
+    },
+    "curseforge": {
+      "id": "511770",
+      "slug": "drippy-loading-screen",
+      "versionId": "8552926",
+      "versionNumber": "[Fabric] v3.1.5 MC 26.2",
+      "filename": "drippyloadingscreen_fabric_3.1.5_MC_26.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8552/926/drippyloadingscreen_fabric_3.1.5_MC_26.2.jar",
+      "sha1": "041306eb119a4c07107eebea9a82b3b33d875685",
+      "fileSize": 287536
     }
   },
   "dependents": [],

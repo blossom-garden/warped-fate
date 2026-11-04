@@ -15,6 +15,10 @@
       "sha1": "bff8a5b4a9dc6e6eb6cddc93cf714dba91ba0c1f",
       "sha512": "ecd3613d03230bd63b188c4e8045da45b99bbebd760f3389d34c8ee3a766dff6dd16556c64bd6655394f920e2fa26320ed396fd3098de030a6b89f376170d9f9",
       "fileSize": 357006
+    },
+    "curseforge": {
+      "id": "1049891",
+      "slug": "clientsort"
     }
   },
   "dependents": [],

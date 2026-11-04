@@ -15,6 +15,16 @@
       "sha1": "17df2c2c7ec3a0562f202d3e774a2161fdfbbdcc",
       "sha512": "f725cd36bbd263ea91b5b31f0f2e0533bb3cba0cf582e891c444e21be89843669df54668a58b8c32e7157dd5865b142078f68526e01099713f67fd084516a76c",
       "fileSize": 1054119
+    },
+    "curseforge": {
+      "id": "876199",
+      "slug": "elytra-trims",
+      "versionId": "8989085",
+      "versionNumber": "Elytra Trims Fabric 4.9.1 for 26.2",
+      "filename": "elytratrims-fabric-4.9.1+26.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8989/85/elytratrims-fabric-4.9.1%2b26.2.jar",
+      "sha1": "17df2c2c7ec3a0562f202d3e774a2161fdfbbdcc",
+      "fileSize": 1054119
     }
   },
   "dependents": [],

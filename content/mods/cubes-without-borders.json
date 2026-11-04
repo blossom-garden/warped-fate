@@ -15,6 +15,16 @@
       "sha1": "6114afaa2b54bdc79bf8dba1630ac1221f02522b",
       "sha512": "ccd86e34dc252d59ec8ef5bbba0fb7f23f04facc4028e07b0bb6e8e0cf19b27c94a4c355886f9addd0a472ede0b21d19f95626fffb0b1ee4ce3d005b210e4cce",
       "fileSize": 95279
+    },
+    "curseforge": {
+      "id": "975120",
+      "slug": "cubes-without-borders",
+      "versionId": "9308996",
+      "versionNumber": "cwb-5.0.0+26.2.jar",
+      "filename": "cwb-5.0.0+26.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9308/996/cwb-5.0.0%2b26.2.jar",
+      "sha1": "6114afaa2b54bdc79bf8dba1630ac1221f02522b",
+      "fileSize": 95279
     }
   },
   "dependents": [],
