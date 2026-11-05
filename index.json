@@ -1,12 +1,8 @@
 {
   "files": [
     {
-      "path": "content/datapacks/elytra-vaults-atlasplays.json",
-      "sha1": "6d7b0a8ca3472f69744033b7cddc3f5cdaad83eb"
-    },
-    {
       "path": "content/mods/actually-harvest.json",
-      "sha1": "4d33d849bf3de6d9ced582a7bdd8d8da659049ca"
+      "sha1": "3ab32bd97dfee2e6d053d4b1c93e63ee89ac95ef"
     },
     {
       "path": "content/mods/amber.json",
@@ -83,10 +79,6 @@
     {
       "path": "content/mods/better-sulfur-cubes.json",
       "sha1": "a64441d98d2efa08784d46b9caecd0b799ee1831"
-    },
-    {
-      "path": "content/mods/betterdays.json",
-      "sha1": "965eb828f026270ec90a5fda69bcac03adf94ae5"
     },
     {
       "path": "content/mods/betterf3.json",
@@ -173,6 +165,10 @@
       "sha1": "390ed33d0d6254ca7f8b10dc67b60d3336e91a37"
     },
     {
+      "path": "content/mods/data-anchor.json",
+      "sha1": "ad1225f5d44f1c5d2158cae2ae7a9ac888c524a2"
+    },
+    {
       "path": "content/mods/drippy-loading-screen.json",
       "sha1": "6ccd7b5209e81f6266c0b8f24170d1daaa717906"
     },
@@ -193,10 +189,6 @@
       "sha1": "ba6a8daae1907c6da7ce3acc8579400d3c5d6e5a"
     },
     {
-      "path": "content/mods/ecliptic-seasons-fabricated.json",
-      "sha1": "e2f9ad77b12365b62efa565a5ecf665041989da4"
-    },
-    {
       "path": "content/mods/elytra-cancel.json",
       "sha1": "08a994e47585b7b7f4f0848fff2a0fe36c810b1c"
     },
@@ -209,6 +201,10 @@
       "sha1": "eaa1eaa45b2da7a7cf2ecdaf612991d4c7a2f2df"
     },
     {
+      "path": "content/mods/elytra-vaults-atlasplays.json",
+      "sha1": "d7be12aa77cd421feee431345ff5aec45cc373b5"
+    },
+    {
       "path": "content/mods/emf-compat-better-combat.json",
       "sha1": "27abbcefbeef0b8c3e2a6de2e8d7d8ba8743c0ad"
     },
@@ -219,6 +215,10 @@
     {
       "path": "content/mods/enchancement.json",
       "sha1": "c4867bc4f59dfc40be4551d97354d5aabe6acfc9"
+    },
+    {
+      "path": "content/mods/enhanced-celestials-2-core.json",
+      "sha1": "72691a2eb44a37fb6031c19b678c9d4b8905db38"
     },
     {
       "path": "content/mods/entity-model-features.json",
@@ -246,7 +246,7 @@
     },
     {
       "path": "content/mods/fabric-api.json",
-      "sha1": "b8a2fa5de9936318b1cfbcb28fd837b784097154"
+      "sha1": "81b29d3782dfac97cfa7aec6d7c9789e68768eac"
     },
     {
       "path": "content/mods/fabric-language-kotlin.json",
@@ -389,6 +389,10 @@
       "sha1": "bd8d1208bf27e7a6ffa0e93e97d9723834860dc6"
     },
     {
+      "path": "content/mods/midnightlib.json",
+      "sha1": "92e99ea13265c1c42b1a5f9b9772e45c7e8ccfbf"
+    },
+    {
       "path": "content/mods/mod-loading-screen.json",
       "sha1": "7ebb0dbf0ed98e5f62f064f278f45ee49ace12db"
     },
@@ -415,10 +419,6 @@
     {
       "path": "content/mods/no-chat-reports.json",
       "sha1": "ad2693556965830f22d3837c8096d6922c08cccf"
-    },
-    {
-      "path": "content/mods/olafs-relatively-placed-blocks.json",
-      "sha1": "aebb58e61f3d64d7968b08d3fd8d262e6f1f692c"
     },
     {
       "path": "content/mods/omnicrossbow.json",
@@ -555,6 +555,10 @@
     {
       "path": "content/mods/skinshuffle.json",
       "sha1": "56fb71ff9af24a7ca77e11ff43c55b2b653ee7f6"
+    },
+    {
+      "path": "content/mods/sleep-warp-updated.json",
+      "sha1": "b243d60521ce5a3960264005d53313e514a1ca11"
     },
     {
       "path": "content/mods/sodium-extra.json",
@@ -815,6 +819,14 @@
     {
       "path": "overrides/config/packed_packs/profiles/resourcepacks/PrettyStart.profile.json",
       "sha1": "6172dea26ff0c6dde7f577e05608839b1001207a"
+    },
+    {
+      "path": "overrides/config/quick-pack.json",
+      "sha1": "29835ef93bc8f961b040503356b73ff0c381505c"
+    },
+    {
+      "path": "overrides/config/reliable_requiem.json",
+      "sha1": "4860346b395ff5e500f7123538a036439833503a"
     },
     {
       "path": "overrides/config/skinrestorer/config.json",

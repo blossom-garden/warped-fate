@@ -1,0 +1,25 @@
+{
+  "name": "MidnightLib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "codAaoxh",
+      "slug": "midnightlib",
+      "versionId": "G9RaNHAC",
+      "versionNumber": "1.10.0+26.3-fabric",
+      "filename": "midnightlib-fabric-1.10.0+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/codAaoxh/versions/G9RaNHAC/midnightlib-fabric-1.10.0%2B26.3.jar",
+      "sha1": "f0b01c55aa7ba045810286bd322927e07dc6a01d",
+      "sha512": "e9988e031aca82ea8f9171df706cd4307a4ccc66a133642ab20c2c65c241bc7aa506699d6d9901bc1305f0070e45c9dcd40e5e1f474e0ddf6092320ff4b6b517",
+      "fileSize": 65973
+    }
+  },
+  "dependents": [
+    "DlSXkZVT"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

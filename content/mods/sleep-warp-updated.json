@@ -1,0 +1,23 @@
+{
+  "name": "SleepWarp (Updated)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "DlSXkZVT",
+      "slug": "sleep-warp-updated",
+      "versionId": "gJSdXSWG",
+      "versionNumber": "2.13.0+26.3-rc-3",
+      "filename": "sleepwarp-2.13.0+26.3-rc-3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/DlSXkZVT/versions/gJSdXSWG/sleepwarp-2.13.0%2B26.3-rc-3.jar",
+      "sha1": "29587f8768519ff5dc1d941bd9157acc997653f8",
+      "sha512": "70a657d9498cc2c80122b7c5f155a8a91d1b13f5e768954a1146d15b993e6f2eb2a3ccd86680fa54db1d87d2030e21693559d13405542d851837a21b477f63fb",
+      "fileSize": 143061
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

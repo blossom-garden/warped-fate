@@ -28,9 +28,6 @@
     }
   },
   "dependents": [],
-  "optionalDependents": [
-    "tPLE214j"
-  ],
   "clientSide": "required",
   "serverSide": "required"
 }

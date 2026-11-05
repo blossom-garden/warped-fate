@@ -1,0 +1,25 @@
+{
+  "name": "Data Anchor",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "z2XEADmE",
+      "slug": "data-anchor",
+      "versionId": "mlTCCAan",
+      "versionNumber": "6.0.0.2-fabric",
+      "filename": "dataanchor-fabric-26.3-6.0.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/z2XEADmE/versions/mlTCCAan/dataanchor-fabric-26.3-6.0.0.2.jar",
+      "sha1": "1bf16cdf6bce86825db6ed5e4ff1628636f0afd9",
+      "sha512": "81c181cd117caf9dca93df9b6dd5c7051abd33a3ddd6da68eb61b11c7cf2f04415e0ae9847c020507ba6fd8fffedc8e86e2bd2bc3b068df9faa7e08f1bfbc652",
+      "fileSize": 132431
+    }
+  },
+  "dependents": [
+    "ugCWUHV9"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

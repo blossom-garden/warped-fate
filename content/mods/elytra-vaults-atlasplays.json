@@ -1,0 +1,23 @@
+{
+  "name": "Elytra Vaults",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qvUvo44k",
+      "slug": "elytra-vaults-atlasplays",
+      "versionId": "vOZEkdj3",
+      "versionNumber": "2.0.0+plugin",
+      "filename": "ElytraVaults-2.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qvUvo44k/versions/vOZEkdj3/ElytraVaults-2.0.0.jar",
+      "sha1": "0c54e01e66a0fa2ee4659a3bfa522bfde5af2bf2",
+      "sha512": "959798dded45eabc42dc2fea803cdaba4d53669ec44cac74a3d5e21a2f6c2767f6c0d5fa6a5a82b4bc8b8a95a178d5b313bbaaad30bcfca81744df98df42539c",
+      "fileSize": 21286
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

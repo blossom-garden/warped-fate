@@ -19,3 +19,5 @@ config/spatial-gui.json5
 config/keybindprofiles/current_profile.txt
 config/skinrestorer/config.json
 config/mod-loading-screen/config.txt
+config/quick-pack.json
+config/reliable_requiem.json

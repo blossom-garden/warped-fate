@@ -1,0 +1,23 @@
+{
+  "name": "Enhanced Celestials 2: Core",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ugCWUHV9",
+      "slug": "enhanced-celestials-2-core",
+      "versionId": "M0QQRJF3",
+      "versionNumber": "5.0.0.0-fabric",
+      "filename": "Enhanced-Celestials-2-Core-Fabric-26.3-5.0.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ugCWUHV9/versions/M0QQRJF3/Enhanced-Celestials-2-Core-Fabric-26.3-5.0.0.0.jar",
+      "sha1": "96a23a09f1293f8e37fbda3833d01cabff0e001c",
+      "sha512": "6968618a2197324a28ae67527076f109c9ed788fdc5a616ea64f4e14f3dffee4f336af3b02854b07cf922cfc68f7971d8ace97c8745d413f24aa5334b819b2b6",
+      "fileSize": 1089346
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

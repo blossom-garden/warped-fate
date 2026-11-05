@@ -1,6 +1,6 @@
 # Eclipsia
 
-**Minecraft 26.3 · fabric 0.20.1**, 137 mods (30 dependencies), 17 resource packs, 1 data pack
+**Minecraft 26.3 · fabric 0.20.1**, 137 mods (32 dependencies), 17 resource packs
 
 ## Contents
 
@@ -17,7 +17,6 @@
 - [Better Combat](https://modrinth.com/project/better-combat) `3.2.2+26.3-fabric`
 - [Better Compatibility Checker](https://modrinth.com/project/better-compatibility-checker) `26.3.0.1`
 - [Better Copper Golem](https://modrinth.com/project/better-copper-golem) `2.8.1+fabric-26.3`
-- [Better Days](https://modrinth.com/project/betterdays) `26.3-4.1.1.7-FABRIC`
 - [Better Happy Ghast Controls](https://modrinth.com/project/better-happy-ghast-controls) `26.3-1.0.6-fabric`
 - [Better Nether Portals](https://modrinth.com/project/betternetherportals) `1.0.0`
 - [Better Selective Combat](https://modrinth.com/project/better-selective-combat) `1.2.2+26.3-fabric`
@@ -45,13 +44,13 @@
 - [Dynamic FPS](https://modrinth.com/project/dynamic-fps) `3.11.10`
 - [Easy NPC: Config UI](https://modrinth.com/project/easy-npc-config-ui) `7.18.0`
 - [Easy NPC: Core](https://modrinth.com/project/easy-npc-core) `7.18.0`
-- [Ecliptic Seasons: Fabricated](https://modrinth.com/project/ecliptic-seasons-fabricated) `26.3-fabric-0.15.5.1`
 - [Elytra Cancel](https://modrinth.com/project/elytra-cancel) `4.0.0`
 - [Elytra Contrails Mod](https://modrinth.com/project/elytra-contrails-mod) `1.6.9-26.3`
 - [Elytra Trims](https://modrinth.com/project/elytra-trims) `4.9.1`
-- [Elytra Vaults](https://modrinth.com/project/elytra-vaults-atlasplays) `1.2.1`
+- [Elytra Vaults](https://modrinth.com/project/elytra-vaults-atlasplays) `2.0.0+plugin`
 - [EMF Compat: Better Combat](https://modrinth.com/project/emf-compat-better-combat) `2.1.0`
 - [Enchancement](https://modrinth.com/project/enchancement) `26.3-r4`
+- [Enhanced Celestials 2: Core](https://modrinth.com/project/enhanced-celestials-2-core) `5.0.0.0-fabric`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
 - [Entity Selection Outlines](https://modrinth.com/project/entity-outlines) `1.1.0+26.3-fabric`
 - [Explosive Enhancement](https://modrinth.com/project/explosive-enhancement) `1.4.2-26.2`
@@ -96,7 +95,6 @@
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `26.3-2.31-fabric`
 - [Naturalist](https://modrinth.com/project/naturalist) `2.0.7+26.3-fabric`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `Fabric-26.3-v2.21.0`
-- [Olafs Relatively Placed Blocks](https://modrinth.com/project/olafs-relatively-placed-blocks) `2.0.0`
 - [OmniCrossbow](https://modrinth.com/project/omnicrossbow) `1.1.4+mc26.3`
 - [OmniCut: Better Wood, Copper, and Stone Cutter](https://modrinth.com/project/omnicut-better-wood-stone-cutter) `1.121.0+mod`
 - [Origins: Legacy](https://modrinth.com/project/origins-legacy) `1.12.20+26.3`
@@ -131,6 +129,7 @@
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `fabric-2.6.27+26.3`
 - [Skin Restorer](https://modrinth.com/project/skinrestorer) `2.11.1+26.3-fabric`
 - [Skin Shuffle](https://modrinth.com/project/skinshuffle) `2.14.0+26.3-fabric`
+- [SleepWarp (Updated)](https://modrinth.com/project/sleep-warp-updated) `2.13.0+26.3-rc-3`
 - [Sodium](https://modrinth.com/project/sodium) `mc26.3-0.9.3-beta.1-fabric`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc26.3-0.9.6-beta.1+fabric`
 - [Spatial GUI](https://modrinth.com/project/spatial-gui) `1.10.1-fabric+26.3`
