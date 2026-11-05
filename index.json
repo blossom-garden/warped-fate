@@ -754,7 +754,11 @@
     },
     {
       "path": "overrides/config/fancymenu/assets/minecraft_title.png",
-      "sha1": "480dc8741905e39a22cbc3bfe215a4ea019f6d96"
+      "sha1": "9c4fb27d9753c8404869084147f38d0c83245797"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/title-background-square.png",
+      "sha1": "b75638fc33c04b09df772001b7e2c3aa83a72b61"
     },
     {
       "path": "overrides/config/fancymenu/custom_gui_screens.txt",
@@ -789,12 +793,12 @@
       "sha1": "dcad54f732586259624cb90414175e59e33c3922"
     },
     {
-      "path": "overrides/config/lazychunkload.json",
-      "sha1": "7dbe1ace2712e82689e1231a98a8dfd7094b1af2"
+      "path": "overrides/config/mod-loading-screen/background.png",
+      "sha1": "6664f3942e25017558e65ad0c49057ce895733d8"
     },
     {
-      "path": "overrides/config/mca.json",
-      "sha1": "a0de07419fb3fb20f97ecf44c58e2e8c81e2276b"
+      "path": "overrides/config/mod-loading-screen/config.txt",
+      "sha1": "c967faaa48388ddccac08838f1abda9ea43c6aac"
     },
     {
       "path": "overrides/config/packed_packs/profiles/resourcepacks/FreshStart.profile.json",
@@ -803,14 +807,6 @@
     {
       "path": "overrides/config/packed_packs/profiles/resourcepacks/PrettyStart.profile.json",
       "sha1": "25e877a4add242e6fd358ec17b3521964d887055"
-    },
-    {
-      "path": "overrides/config/quick-pack.json",
-      "sha1": "4cdf7b1b52da5b90463f42cba2ff52b65b8ae8bd"
-    },
-    {
-      "path": "overrides/config/seamlesschunks.properties",
-      "sha1": "8c93e5a976ccac169acc9561849ac363d083b9af"
     },
     {
       "path": "overrides/config/skinrestorer/config.json",
@@ -822,7 +818,7 @@
     },
     {
       "path": "overrides/icon.png",
-      "sha1": "7046cfd2b5b3b0ac2d4daf129520f5a3ed68814c"
+      "sha1": "9f969fb059c03e667162bc04b712173f41d77532"
     },
     {
       "path": "overrides/options.txt",

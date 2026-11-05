@@ -1,4 +1,4 @@
-# Warped Fate
+# Eclipsia
 
 **Minecraft 26.3 · fabric 0.20.1**, 137 mods (30 dependencies), 17 resource packs, 1 data pack
 

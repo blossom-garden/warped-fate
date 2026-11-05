@@ -17,3 +17,5 @@ config/mca.json
 !config/mca.json#forceVillagerPlayerModel
 config/spatial-gui.json5
 config/keybindprofiles/current_profile.txt
+config/skinrestorer/config.json
+config/mod-loading-screen/config.txt
