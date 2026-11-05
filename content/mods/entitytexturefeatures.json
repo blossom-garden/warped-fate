@@ -8,29 +8,28 @@
     "modrinth": {
       "id": "BVzZfTc1",
       "slug": "entitytexturefeatures",
-      "versionId": "nJCXY7Tp",
-      "versionNumber": "7.2.7-fabric-26.2",
-      "filename": "entity_texture_features-7.2.7-26.2-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/nJCXY7Tp/entity_texture_features-7.2.7-26.2-fabric.jar",
-      "sha1": "b58fd0d4ab88fdd2f2a4fa76783c54d8a9233a88",
-      "sha512": "7cf853688ed9b4f508591811b348db304eb66af5452d4fd8340b37486c750388f73471cbdd073cec1456817ccf84281cd0256097835211b9042cfeee6258cfd2",
-      "fileSize": 798587
+      "versionId": "svwZ2o4d",
+      "versionNumber": "7.2.7-fabric-26.3",
+      "filename": "entity_texture_features-7.2.7-26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/svwZ2o4d/entity_texture_features-7.2.7-26.3-fabric.jar",
+      "sha1": "29f48f42d72007ce13b4678fac5b2ef5986879e4",
+      "sha512": "69193c58d4d05e08fea9afa34cc47563e9b9e95aa2da276441085ade44ed36f8123b9cc1a2938f9ecac9aea6fd9ceb51120dd20f7284337a3bb592bc3b904336",
+      "fileSize": 798322
     },
     "curseforge": {
       "id": "568563",
       "slug": "entity-texture-features-fabric",
-      "versionId": "9420352",
-      "versionNumber": "7.2.7-fabric-26.2",
-      "filename": "entity_texture_features-7.2.7-26.2-fabric.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9420/352/entity_texture_features-7.2.7-26.2-fabric.jar",
-      "sha1": "b58fd0d4ab88fdd2f2a4fa76783c54d8a9233a88",
-      "fileSize": 798587
+      "versionId": "9420354",
+      "versionNumber": "7.2.7-fabric-26.3",
+      "filename": "entity_texture_features-7.2.7-26.3-fabric.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9420/354/entity_texture_features-7.2.7-26.3-fabric.jar",
+      "sha1": "29f48f42d72007ce13b4678fac5b2ef5986879e4",
+      "fileSize": 798322
     }
   },
   "dependents": [
     "4I1XuqiY",
-    "E6UMWeLX",
-    "PsGWhwc8"
+    "E6UMWeLX"
   ],
   "clientSide": "required",
   "serverSide": "unsupported"

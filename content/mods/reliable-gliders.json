@@ -8,19 +8,16 @@
     "modrinth": {
       "id": "pVIWsXir",
       "slug": "reliable-gliders",
-      "versionId": "k1RNZ9wE",
-      "versionNumber": "2.1.0+26.2-fabric",
-      "filename": "reliable_gliders-2.1.0+26.2-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/pVIWsXir/versions/k1RNZ9wE/reliable_gliders-2.1.0%2B26.2-fabric.jar",
-      "sha1": "481efc9516155d73e439a9b4a11762b090e36d5d",
-      "sha512": "51483cebff7840ce03b2ac481925c339ecbc809bb2089c88fb04e891b2f6c91b5fa4eb22363de62e89fee77ec87e4706b336dcd92fa738a9bdfdf3ed924e5326",
-      "fileSize": 63373
+      "versionId": "Gb1KeTIt",
+      "versionNumber": "2.1.0+26.3-fabric",
+      "filename": "reliable_gliders-2.1.0+26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pVIWsXir/versions/Gb1KeTIt/reliable_gliders-2.1.0%2B26.3-fabric.jar",
+      "sha1": "ecfeab6f2f0df8ae0f5240b8601117eedd30ccca",
+      "sha512": "0e4833e1dc24b2d224c89852056d28faa61d743bd90a1ea336e26320026148ec67f6f9685e819470a000ebd38c67f2ee0072694899ec7aed1d30dc53c33f6b27",
+      "fileSize": 63459
     }
   },
   "dependents": [],
-  "optionalDependents": [
-    "PsGWhwc8"
-  ],
   "clientSide": "required",
   "serverSide": "required"
 }

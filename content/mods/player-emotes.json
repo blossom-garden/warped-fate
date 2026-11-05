@@ -1,0 +1,23 @@
+{
+  "name": "Player Emotes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "TfUCUpDy",
+      "slug": "player-emotes",
+      "versionId": "TKngB5W2",
+      "versionNumber": "2.0.3+26.3-fabric",
+      "filename": "playeremotes-fabric-2.0.3+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/TfUCUpDy/versions/TKngB5W2/playeremotes-fabric-2.0.3%2B26.3.jar",
+      "sha1": "da9404909b7c8cca4c72ab055ad0430cf54cec89",
+      "sha512": "98bbde8afcc1d291a6762460b1dd0ae900a4ed6b9e4de593ed00f19dfbac32881f46bd2433d1dfdca633c747f7397576abe903bd23f92ef1de6bef30c6cd1788",
+      "fileSize": 484554
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "67iT29W2",
       "slug": "toil-and-trouble",
-      "versionId": "Ny7o4qtk",
-      "versionNumber": "1.6.2+26.2-fabric",
-      "filename": "toil_and_trouble-1.6.2+26.2-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/67iT29W2/versions/Ny7o4qtk/toil_and_trouble-1.6.2%2B26.2-fabric.jar",
-      "sha1": "a83919de5e7e61db80813f8ddacac5da38f86c0b",
-      "sha512": "e297a4a7d44573391fae232deb66f583daac24b8220b6d0d0d6991c0279d966c745f51a43a481f3090d230af5f932d6915321becedbbe2bf1270939e7d365f1c",
-      "fileSize": 474008
+      "versionId": "2DPYeH8f",
+      "versionNumber": "1.6.2+26.3-fabric",
+      "filename": "toil_and_trouble-1.6.2+26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/67iT29W2/versions/2DPYeH8f/toil_and_trouble-1.6.2%2B26.3-fabric.jar",
+      "sha1": "6eec842b6f197cc2f865c57852157d6173576190",
+      "sha512": "112bafd3b43a8fa8ad9904fa3e8ad835c2bb3e6fd3ad33e8bc12f2d7908b6ec95a3c465853853791a3ee660ec4da3663c10483a4ca5dd0042627fe80f97664dd",
+      "fileSize": 474072
     }
   },
   "dependents": [],

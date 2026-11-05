@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "Fb4jn8m6",
       "slug": "fallingtree",
-      "versionId": "6wMhF5Oq",
-      "versionNumber": "26.2-26.2.0.4",
-      "filename": "FallingTree-26.2-25.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/6wMhF5Oq/FallingTree-26.2-25.jar",
-      "sha1": "9f583b0c57b964b2da6381fcec34ba124b65f509",
-      "sha512": "0e59ca949e50fc718ed4642ea8adaaa395e9fd3c5bbe136b0ef0c9f91144814682b6dfa9578ba77c3234ee27f55399d3ac9081eedf05fee0051013571aa3047c",
-      "fileSize": 493177
+      "versionId": "D0B62UJ5",
+      "versionNumber": "26.3-26.3.0.4",
+      "filename": "FallingTree-26.3-25.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/D0B62UJ5/FallingTree-26.3-25.jar",
+      "sha1": "8be6192279838fd6d319e4ec1acbfe45aba6e7c4",
+      "sha512": "d4a70898693bb9db6b159cfe2d0e86f7cb37a1be148568f039445c87029f65913909ebe76b6fd4311bd5f1a6e76c216b7dfc5ca3ab77733104b3fcc5481d5060",
+      "fileSize": 493853
     },
     "curseforge": {
       "id": "349559",
       "slug": "falling-tree",
-      "versionId": "9264817",
-      "versionNumber": "26.2-26.2.0.4",
-      "filename": "FallingTree-26.2-25.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9264/817/FallingTree-26.2-25.jar",
-      "sha1": "3cc5750a05671ca8e461c95fb892ca9ac4112c76",
-      "fileSize": 493177
+      "versionId": "9264772",
+      "versionNumber": "26.3-26.3.0.4",
+      "filename": "FallingTree-26.3-25.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9264/772/FallingTree-26.3-25.jar",
+      "sha1": "9fd8df7ac38bc136e67119b1ec6109d24f71d07b",
+      "fileSize": 493853
     }
   },
   "dependents": [],

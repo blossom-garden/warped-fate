@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "dWMHBEAQ",
       "slug": "elytra-contrails-mod",
-      "versionId": "MPuC5AJ2",
-      "versionNumber": "1.6.9-26.2",
-      "filename": "elytratrails-1.6.9-26.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/dWMHBEAQ/versions/MPuC5AJ2/elytratrails-1.6.9-26.2.jar",
-      "sha1": "1ad24b841da532e3759e765379f3ff46c0b53ba6",
-      "sha512": "ca5c8c8bc60f9abdec7b9b353d611790ae8d33a35db2d382eca34cdaaf4296c2470d6d3c36d1e26104243f441ee0046016a1e97de15f68f268410511e5c6b3b2",
-      "fileSize": 394772
+      "versionId": "C4wdFxQq",
+      "versionNumber": "1.6.9-26.3",
+      "filename": "elytratrails-1.6.9-26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/dWMHBEAQ/versions/C4wdFxQq/elytratrails-1.6.9-26.3.jar",
+      "sha1": "2bc8ea6094851951ce0aced326ebcbc43b09405b",
+      "sha512": "2502834822983aa89be9ee580fc7a18f68628b9f7da2d236e6b8b4281e2e082a8949a6e1c62aaa552c06509ef7ab0da5746146354ac5a5b527cc0cd4f618e990",
+      "fileSize": 390816
     },
     "curseforge": {
       "id": "1462041",

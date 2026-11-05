@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "ghrZDhGW",
       "slug": "skinrestorer",
-      "versionId": "rPmMM0mv",
-      "versionNumber": "2.11.0+26.1-fabric",
-      "filename": "skinrestorer-2.11.0+26.1-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/ghrZDhGW/versions/rPmMM0mv/skinrestorer-2.11.0%2B26.1-fabric.jar",
-      "sha1": "4312ba036569c937ff05cdf2e8c68e8d87cb974f",
-      "sha512": "99765550112f89ccacce7e9999c4c6315783a779f3a94bbb227a95671458552984aacca2fb4ea57ef49a902b254d30502f3a7897d6e9d0fd488496d1a0d218d1",
-      "fileSize": 285906
+      "versionId": "uPYFkQMi",
+      "versionNumber": "2.11.1+26.3-fabric",
+      "filename": "skinrestorer-2.11.1+26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ghrZDhGW/versions/uPYFkQMi/skinrestorer-2.11.1%2B26.3-fabric.jar",
+      "sha1": "452e7c5cf7686986edfb3339e5439ac971908080",
+      "sha512": "5420ca98c018d4b1ef60329c983b8e73ccb034e29175a7660442ca2b24e706c64a15d0afa54a3dc55b188d67623e981aef5e61be36cc57d2fc11d6177b935d3b",
+      "fileSize": 286794
     }
   },
   "dependents": [],

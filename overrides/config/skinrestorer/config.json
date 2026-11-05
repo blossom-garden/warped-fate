@@ -1,0 +1,77 @@
+{
+  "language": "pt_br",
+  "command": {
+    "enabled": true,
+    "permissionLevel": 0,
+    "targetsPermissionLevel": 2
+  },
+  "storage": {
+    "location": "world"
+  },
+  "join": {
+    "refreshSkin": true,
+    "skipRefreshProviders": [],
+    "applyDelay": 0,
+    "autoFetch": {
+      "enabled": true,
+      "overrideExisting": false,
+      "providers": [
+        "mojang",
+        "eclipsia",
+        "ely.by"
+      ]
+    }
+  },
+  "request": {
+    "proxy": "",
+    "timeout": 10,
+    "userAgent": ""
+  },
+  "providers": {
+    "mojang": {
+      "enabled": true,
+      "name": "mojang",
+      "cache": {
+        "enabled": true,
+        "duration": 60
+      }
+    },
+    "ely_by": {
+      "enabled": true,
+      "name": "ely.by",
+      "cache": {
+        "enabled": true,
+        "duration": 60
+      }
+    },
+    "mineskin": {
+      "apiKey": "",
+      "proxyUrlUpload": false,
+      "allowedDomains": [],
+      "enabled": true,
+      "name": "web",
+      "cache": {
+        "enabled": true,
+        "duration": 300
+      }
+    },
+    "collection": {
+      "sources": [],
+      "enabled": false,
+      "name": "collection",
+      "cache": {
+        "enabled": true,
+        "duration": 604800
+      }
+    },
+    "custom": [
+      {
+        "type": "username-url",
+        "enabled": true,
+        "name": "eclipsia",
+        "urlTemplate": "https://eclipsia.undo.it/skins/{username}.png"
+      }
+    ]
+  },
+  "version": 3
+}

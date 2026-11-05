@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "XebnAuVc",
       "slug": "exposure-unofficial",
-      "versionId": "uc8CP0B9",
-      "versionNumber": "1.9.18-unofficial-beta.1",
-      "filename": "exposure-fabric-26.2-1.9.18-unofficial-beta.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/XebnAuVc/versions/uc8CP0B9/exposure-fabric-26.2-1.9.18-unofficial-beta.1.jar",
-      "sha1": "68b45ccd243df742f1829533525c868c1669b013",
-      "sha512": "d4a1fb921953acf51c66a89931d28aaaf9c5a1ea4616a52b7bae8eda7319ed7d4dce88bea10c808564764e1daad5d7c65f2432f63fcdcc326291a4798cddd936",
-      "fileSize": 1999108
+      "versionId": "GVrJjiDF",
+      "versionNumber": "0.1.2",
+      "filename": "exposure-unofficial-fabric-26.3-0.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XebnAuVc/versions/GVrJjiDF/exposure-unofficial-fabric-26.3-0.1.2.jar",
+      "sha1": "3dd2fc76bed94faf4394a989f6e95623cf75faa8",
+      "sha512": "f1447b2b2af8b49b2e574c9ecb87e503d1fab5f136e47252bb6b3986cafda386537f347498a592cd01873922fcefa492add752787374f9dcc8cac609d65f62ed",
+      "fileSize": 1999818
     }
   },
   "dependents": [],

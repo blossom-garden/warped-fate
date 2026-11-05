@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "5Qu2osmI",
       "slug": "kaleidoscope-hodgepodge",
-      "versionId": "kNVKx4kZ",
-      "versionNumber": "1.1.0.3-fabric+mc26.2",
-      "filename": "kaleidoscope_hodgepodge-1.1.0.3-fabric+mc26.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/5Qu2osmI/versions/kNVKx4kZ/kaleidoscope_hodgepodge-1.1.0.3-fabric%2Bmc26.2.jar",
-      "sha1": "3cef27908d4a1ff05b7e400eac117e524156364b",
-      "sha512": "6b86f7be0a2b5b7d2d99a17b4afb132f9e89070843d166750652e5c7100bfec89c3fab05c703bc11c2b8c6983486ca0797620cdc799d39ad70dc73d812b521a4",
-      "fileSize": 866611
+      "versionId": "xei7nJnU",
+      "versionNumber": "1.1.0.3-fabric+mc26.3",
+      "filename": "kaleidoscope_hodgepodge-1.1.0.3-fabric+mc26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5Qu2osmI/versions/xei7nJnU/kaleidoscope_hodgepodge-1.1.0.3-fabric%2Bmc26.3.jar",
+      "sha1": "5fa3a585e60c06f9ebccca7285c0578ab765dcb4",
+      "sha512": "111994b5ad410e087fb3fae302c2b7e293221903d10d992d75a96d072b58cd3400c3f2e73b27f25f09710e76a4b2561685ea36c6085ff17304d4fcd7207f01c9",
+      "fileSize": 887008
     }
   },
   "dependents": [],

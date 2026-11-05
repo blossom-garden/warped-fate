@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "XlUm5I57",
       "slug": "icys-better-horses",
-      "versionId": "foR9MFYO",
+      "versionId": "AvgqdGip",
       "versionNumber": "2.1.8",
-      "filename": "icys-better-horses-2.1.8-fab-26.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/XlUm5I57/versions/foR9MFYO/icys-better-horses-2.1.8-fab-26.2.jar",
-      "sha1": "64b1f4e68544c262115b38d73f2f2aeabe1105ce",
-      "sha512": "1fe6683301c5cda3ace390f8905453648a6f70ce880e57e4332dbb8ca9792b6b9e507ae23365e3bcf4cf91042e2663cd23dc553abb9df94bb4791a5c874ebe93",
-      "fileSize": 3844059
+      "filename": "icys-better-horses-2.1.8-fab-26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XlUm5I57/versions/AvgqdGip/icys-better-horses-2.1.8-fab-26.3.jar",
+      "sha1": "416a88ecd840f134ed413d269b864ca242b7896c",
+      "sha512": "9af3c05ad430205c395c1e9ad60dbf45471f4ee3407447273f256998bec8bec8950880a36b62ea18013f6319d9be029d2a86d9cd8d3705f2be818b0766c376e0",
+      "fileSize": 3843841
     },
     "curseforge": {
       "id": "1527172",
       "slug": "icys-better-horses",
-      "versionId": "9361639",
-      "versionNumber": "icys-better-horses-2.1.8-fab-26.2.jar",
-      "filename": "icys-better-horses-2.1.8-fab-26.2.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9361/639/icys-better-horses-2.1.8-fab-26.2.jar",
-      "sha1": "64b1f4e68544c262115b38d73f2f2aeabe1105ce",
-      "fileSize": 3844059
+      "versionId": "9361631",
+      "versionNumber": "icys-better-horses-2.1.8-fab-26.3.jar",
+      "filename": "icys-better-horses-2.1.8-fab-26.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9361/631/icys-better-horses-2.1.8-fab-26.3.jar",
+      "sha1": "416a88ecd840f134ed413d269b864ca242b7896c",
+      "fileSize": 3843841
     }
   },
   "dependents": [],

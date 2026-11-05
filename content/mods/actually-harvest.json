@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "sUbuUC7R",
       "slug": "actually-harvest",
-      "versionId": "tIz9bIgx",
-      "versionNumber": "26.2-1.1.7.6-FABRIC",
-      "filename": "actuallyharvest-26.2-fabric-1.1.7.6-FABRIC.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/sUbuUC7R/versions/tIz9bIgx/actuallyharvest-26.2-fabric-1.1.7.6-FABRIC.jar",
-      "sha1": "417b3120d33151fd1752d4f8262785a82a13d077",
-      "sha512": "a0901dbffc36b6ffe00be333c27471eecd5754f1c75236268349a445a86204bcf5d8af7123c0f8523ad556695276e466be3348693c04fcaea8c927bcb2edfbeb",
-      "fileSize": 783101
+      "versionId": "o3ZVPnzT",
+      "versionNumber": "26.3-1.1.7.6-FABRIC",
+      "filename": "actuallyharvest-26.3-fabric-1.1.7.6-FABRIC.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sUbuUC7R/versions/o3ZVPnzT/actuallyharvest-26.3-fabric-1.1.7.6-FABRIC.jar",
+      "sha1": "6b2673debd00afefc4633f70215c63e101615da0",
+      "sha512": "c0af80aac1489761b76bf6f6be11205b37848149c6a6e1aee593ae875ccb295c30cde2b6c52e87199eb78c0fbd89e942c74006c830000d223441593baf7a0235",
+      "fileSize": 783160
     },
     "curseforge": {
       "id": "1076278",
       "slug": "actually-harvest",
-      "versionId": "8306850",
-      "versionNumber": "Fabric 26.2-1.1.7.6-FABRIC",
-      "filename": "actuallyharvest-26.2-fabric-1.1.7.6-FABRIC.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8306/850/actuallyharvest-26.2-fabric-1.1.7.6-FABRIC.jar",
-      "sha1": "417b3120d33151fd1752d4f8262785a82a13d077",
-      "fileSize": 783101
+      "versionId": "9001489",
+      "versionNumber": "Fabric 26.3-1.1.7.6-FABRIC",
+      "filename": "actuallyharvest-26.3-fabric-1.1.7.6-FABRIC.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9001/489/actuallyharvest-26.3-fabric-1.1.7.6-FABRIC.jar",
+      "sha1": "6b2673debd00afefc4633f70215c63e101615da0",
+      "fileSize": 783160
     }
   },
   "dependents": [],

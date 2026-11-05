@@ -1,0 +1,23 @@
+{
+  "name": "Better Sulfur Cubes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lbM9WGkI",
+      "slug": "better-sulfur-cubes",
+      "versionId": "P2OCfUsc",
+      "versionNumber": "1.0.5",
+      "filename": "better-sulfur-cubes-1.0.5-26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lbM9WGkI/versions/P2OCfUsc/better-sulfur-cubes-1.0.5-26.3.jar",
+      "sha1": "d5300f50756e229f49a80b694b0f6e1f034a477f",
+      "sha512": "a80886c06af9b42cc43a0e0d755e994dce32f3b717120c060a2fd2f425bb648a1c2d015dd041235badb0a428c08cbcad1aa2f492b71cb5fc4d59bd51e4254868",
+      "fileSize": 52716
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

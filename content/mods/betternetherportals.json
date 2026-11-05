@@ -1,0 +1,23 @@
+{
+  "name": "Better Nether Portals",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "bi0HAGC0",
+      "slug": "betternetherportals",
+      "versionId": "9yDuKDIN",
+      "versionNumber": "1.0.0",
+      "filename": "BetterNetherPortals-26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/bi0HAGC0/versions/9yDuKDIN/BetterNetherPortals-26.3.jar",
+      "sha1": "4453d37e66929138eaa3d82471cc756b9b450acf",
+      "sha512": "e14c0abc705ba4b983c677dfc93b4411e447fe80c117fb555242bb422ba278fbcecf3f12df59e70ca2ca9ac6a95bb5c21efd3303c60463572a02b86d6afbf759",
+      "fileSize": 296324
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

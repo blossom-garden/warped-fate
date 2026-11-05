@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "fX4dIQCo",
       "slug": "scholar",
-      "versionId": "HSHlx0J9",
-      "versionNumber": "1.2.10",
-      "filename": "scholar-fabric-26.2-1.2.10.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/fX4dIQCo/versions/HSHlx0J9/scholar-fabric-26.2-1.2.10.jar",
-      "sha1": "87b1c7fe1f97697a9f761af1a4fe6619881de481",
-      "sha512": "48b2db8f72f1be51fa0c02f699ac0b6f6547cf6440a96e40403758d7fcdc5153e57d88a91e06448ae2c4fcbda2a3cb6caaf3edf8bd018e6e98053775481ac8a2",
-      "fileSize": 740652
+      "versionId": "43vc4YZi",
+      "versionNumber": "1.2.12",
+      "filename": "scholar-fabric-26.3-1.2.12.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/fX4dIQCo/versions/43vc4YZi/scholar-fabric-26.3-1.2.12.jar",
+      "sha1": "96512caad30a5085c83cffc1ce69d866f6572f84",
+      "sha512": "09b6f85554548510b7e96cd76610a76ae323d48e400a1af2036b8c320347a9f1f10f50a2cf3db7ba0bfdc1394bbf2fb4a8f11966347fb4aa8cf43deb6c6d9a29",
+      "fileSize": 742828
     }
   },
   "dependents": [],

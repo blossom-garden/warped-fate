@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "6g9J441m",
       "slug": "keybindprofiles",
-      "versionId": "YUBdgDPB",
+      "versionId": "k5473m2d",
       "versionNumber": "1.1.0",
-      "filename": "keybindprofiles-1.1.0+fabric-mc26.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/6g9J441m/versions/YUBdgDPB/keybindprofiles-1.1.0%2Bfabric-mc26.2.jar",
-      "sha1": "e9aa54a6188252a65b157505e32004198ac6ebb8",
-      "sha512": "5e47f7c83b4ca03f7691e98f983ccda2d8fea0219ab5d8f5c989e4108184467f84f777969da84426f4e196522838b49932d819de9e5c8686891cfceb82762912",
-      "fileSize": 100010
+      "filename": "keybindprofiles-1.1.0+fabric-mc26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6g9J441m/versions/k5473m2d/keybindprofiles-1.1.0%2Bfabric-mc26.3.jar",
+      "sha1": "d22e6e07ba3f21ef9aec6cb049d3101b9a9cf9f0",
+      "sha512": "abac174aae98b669570aa44101976734a77daa6168f943062a58dcba9e75febad5b22a351bc2dea0606af5a6bed0bb1ee327d35cecdcad4d7af902e84f1f5bf3",
+      "fileSize": 99880
     }
   },
   "dependents": [],

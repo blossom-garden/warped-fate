@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "uTGjf7vA",
       "slug": "easy-npc-config-ui",
-      "versionId": "i6AJm4n7",
+      "versionId": "EAwdLvxz",
       "versionNumber": "7.18.0",
-      "filename": "easy_npc_config_ui-fabric-26.2-7.18.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/uTGjf7vA/versions/i6AJm4n7/easy_npc_config_ui-fabric-26.2-7.18.0.jar",
-      "sha1": "7c56fa07f143b8649f26d06358465eb795af3a85",
-      "sha512": "c2e08fde6493d5c083c5ba8e846de7edcae62a9c48c020ee6021d2973e67f00b77ae170e3c20f15ad34e072688b99df0a915c602125b5f023c181e1aa7f17513",
-      "fileSize": 1184273
+      "filename": "easy_npc_config_ui-fabric-26.3-7.18.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uTGjf7vA/versions/EAwdLvxz/easy_npc_config_ui-fabric-26.3-7.18.0.jar",
+      "sha1": "b7537d9227d62c8fc54c87362875b54d4744224d",
+      "sha512": "99b5ecd7cf05724272a55523699edb2a0b1925adbf11bd3137cb170425199d7688c5a2071106103c49b9869c4360f82c915f51aec8f1430d126c6849cab0b528",
+      "fileSize": 1184186
     },
     "curseforge": {
       "id": "1214728",
       "slug": "easy-npc-config-ui",
-      "versionId": "9412839",
-      "versionNumber": "easy_npc_config_ui-fabric-26.2-7.18.0.jar",
-      "filename": "easy_npc_config_ui-fabric-26.2-7.18.0.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9412/839/easy_npc_config_ui-fabric-26.2-7.18.0.jar",
-      "sha1": "7c56fa07f143b8649f26d06358465eb795af3a85",
-      "fileSize": 1184273
+      "versionId": "9413414",
+      "versionNumber": "easy_npc_config_ui-fabric-26.3-7.18.0.jar",
+      "filename": "easy_npc_config_ui-fabric-26.3-7.18.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9413/414/easy_npc_config_ui-fabric-26.3-7.18.0.jar",
+      "sha1": "b7537d9227d62c8fc54c87362875b54d4744224d",
+      "fileSize": 1184186
     }
   },
   "dependents": [],

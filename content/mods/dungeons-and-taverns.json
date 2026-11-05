@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "tpehi7ww",
       "slug": "dungeons-and-taverns",
-      "versionId": "y9AUViOD",
-      "versionNumber": "5.3.2+mod",
-      "filename": "dungeons-and-taverns-5.3.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/tpehi7ww/versions/y9AUViOD/dungeons-and-taverns-5.3.2.jar",
-      "sha1": "11d740c9d0b8c5917626531608af79e295521837",
-      "sha512": "af734c31a45cb7c7cc6630d4b258b588aade4ecc6db72d443d5f4d8151ffb2c7b6edfc8fbbe4cdbc6e85d41018bb54661cf9f1dba6226cccf3e18b1de3888703",
-      "fileSize": 39642964
+      "versionId": "hn5CugpP",
+      "versionNumber": "6.1.0+mod",
+      "filename": "dungeons-and-taverns-6.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/tpehi7ww/versions/hn5CugpP/dungeons-and-taverns-6.1.0.jar",
+      "sha1": "4e720945fda993b5f8da5c206dd1d5e8a46aecb8",
+      "sha512": "b143a1780d8eda2b548307f6cbd22b9e8b7a8b34e7f65de63179c94331ce875d72a2bdc0e01b885cfdeb09c13f215dfb8016d00f4511270ba9dd3c0744fcff9e",
+      "fileSize": 42595560
     },
     "curseforge": {
       "id": "853794",
       "slug": "dungeon-and-taverns",
-      "versionId": "8777945",
-      "versionNumber": "dungeons-and-taverns-5.3.2 [Fabric].jar",
-      "filename": "dungeons-and-taverns-5.3.2 [Fabric].jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8777/945/dungeons-and-taverns-5.3.2%20%5bFabric%5d.jar",
-      "sha1": "11d740c9d0b8c5917626531608af79e295521837",
-      "fileSize": 39642964
+      "versionId": "9380298",
+      "versionNumber": "dungeons-and-taverns-6.1.0 [Fabric].jar",
+      "filename": "dungeons-and-taverns-6.1.0-Fabric.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9380/298/dungeons-and-taverns-6.1.0-Fabric.jar",
+      "sha1": "4e720945fda993b5f8da5c206dd1d5e8a46aecb8",
+      "fileSize": 42595560
     }
   },
   "dependents": [],

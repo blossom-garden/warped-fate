@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "lWDHr9jE",
       "slug": "tectonic",
-      "versionId": "tGbplDzo",
-      "versionNumber": "3.0.28-fabric-26.2",
-      "filename": "tectonic-3.0.28-fabric-26.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/lWDHr9jE/versions/tGbplDzo/tectonic-3.0.28-fabric-26.2.jar",
-      "sha1": "11268df5a441a6f47644560c3e76266291b4940c",
-      "sha512": "c653ee42fe48c1be9512fa7791e8495095ae01cb607555202714bbb95cb49da272128bb295e8f8c262b63739e7ca2de4bba9196e1738b06012b498d220b55acf",
-      "fileSize": 451635
+      "versionId": "tRBGDcCT",
+      "versionNumber": "3.0.32-fabric-26.3",
+      "filename": "tectonic-3.0.32-fabric-26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lWDHr9jE/versions/tRBGDcCT/tectonic-3.0.32-fabric-26.3.jar",
+      "sha1": "0e02092d3756126354a6320147a22f9d78305929",
+      "sha512": "bf1e39b3dfaba524d2111572279816df3c60c6e90831c9ae8e6c13f9f5770223a30a6a3986f061f57e7ebe4cdb008cc30cb3a44d7816e2c12ba795a3b4ae79bb",
+      "fileSize": 390056
     }
   },
   "dependents": [],

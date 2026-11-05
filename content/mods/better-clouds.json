@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "5srFLIaK",
       "slug": "better-clouds",
-      "versionId": "6hLnIcGQ",
-      "versionNumber": "1.14.4",
-      "filename": "better-clouds-1.14.4+26.2-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/5srFLIaK/versions/6hLnIcGQ/better-clouds-1.14.4%2B26.2-fabric.jar",
-      "sha1": "174562cf10af91a55817ceb12d2a5af7f7be9ac3",
-      "sha512": "82aefd76c87c1784dabc46b1bbe03facc3bd77bd7cfa3a20f6ecbedeb21ce17a000bbc7536aa3220e1b3e86a47e1b09b93ead9c9570e4ab4cf9c7b2672b76711",
-      "fileSize": 1450548
+      "versionId": "3CZjRo4I",
+      "versionNumber": "1.15.0",
+      "filename": "better-clouds-1.15.0+26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5srFLIaK/versions/3CZjRo4I/better-clouds-1.15.0%2B26.3-fabric.jar",
+      "sha1": "b75fff9b6466e100c07ef2d94ad78d79b5d0cb61",
+      "sha512": "7c699587a559fdb9137a1b8c0a32ab19305e3c872af2a52b35edfed404e250596498446659caa3bfcd1b54a3e0acd08a6ab15d5291945577911803c022f33eec",
+      "fileSize": 1366634
     },
     "curseforge": {
       "id": "1285973",
       "slug": "better-clouds",
-      "versionId": "8884666",
-      "versionNumber": "Release 1.14.4 for 26.2 Fabric",
-      "filename": "better-clouds-1.14.4+26.2-fabric.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8884/666/better-clouds-1.14.4%2b26.2-fabric.jar",
-      "sha1": "174562cf10af91a55817ceb12d2a5af7f7be9ac3",
-      "fileSize": 1450548
+      "versionId": "9400988",
+      "versionNumber": "Release 1.15.0 for 26.3 Fabric",
+      "filename": "better-clouds-1.15.0-26.3-fabric.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9400/988/better-clouds-1.15.0-26.3-fabric.jar",
+      "sha1": "b75fff9b6466e100c07ef2d94ad78d79b5d0cb61",
+      "fileSize": 1366634
     }
   },
   "dependents": [],

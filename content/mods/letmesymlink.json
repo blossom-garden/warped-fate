@@ -1,0 +1,23 @@
+{
+  "name": "LetMeSymlink",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "eRckHE5W",
+      "slug": "letmesymlink",
+      "versionId": "WXVHDKyD",
+      "versionNumber": "1.0.0",
+      "filename": "letmesymlink-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/eRckHE5W/versions/WXVHDKyD/letmesymlink-1.0.0.jar",
+      "sha1": "c63ab191c566f0a2758e7098c9d5e06782577401",
+      "sha512": "d6466d71f0651af9efa1d74601c37c6733b5e66dad2272c9f1aec9b87271f5670c7f29eaf36a5eed6f6e7fe0a108498abe397c5b830609970c5c3d1b40da0b97",
+      "fileSize": 55004
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

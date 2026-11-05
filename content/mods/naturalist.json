@@ -1,0 +1,23 @@
+{
+  "name": "Naturalist",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "F8BQNPWX",
+      "slug": "naturalist",
+      "versionId": "4SzCjLeS",
+      "versionNumber": "2.0.7+26.3-fabric",
+      "filename": "naturalist-2.0.7-fabric-26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/F8BQNPWX/versions/4SzCjLeS/naturalist-2.0.7-fabric-26.3.jar",
+      "sha1": "1ede21ba19e6458c1f8c335b3425fdd07d055ccd",
+      "sha512": "69ab0b21eddb4ca33e082be27803ddaff6f9241a1f33d05e6b0579dd62b1c90955e0d12cb855d05e8769bc46cb866a6f1c57951c01962def31505fda0217820c",
+      "fileSize": 11406776
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

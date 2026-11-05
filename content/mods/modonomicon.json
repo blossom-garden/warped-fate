@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "692GClaE",
       "slug": "modonomicon",
-      "versionId": "pcUaUvgw",
-      "versionNumber": "26.2-2.5.0",
-      "filename": "modonomicon-26.2-fabric-2.5.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/692GClaE/versions/pcUaUvgw/modonomicon-26.2-fabric-2.5.0.jar",
-      "sha1": "48214490caa3dc329b01a498e39b07991ee6974d",
-      "sha512": "4d39f6953a426119681d1c9adc78552f20fa414904f1a5847673ff0b6ded51de2ba6473c4987c07e6681353ec0ee17ba2e2b1d1a8224d648e938e0075f883d49",
-      "fileSize": 3164456
+      "versionId": "DwjrSwcC",
+      "versionNumber": "26.3-2.20.0",
+      "filename": "modonomicon-26.3-fabric-2.20.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/692GClaE/versions/DwjrSwcC/modonomicon-26.3-fabric-2.20.0.jar",
+      "sha1": "358d40466e1352f629a9e465423feebb5c268f43",
+      "sha512": "c30583917f85f9a2459f2931864bf866efd45aa733ef07179cc5c5fd70e38f176ebeab3d6820d524fea7dd702cb1b3b6197edff95dc36ef74c1b6869f2147b70",
+      "fileSize": 3371298
     }
   },
   "dependents": [

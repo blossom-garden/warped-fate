@@ -1,0 +1,23 @@
+{
+  "name": "Reliable Requiem",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "a744zhJU",
+      "slug": "reliable-requiem",
+      "versionId": "xYElivWG",
+      "versionNumber": "2.1.0+26.3-fabric",
+      "filename": "reliable_requiem-2.1.0+26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/a744zhJU/versions/xYElivWG/reliable_requiem-2.1.0%2B26.3-fabric.jar",
+      "sha1": "e91d532515ec3abe284d0237070b100d398506ad",
+      "sha512": "647be674e1fda31c02229b3a73047823719eabd22d0e5c01469e621a053f93897ec318cd2743f34b55d86f0a9d266e2a0dbc065a1daaf5d0ceaef117fe92af97",
+      "fileSize": 80760
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

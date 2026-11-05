@@ -8,17 +8,23 @@
     "modrinth": {
       "id": "yMAHcHNr",
       "slug": "bcss",
-      "versionId": "M8UDJcrr",
-      "versionNumber": "2026.8.1",
-      "filename": "bluemap-custom-skin-server-2026.8.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/yMAHcHNr/versions/M8UDJcrr/bluemap-custom-skin-server-2026.8.1.jar",
-      "sha1": "1606281efa7a51107c351b05660e47ca3b78c2a3",
-      "sha512": "e34376cf937cc09a1f2ed5ee644268c0c0eb58b0269811b4c863ad79cd314c5a8733f7950da73d014871d7cba685e764920fbc6cb6108260468b9c2fdf1c2aae",
-      "fileSize": 3577109
+      "versionId": "qgLzJDdC",
+      "versionNumber": "2026.9.2",
+      "filename": "bluemap-custom-skin-server-2026.9.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/yMAHcHNr/versions/qgLzJDdC/bluemap-custom-skin-server-2026.9.2.jar",
+      "sha1": "30d04b3904890faed3dde663e30fb3edbcc78763",
+      "sha512": "bbeb4221789758cf2ccd082b4e4876d6d4325025f0c77c53763e1febce8157d916a46aa58617d9268a9d5b33a2cab2b9cf21968a9e32764a170ed7ee1da62e65",
+      "fileSize": 3577053
     },
     "curseforge": {
       "id": "649637",
-      "slug": "bluemap-custom-skin-server"
+      "slug": "bluemap-custom-skin-server",
+      "versionId": "9005130",
+      "versionNumber": "BlueMap Custom Skin Server 2026.9.2",
+      "filename": "bluemap-custom-skin-server-2026.9.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9005/130/bluemap-custom-skin-server-2026.9.2.jar",
+      "sha1": "30d04b3904890faed3dde663e30fb3edbcc78763",
+      "fileSize": 3577053
     }
   },
   "dependents": [],
