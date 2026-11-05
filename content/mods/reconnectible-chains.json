@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "5pzBXDS3",
       "slug": "reconnectible-chains",
-      "versionId": "8ZLglFmD",
-      "versionNumber": "2.4.4+26.3-fabric",
-      "filename": "connectiblechains-2.4.4+26.3-fabric.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/5pzBXDS3/versions/8ZLglFmD/connectiblechains-2.4.4%2B26.3-fabric.jar",
-      "sha1": "c09b30ad82c8b16221b4556ed9558da87ddd048a",
-      "sha512": "1c718f80e498ad1fb367375191c4ddedd1f1831380028aa912a5f85d08f36e7c20980d3069c73654d1875a7f0f662a805aac5dd5903045c726c82fe23ea9a857",
-      "fileSize": 266872
+      "versionId": "Zp5GdZ3j",
+      "versionNumber": "2.5.0+26.3-fabric",
+      "filename": "connectiblechains-2.5.0+26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5pzBXDS3/versions/Zp5GdZ3j/connectiblechains-2.5.0%2B26.3-fabric.jar",
+      "sha1": "e35c97378f7b82af95e5e588bee72b7ce8e85ee6",
+      "sha512": "7ff8cd4c97204d5e80e6ace6560a0d0a4a4b72a763b44dae8bc30651625d82d729177e7f7af8a670a1d8a106251562ea69a0ee6e613477e7329fd7b73ef5eeeb",
+      "fileSize": 271897
     }
   },
   "dependents": [],

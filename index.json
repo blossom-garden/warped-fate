@@ -130,7 +130,7 @@
     },
     {
       "path": "content/mods/cicada.json",
-      "sha1": "a304a5712af212a0fbb1497aa55d6fba4a94a979"
+      "sha1": "14f5a3023d252319e2183a0c1efe81c9dd809f7c"
     },
     {
       "path": "content/mods/clientsort.json",
@@ -246,7 +246,7 @@
     },
     {
       "path": "content/mods/fabric-api.json",
-      "sha1": "c898cc22dd17b524f264542fd1d5d7d81e81e4e0"
+      "sha1": "b8a2fa5de9936318b1cfbcb28fd837b784097154"
     },
     {
       "path": "content/mods/fabric-language-kotlin.json",
@@ -353,10 +353,6 @@
       "sha1": "4c35e169e5eda3da392c908805f64269d9e561b2"
     },
     {
-      "path": "content/mods/leawind-third-person.json",
-      "sha1": "c9d70dece56c9f73193e3f4d806cea698d3415e8"
-    },
-    {
       "path": "content/mods/let-them-talk.json",
       "sha1": "d7a14fe0585a21fdece517dd27d0dc88b2647374"
     },
@@ -393,28 +389,16 @@
       "sha1": "bd8d1208bf27e7a6ffa0e93e97d9723834860dc6"
     },
     {
-      "path": "content/mods/minecraft-comes-alive-reborn.json",
-      "sha1": "4a94fe9ce49345bbebe8b1623b41c7adf1b7eb4e"
-    },
-    {
-      "path": "content/mods/mob-chains.json",
-      "sha1": "147b31efa98a56115bd556adc44f28f537ec3fb2"
-    },
-    {
       "path": "content/mods/mod-loading-screen.json",
       "sha1": "7ebb0dbf0ed98e5f62f064f278f45ee49ace12db"
     },
     {
       "path": "content/mods/modmenu.json",
-      "sha1": "09c000e615e9f63bd13c3931d2c2b0fd3b6f9813"
+      "sha1": "f4832cae847201d4a6e90d15750f2e61c7347fc3"
     },
     {
       "path": "content/mods/modonomicon.json",
       "sha1": "3af3addc4f9e4d79a3bdfad5b51cc45fea027189"
-    },
-    {
-      "path": "content/mods/motion-capture.json",
-      "sha1": "877b220751f521a3d42066147d9f2c297ac4e9b0"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
@@ -449,10 +433,6 @@
       "sha1": "7caf10b920a3140f3a087c5b5d29d633a0a61d02"
     },
     {
-      "path": "content/mods/owo-lib.json",
-      "sha1": "c142c5cea2743a3d75cbc8eb4f0bdd53d916f2de"
-    },
-    {
       "path": "content/mods/packed-packs.json",
       "sha1": "71cd4a26dc93b7dabfd750db0ab3a9df919cda01"
     },
@@ -469,16 +449,12 @@
       "sha1": "4d19c5b320d0ede85865993f1d56e8bc5b9b67be"
     },
     {
-      "path": "content/mods/perspective-api.json",
-      "sha1": "d6802d47f5f196879af65d33bc91e7b4972195ec"
-    },
-    {
       "path": "content/mods/placeholder-api.json",
       "sha1": "524679ca95ce88f5553a2fb663a16ee19820a9bf"
     },
     {
       "path": "content/mods/player-animation-library.json",
-      "sha1": "9399a4c7746751197115546314ac1c138fdb86a4"
+      "sha1": "4c483fd1ce83f576d32bbf9e332ff7d79e9cf356"
     },
     {
       "path": "content/mods/player-emotes.json",
@@ -486,7 +462,7 @@
     },
     {
       "path": "content/mods/polytone.json",
-      "sha1": "1873f0bec1645f32bc614f2fc119d5d6c1b0ad9e"
+      "sha1": "2a5fb1c4bb70fd606f70ca8a7e16199a3b7e820b"
     },
     {
       "path": "content/mods/portal-cornerlink.json",
@@ -506,7 +482,7 @@
     },
     {
       "path": "content/mods/reconnectible-chains.json",
-      "sha1": "2a0454084b32c84257174373d7347e6c8ff4b8c3"
+      "sha1": "8859c63bd6b4457e1f04287c2f1da6e63a145c02"
     },
     {
       "path": "content/mods/reeses-sodium-options.json",
@@ -561,10 +537,6 @@
       "sha1": "1a908b6eeee9d29990714092d9a72a03659cb9eb"
     },
     {
-      "path": "content/mods/show-me-your-skin.json",
-      "sha1": "ebe33b706631daf0a840aaa6f5ef151ecc788877"
-    },
-    {
       "path": "content/mods/simple-blood.json",
       "sha1": "3006b6ea56e56dbc5a60d3604295e4a82289eebf"
     },
@@ -590,7 +562,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "4542039dfb3602f26f36e41e8dcd4702bbc8bc53"
+      "sha1": "461fa9fceb43b0fda500fc0eb71e666828962de6"
     },
     {
       "path": "content/mods/spatial-gui.json",
@@ -678,7 +650,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "68eec6961b72ff1e8da9244caa63c9cc1729db22"
+      "sha1": "8009a969e37d971ac73514a0f698a85aa0883411"
     },
     {
       "path": "content/mods/yori3os-grappling-hooks.json",

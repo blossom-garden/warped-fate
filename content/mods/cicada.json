@@ -1,7 +1,7 @@
 {
   "name": "CICADA",
   "side": "auto",
-  "explicit": false,
+  "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
@@ -17,9 +17,7 @@
       "fileSize": 360542
     }
   },
-  "dependents": [
-    "bD7YqcA3"
-  ],
+  "dependents": [],
   "clientSide": "optional",
   "serverSide": "optional"
 }

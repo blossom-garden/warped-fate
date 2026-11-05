@@ -1,6 +1,6 @@
 # Warped Fate
 
-**Minecraft 26.3 · fabric 0.20.1**, 142 mods (32 dependencies), 17 resource packs, 1 data pack
+**Minecraft 26.3 · fabric 0.20.1**, 137 mods (30 dependencies), 17 resource packs, 1 data pack
 
 ## Contents
 
@@ -30,6 +30,7 @@
 - [ButterBee - Mob Variants](https://modrinth.com/project/butterbee) `1.1.0-mod-26.3`
 - [Capes](https://modrinth.com/project/capes) `1.5.10+26.3`
 - [Chunksmith](https://modrinth.com/project/chunksmith) `4.8.0+26.3`
+- [CICADA](https://modrinth.com/project/cicada) `0.15.3+26.3`
 - [Client Sort](https://modrinth.com/project/clientsort) `3.104.1+26.3`
 - [CliffTree](https://modrinth.com/project/clifftree) `4.0.1-fabric-26.3`
 - [Clumps](https://modrinth.com/project/clumps) `26.3.2`
@@ -84,18 +85,14 @@
 - [KeyBindProfiles](https://modrinth.com/project/keybindprofiles) `1.1.0`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.13.0+26.3`
 - [Language Reload](https://modrinth.com/project/language-reload) `1.7.8+26.3`
-- [Leawind's Third Person](https://modrinth.com/project/leawind-third-person) `3.0.3-beta+fabric-26.2`
 - [Let Them Talk (LTT)](https://modrinth.com/project/let-them-talk) `1.0.3+26.3+fabric`
 - [LetMeSymlink](https://modrinth.com/project/letmesymlink) `1.0.0`
 - [Liteminer](https://modrinth.com/project/liteminer) `4.5.2+26.3`
 - [Loadstone - Chunk Loader](https://modrinth.com/project/load-stone) `3.0+26.3`
 - [Lootr](https://modrinth.com/project/lootr) `1.25.42.124`
 - [MagicParticles](https://modrinth.com/project/magicparticles) `1.3.2+26.3`
-- [MCA Reborn](https://modrinth.com/project/minecraft-comes-alive-reborn) `8.1.11+26.2`
-- [Mob Chains](https://modrinth.com/project/mob-chains) `1.0.0`
 - [Mod Loading Screen](https://modrinth.com/project/mod-loading-screen) `1.0.5`
 - [Mod Menu](https://modrinth.com/project/modmenu) `21.0.0`
-- [Motion Capture](https://modrinth.com/project/motion-capture) `1.3.10-fabric-26.2`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `26.3-2.31-fabric`
 - [Naturalist](https://modrinth.com/project/naturalist) `2.0.7+26.3-fabric`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `Fabric-26.3-v2.21.0`
@@ -103,7 +100,6 @@
 - [OmniCrossbow](https://modrinth.com/project/omnicrossbow) `1.1.4+mc26.3`
 - [OmniCut: Better Wood, Copper, and Stone Cutter](https://modrinth.com/project/omnicut-better-wood-stone-cutter) `1.121.0+mod`
 - [Origins: Legacy](https://modrinth.com/project/origins-legacy) `1.12.20+26.3`
-- [oωo (owo-lib)](https://modrinth.com/project/owo-lib) `0.13.1+26.2`
 - [Packed Packs](https://modrinth.com/project/packed-packs) `2.3.1+26.3`
 - [Paladins & Priests (RPG Series)](https://modrinth.com/project/paladins-and-priests) `3.1.4.1+26.3-fabric`
 - [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.3+26.3-fabric`
@@ -116,7 +112,7 @@
 - [Pufferfish's Skills](https://modrinth.com/project/skills) `0.19.2`
 - [quick pack](https://modrinth.com/project/quick-pack) `fabric-1.5.1+26.3`
 - [rainbow's foliage: polytone](https://modrinth.com/project/rainbows-foliage) `2.2`
-- [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.4+26.3-fabric`
+- [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.5.0+26.3-fabric`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc26.3-2.2.6-beta.1+fabric`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `2.1.0+26.3-fabric`
 - [Reliable Name Tags](https://modrinth.com/project/reliable-name-tags) `2.1.0+26.1.2-fabric`
@@ -129,14 +125,13 @@
 - [Scholar](https://modrinth.com/project/scholar) `1.2.12`
 - [Seamless Ores](https://modrinth.com/project/seamless-ores) `5.1.0+fabric`
 - [SeamlessChunks](https://modrinth.com/project/schunks) `0.1.0-beta.7+26.3-fabric`
-- [Show Me Your Skin!](https://modrinth.com/project/show-me-your-skin) `2.0.3+26.2`
 - [Simple Blood](https://modrinth.com/project/simple-blood) `1.2.1+26.3`
 - [Simple Grass Flowers](https://modrinth.com/project/simple-grass-flowers) `2.0.0`
 - [Simple Lower Grass Sides](https://modrinth.com/project/simple-lower-grass-sides) `1.2.0`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `fabric-2.6.27+26.3`
 - [Skin Restorer](https://modrinth.com/project/skinrestorer) `2.11.1+26.3-fabric`
 - [Skin Shuffle](https://modrinth.com/project/skinshuffle) `2.14.0+26.3-fabric`
-- [Sodium](https://modrinth.com/project/sodium) `mc26.3-0.9.2-fabric`
+- [Sodium](https://modrinth.com/project/sodium) `mc26.3-0.9.3-beta.1-fabric`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc26.3-0.9.6-beta.1+fabric`
 - [Spatial GUI](https://modrinth.com/project/spatial-gui) `1.10.1-fabric+26.3`
 - [Spell Engine](https://modrinth.com/project/spell-engine) `1.10.9+26.3-fabric`
