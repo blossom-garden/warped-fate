@@ -66,10 +66,15 @@
     },
     "custom": [
       {
+        "urlTemplate": "https://eclipsia.undo.it/skins/{username}.png",
         "type": "username-url",
+        "useProviderSignature": false,
         "enabled": true,
         "name": "eclipsia",
-        "urlTemplate": "https://eclipsia.undo.it/skins/{username}.png"
+        "cache": {
+          "enabled": true,
+          "duration": 300
+        }
       }
     ]
   },

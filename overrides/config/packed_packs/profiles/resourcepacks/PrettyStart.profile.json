@@ -5,7 +5,6 @@
   "packIds": [
     "file/warped-fate-companion",
     "file/colored_lights-v1.6.zip",
-    "file/rainbows-foliage-polytone-edition-v2.1.zip",
     "file/Sun \u0026 Moon Fusion 3.zip",
     "file/sunbathing-v1.14.zip",
     "file/Wisps Wonderful Wildflowers v1.0.0.zip",
@@ -16,6 +15,7 @@
     "elytratrails:allaytrails",
     "elytratrails:arrowtrails",
     "elytratrails:xptrails",
+    "eclipticseasons:snowy_sodium_stairs",
     "continuity:glass_pane_culling_fix",
     "continuity:default",
     "scholar:colored_books",

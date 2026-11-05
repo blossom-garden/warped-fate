@@ -741,6 +741,10 @@
       "sha1": "06d72eb5f9d33e67d57a6de235c42b54ceba3bd3"
     },
     {
+      "path": "overrides/allowed_symlinks.txt",
+      "sha1": "905cde4312ef52f7a28c77c510b3d5cc938ebbb8"
+    },
+    {
       "path": "overrides/config/bcc-common.json",
       "sha1": "cb5dac84a9a2884deb40264721f44704074fdc81"
     },
@@ -769,8 +773,12 @@
       "sha1": "becf0506a11598157f55da3e7b70734308f7117d"
     },
     {
+      "path": "overrides/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+      "sha1": "7747d3347d5160756e071e9c01fe0f41c17d9ab2"
+    },
+    {
       "path": "overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-      "sha1": "ba9edbe4c923858509e040a5881f49bac410429b"
+      "sha1": "0288d786dd6dca7826e0c6b557f5f9609fb57c29"
     },
     {
       "path": "overrides/config/fancymenu/legacy_checklist.txt",
@@ -802,15 +810,15 @@
     },
     {
       "path": "overrides/config/packed_packs/profiles/resourcepacks/FreshStart.profile.json",
-      "sha1": "c8864ab7f02043c8612c35b20624d8c5c6759777"
+      "sha1": "0a58c23ffdab4b7d262cf096d409aec07bdc1ed4"
     },
     {
       "path": "overrides/config/packed_packs/profiles/resourcepacks/PrettyStart.profile.json",
-      "sha1": "25e877a4add242e6fd358ec17b3521964d887055"
+      "sha1": "6172dea26ff0c6dde7f577e05608839b1001207a"
     },
     {
       "path": "overrides/config/skinrestorer/config.json",
-      "sha1": "212de90d784f728c9ac4328f886ea2b156f4e4a1"
+      "sha1": "08622e63210fc3f8898e9c9349bc941277d7d964"
     },
     {
       "path": "overrides/config/spatial-gui.json5",
@@ -818,11 +826,11 @@
     },
     {
       "path": "overrides/icon.png",
-      "sha1": "9f969fb059c03e667162bc04b712173f41d77532"
+      "sha1": "5f249588ad0f9bf0388008a940c16dbfcae370fe"
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "4f1e05ac7f1892344b3571e8651a7999bbd60bac"
+      "sha1": "3107c732c2828eda6c798e42d8b03627d929ecad"
     },
     {
       "path": "overrides/packweaver.jar",
