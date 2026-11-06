@@ -1,0 +1,23 @@
+{
+  "name": "TalkBubbles",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BUpChT1v",
+      "slug": "talkbubbles",
+      "versionId": "Pdjq9AAD",
+      "versionNumber": "1.0.8+26.3",
+      "filename": "talkbubbles-1.0.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BUpChT1v/versions/Pdjq9AAD/talkbubbles-1.0.8.jar",
+      "sha1": "e79604a5eed3f0424263038dac230efc5d800119",
+      "sha512": "9f31c1d6b7be0a3764bf5b6de6722ecb2a7eb4be75cf8277e82feca6e1aa64f40ecda80850e5d76bdd1ebbef0a0a0a15ac23db6e2c5a32596f8c882d8ed7457a",
+      "fileSize": 23210
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

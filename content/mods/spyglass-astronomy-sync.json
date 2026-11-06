@@ -1,0 +1,26 @@
+{
+  "name": "Spyglass Astronomy Sync",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "idODwPra",
+      "slug": "spyglass-astronomy-sync",
+      "versionId": "Es5BIuq5",
+      "versionNumber": "1.1.1+26.3",
+      "filename": "spyglassastronomysync-1.1.1+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/idODwPra/versions/Es5BIuq5/spyglassastronomysync-1.1.1%2B26.3.jar",
+      "sha1": "47da637d488c2ca3923003cb67d4c5c546f99d52",
+      "sha512": "128f9423f32189b66c6eb66c1f5b2e029047a3c3f30c9da9e65a105ba062f7150bce241bceccade77fde30dd4c443835b904b206013b852c05fa35843d9785b5",
+      "fileSize": 54964
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "EdBSdqge"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

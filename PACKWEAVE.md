@@ -1,12 +1,13 @@
 # Eclipsia
 
-**Minecraft 26.3 · fabric 0.20.1**, 137 mods (32 dependencies), 17 resource packs
+**Minecraft 26.3 · fabric 0.20.1**, 147 mods (35 dependencies), 17 resource packs
 
 ## Contents
 
 - [[EMF] Entity Model Features](https://modrinth.com/project/entity-model-features) `3.3.12-fabric-26.3`
 - [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.2.7-fabric-26.3`
 - [Actually Harvest](https://modrinth.com/project/actually-harvest) `26.3-1.1.7.6-FABRIC`
+- [Advanced Chimneys](https://modrinth.com/project/advanced-chimneys) `26.3.0.2`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.10+mc26.3`
 - [Archers (RPG Series)](https://modrinth.com/project/archers) `3.1.4+26.3-fabric`
 - [Armory (RPG Series)](https://modrinth.com/project/armory-rpg-series) `1.5.3+26.3-fabric`
@@ -33,12 +34,14 @@
 - [Client Sort](https://modrinth.com/project/clientsort) `3.104.1+26.3`
 - [CliffTree](https://modrinth.com/project/clifftree) `4.0.1-fabric-26.3`
 - [Clumps](https://modrinth.com/project/clumps) `26.3.2`
+- [Collapsing Caves](https://modrinth.com/project/collapsing-caves) `1.7-Fabric-26.3`
 - [Continuity](https://modrinth.com/project/continuity) `3.0.1+26.3`
 - [Cool Rain](https://modrinth.com/project/coolrain) `1.4.0-26.3`
 - [Crawl](https://modrinth.com/project/crawl) `0.15.0`
 - [Critical Strike](https://modrinth.com/project/critical-strike) `1.0.6+26.3-fabric`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `5.0.0+26.3`
 - [Cull Leaves](https://modrinth.com/project/cull-leaves) `4.1.2+26.3-fabric`
+- [Dawn of Time](https://modrinth.com/project/dawn-of-time) `1.11.0`
 - [Drippy Loading Screen](https://modrinth.com/project/drippy-loading-screen) `3.1.6-26.3-fabric`
 - [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `6.1.0+mod`
 - [Dynamic FPS](https://modrinth.com/project/dynamic-fps) `3.11.10`
@@ -95,6 +98,7 @@
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `26.3-2.31-fabric`
 - [Naturalist](https://modrinth.com/project/naturalist) `2.0.7+26.3-fabric`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `Fabric-26.3-v2.21.0`
+- [Offgrid](https://modrinth.com/project/offgrid) `1.0.4+26.3-fabric`
 - [OmniCrossbow](https://modrinth.com/project/omnicrossbow) `1.1.4+mc26.3`
 - [OmniCut: Better Wood, Copper, and Stone Cutter](https://modrinth.com/project/omnicut-better-wood-stone-cutter) `1.121.0+mod`
 - [Origins: Legacy](https://modrinth.com/project/origins-legacy) `1.12.20+26.3`
@@ -103,6 +107,7 @@
 - [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.3+26.3-fabric`
 - [Particular ✨ Reforged](https://modrinth.com/project/particular-reforged) `1.5.7`
 - [Player Emotes](https://modrinth.com/project/player-emotes) `2.0.3+26.3-fabric`
+- [Pollution of the Realms](https://modrinth.com/project/pollution-of-the-realms) `26.3.0.2`
 - [PolyLight -  Simple Colored Lights](https://modrinth.com/project/polylight) `1.6`
 - [Portal Cornerlink](https://modrinth.com/project/portal-cornerlink) `1.1.0`
 - [Presence Footsteps](https://modrinth.com/project/presence-footsteps) `1.14.0+26.3`
@@ -124,6 +129,7 @@
 - [Seamless Ores](https://modrinth.com/project/seamless-ores) `5.1.0+fabric`
 - [SeamlessChunks](https://modrinth.com/project/schunks) `0.1.0-beta.7+26.3-fabric`
 - [Simple Blood](https://modrinth.com/project/simple-blood) `1.2.1+26.3`
+- [Simple Copper Pipes](https://modrinth.com/project/simple-copper-pipes) `2.2-mc26.3-fabric`
 - [Simple Grass Flowers](https://modrinth.com/project/simple-grass-flowers) `2.0.0`
 - [Simple Lower Grass Sides](https://modrinth.com/project/simple-lower-grass-sides) `1.2.0`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `fabric-2.6.27+26.3`
@@ -135,9 +141,13 @@
 - [Spatial GUI](https://modrinth.com/project/spatial-gui) `1.10.1-fabric+26.3`
 - [Spell Engine](https://modrinth.com/project/spell-engine) `1.10.9+26.3-fabric`
 - [Spell Power Attributes](https://modrinth.com/project/spell-power) `1.6.2+26.3-fabric`
+- [Spyglass Astronomy](https://modrinth.com/project/spyglass-astronomy) `1.0.27-mc26.3`
+- [Spyglass Astronomy Sync](https://modrinth.com/project/spyglass-astronomy-sync) `1.1.1+26.3`
 - [Sun & Moon Fusion](https://modrinth.com/project/sun-moon-fusion) `3`
 - [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.14`
 - [Take a Seat!](https://modrinth.com/project/tas) `1.0.4`
+- [TalkBubbles](https://modrinth.com/project/talkbubbles) `1.0.8+26.3`
+- [Talking Heads](https://modrinth.com/project/talkingheads) `1.1.4+26.3+fabric`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.32-fabric-26.3`
 - [Theone's Eating Animation Pack](https://modrinth.com/project/theones-eating-animation-pack) `1.0`
 - [Toil and Trouble](https://modrinth.com/project/toil-and-trouble) `1.6.2+26.3-fabric`

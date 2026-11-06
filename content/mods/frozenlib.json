@@ -1,0 +1,25 @@
+{
+  "name": "FrozenLib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "9KawNmQc",
+      "slug": "frozenlib",
+      "versionId": "W1wrCkKg",
+      "versionNumber": "3.0.3-mc26.3-fabric",
+      "filename": "FrozenLib-3.0.3-mc26.3-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9KawNmQc/versions/W1wrCkKg/FrozenLib-3.0.3-mc26.3-fabric.jar",
+      "sha1": "bb183a3faa8a772e4de0b072d91d9837e100fc3d",
+      "sha512": "267808f3cedaa9d6491853f0b6440291ac0e925927e73f5bf4d39b698e46f8f51b3d6a62e31da3a9f2cf0a686e0472a13a41effad92296824d0eb7758543dd4b",
+      "fileSize": 2484428
+    }
+  },
+  "dependents": [
+    "9r4ZkgSN"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

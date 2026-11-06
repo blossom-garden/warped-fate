@@ -1,0 +1,23 @@
+{
+  "name": "Pollution of the Realms",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "SN8xUUfR",
+      "slug": "pollution-of-the-realms",
+      "versionId": "bzioWbum",
+      "versionNumber": "26.3.0.2",
+      "filename": "adpother-26.3.0.2-fabric-build.0152.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/SN8xUUfR/versions/bzioWbum/adpother-26.3.0.2-fabric-build.0152.jar",
+      "sha1": "a500bd7c019e7a42b98443272b23a06ff051c94a",
+      "sha512": "372d1d0c0394c44e991b65a7e2cb6f6338d338ca15c04b724d081710144c658865d23609fed95f11e4cd8ed9fcf3cf5e283c7102380398a3bfdd3484a35c6610",
+      "fileSize": 843151
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

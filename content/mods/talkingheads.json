@@ -1,0 +1,23 @@
+{
+  "name": "Talking Heads",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Os35nfkh",
+      "slug": "talkingheads",
+      "versionId": "G8vIUTxk",
+      "versionNumber": "1.1.4+26.3+fabric",
+      "filename": "talking-heads-1.1.4+26.3+fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Os35nfkh/versions/G8vIUTxk/talking-heads-1.1.4%2B26.3%2Bfabric.jar",
+      "sha1": "4c5acf16df422fac735daff6b59bd9f17f58a936",
+      "sha512": "fe8ecd2decb2e6b5187efa1c8e62e7715355cba2f2a46130c080ae7f036efdab99f660b9b4eb122db7ef6338344de2377abdd325e3452f583173d4058eb16270",
+      "fileSize": 286762
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

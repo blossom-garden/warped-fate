@@ -1,0 +1,26 @@
+{
+  "name": "ForgeEndertech",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "EgS8gGp8",
+      "slug": "forgeendertech",
+      "versionId": "G2PeFNvS",
+      "versionNumber": "26.3.0.1",
+      "filename": "forgeendertech-26.3.0.1-fabric-build.0125.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/EgS8gGp8/versions/G2PeFNvS/forgeendertech-26.3.0.1-fabric-build.0125.jar",
+      "sha1": "0cea2e53bb22243e315e642d6c76f2c4170a6db1",
+      "sha512": "c73e4bc8ffb989dde42aa5a2231ec9ad902d720c629aa273650418815b7f3617af0881cee339d1905cf59fd49f2b10a311278f178dc9622b48160e0dff54a7ba",
+      "fileSize": 643923
+    }
+  },
+  "dependents": [
+    "SN8xUUfR",
+    "r2rWUhnP"
+  ],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

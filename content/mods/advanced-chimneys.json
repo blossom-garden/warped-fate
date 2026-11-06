@@ -1,0 +1,23 @@
+{
+  "name": "Advanced Chimneys",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "r2rWUhnP",
+      "slug": "advanced-chimneys",
+      "versionId": "VpcvOCw3",
+      "versionNumber": "26.3.0.2",
+      "filename": "adchimneys-26.3.0.2-fabric-build.0152.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/r2rWUhnP/versions/VpcvOCw3/adchimneys-26.3.0.2-fabric-build.0152.jar",
+      "sha1": "0138898e733a7c2db4abf8e7ccbfd86ad5c9ca60",
+      "sha512": "75cbc720f04658364445746ccdbccf219f60727929d3646ca3e5d2d84ac1760ae8892426ee0456d0a6de534a7ec277df7bf818f838396d7d8cc860f3d46bcb18",
+      "fileSize": 359987
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

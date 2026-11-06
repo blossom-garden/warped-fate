@@ -1,0 +1,25 @@
+{
+  "name": "Spyglass Astronomy",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "EdBSdqge",
+      "slug": "spyglass-astronomy",
+      "versionId": "ecgGUD5e",
+      "versionNumber": "1.0.27-mc26.3",
+      "filename": "spyglass_astronomy-1.0.27-mc26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/EdBSdqge/versions/ecgGUD5e/spyglass_astronomy-1.0.27-mc26.3.jar",
+      "sha1": "6b465517c82404fc5ec6f61510d02bbb233f9d20",
+      "sha512": "7cd120ca93cd7945ee13dc73259ef4787faebe796e90ccf62b60e5d1e9db49ffa9fdfe7aad87c8742edbd9911f352ea8a16c972d0b2172b63225f288a0ec06ae",
+      "fileSize": 139931
+    }
+  },
+  "dependents": [
+    "idODwPra"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

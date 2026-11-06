@@ -5,6 +5,10 @@
       "sha1": "3ab32bd97dfee2e6d053d4b1c93e63ee89ac95ef"
     },
     {
+      "path": "content/mods/advanced-chimneys.json",
+      "sha1": "765b11cd353976d2e92d4f6254e637c5c0df29c9"
+    },
+    {
       "path": "content/mods/amber.json",
       "sha1": "5d17bb7b3468ccc342b42b470d766c31b01ba808"
     },
@@ -134,11 +138,15 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "288ea8d96fd8f25a5ceb49477b8b1cecd6e3535c"
+      "sha1": "0ddc2c45f90df6b39cc70239d2e6f0c423f42b27"
     },
     {
       "path": "content/mods/clumps.json",
       "sha1": "e65440bb379bad79bd666abf26472eb2a8a853da"
+    },
+    {
+      "path": "content/mods/collapsing-caves.json",
+      "sha1": "53dea4b300f5397e41bba61c225245cd0a291a11"
     },
     {
       "path": "content/mods/continuity.json",
@@ -167,6 +175,10 @@
     {
       "path": "content/mods/data-anchor.json",
       "sha1": "ad1225f5d44f1c5d2158cae2ae7a9ac888c524a2"
+    },
+    {
+      "path": "content/mods/dawn-of-time.json",
+      "sha1": "dc724ceede08d3bbaf5663dc714705edf02e5190"
     },
     {
       "path": "content/mods/drippy-loading-screen.json",
@@ -246,7 +258,7 @@
     },
     {
       "path": "content/mods/fabric-api.json",
-      "sha1": "81b29d3782dfac97cfa7aec6d7c9789e68768eac"
+      "sha1": "2d65c8eae1a800f90e807d1e2ff51902e7623b36"
     },
     {
       "path": "content/mods/fabric-language-kotlin.json",
@@ -270,7 +282,19 @@
     },
     {
       "path": "content/mods/forge-config-api-port.json",
-      "sha1": "fc4db56b79252de2f90362fba3c8070defb293e2"
+      "sha1": "ad8683ec6fcdb852cf6c9172dac2b832dab35345"
+    },
+    {
+      "path": "content/mods/forgeendertech.json",
+      "sha1": "bf82cc5d095b575645a5f7560c7450cc74a5bde8"
+    },
+    {
+      "path": "content/mods/frozenlib.json",
+      "sha1": "c1e7d398cb7127a467ce2879d3e396edde7851f9"
+    },
+    {
+      "path": "content/mods/fusion-connected-textures.json",
+      "sha1": "cfbe232c48022f36e8e4fb490121bf3e4b3a99d1"
     },
     {
       "path": "content/mods/fwa.json",
@@ -398,7 +422,7 @@
     },
     {
       "path": "content/mods/modmenu.json",
-      "sha1": "f4832cae847201d4a6e90d15750f2e61c7347fc3"
+      "sha1": "032e050a4c7b3149a9da573b524bc12077378e2a"
     },
     {
       "path": "content/mods/modonomicon.json",
@@ -419,6 +443,10 @@
     {
       "path": "content/mods/no-chat-reports.json",
       "sha1": "ad2693556965830f22d3837c8096d6922c08cccf"
+    },
+    {
+      "path": "content/mods/offgrid.json",
+      "sha1": "bbb7bdadf0c21b06f67f0d999ba9d1eb402c9047"
     },
     {
       "path": "content/mods/omnicrossbow.json",
@@ -459,6 +487,10 @@
     {
       "path": "content/mods/player-emotes.json",
       "sha1": "bd72b0fb932a05001d9c93f7570fbcc976737d48"
+    },
+    {
+      "path": "content/mods/pollution-of-the-realms.json",
+      "sha1": "e25c5b59051628edbab4686cff9ff9acad5757df"
     },
     {
       "path": "content/mods/polytone.json",
@@ -541,8 +573,12 @@
       "sha1": "3006b6ea56e56dbc5a60d3604295e4a82289eebf"
     },
     {
+      "path": "content/mods/simple-copper-pipes.json",
+      "sha1": "96937794ce5c6b9cd190ae9bcd42ce846899b7f7"
+    },
+    {
       "path": "content/mods/simple-voice-chat.json",
-      "sha1": "bc7e8b60bd00462b2d053207d521777e43bf7466"
+      "sha1": "ecaacca25358458f8df36a6e5fdbe4ddafc51296"
     },
     {
       "path": "content/mods/skills.json",
@@ -566,7 +602,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "461fa9fceb43b0fda500fc0eb71e666828962de6"
+      "sha1": "b3875dd0bf459c03f75deb81b2ce2eaf062eb3cd"
     },
     {
       "path": "content/mods/spatial-gui.json",
@@ -581,12 +617,28 @@
       "sha1": "9f977f7ad47291c5ced1056756cf02c12c9a8863"
     },
     {
+      "path": "content/mods/spyglass-astronomy-sync.json",
+      "sha1": "464f8832c239513756da1328cac231fc22667121"
+    },
+    {
+      "path": "content/mods/spyglass-astronomy.json",
+      "sha1": "7568e34028609da5b1da324336ab8fa440078c76"
+    },
+    {
       "path": "content/mods/strawberrylib.json",
       "sha1": "bed49551174e1f5739ab2c0b399a1478ac70d237"
     },
     {
       "path": "content/mods/structure-pool-api.json",
       "sha1": "7b1fe605860ec925408f9c6ca102ec6802b33831"
+    },
+    {
+      "path": "content/mods/talkbubbles.json",
+      "sha1": "b1b9fefbacc01325bc74f4771f0020fadaac5df3"
+    },
+    {
+      "path": "content/mods/talkingheads.json",
+      "sha1": "ea716cb4caa7b92de5cd1210b1e027ab27bd70da"
     },
     {
       "path": "content/mods/tas.json",
@@ -654,7 +706,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "8009a969e37d971ac73514a0f698a85aa0883411"
+      "sha1": "c252c84fbafb9a8c88e3e7f06dd17002db74c15d"
     },
     {
       "path": "content/mods/yori3os-grappling-hooks.json",

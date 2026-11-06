@@ -1,0 +1,23 @@
+{
+  "name": "Offgrid",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vvgTqF0n",
+      "slug": "offgrid",
+      "versionId": "H4rTCX81",
+      "versionNumber": "1.0.4+26.3-fabric",
+      "filename": "offgrid-fabric-1.0.4+26.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vvgTqF0n/versions/H4rTCX81/offgrid-fabric-1.0.4%2B26.3.jar",
+      "sha1": "05f21b335eedd0b70fcb69614b30cae571c45e14",
+      "sha512": "98d82b6c00bc795c0127af43c67db41d835e928b6ca21f41354c4957e2bc6670913fb847c34dffa046db89819ffa54d4aa03af970c867d067fb44b7829c17535",
+      "fileSize": 741396
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
